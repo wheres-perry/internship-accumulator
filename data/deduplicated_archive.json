@@ -125,8 +125,7 @@
       "IL",
       "West Palm Beach",
       "FL",
-      "Miami",
-      "FL"
+      "Miami"
     ],
     "link": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081",
     "sponsorship": null,
@@ -779,7 +778,6 @@
       "North Reading",
       "MA",
       "Westboro",
-      "MA",
       "Nashville",
       "TN",
       "Austin",
@@ -788,8 +786,7 @@
       "VA",
       "Bellevue",
       "WA",
-      "Seattle",
-      "WA"
+      "Seattle"
     ],
     "link": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
     "sponsorship": null,
@@ -833,7 +830,6 @@
       "San Francisco",
       "CA",
       "Palo Alto",
-      "CA",
       "New York",
       "NY",
       "Seattle",
@@ -856,8 +852,7 @@
       "CA",
       "Redmond",
       "WA",
-      "Northridge",
-      "CA"
+      "Northridge"
     ],
     "link": "",
     "sponsorship": null,
@@ -1906,7 +1901,6 @@
       "Costa Mesa",
       "CA",
       "Irvine",
-      "CA",
       "Reston",
       "VA",
       "Seattle",
@@ -2486,8 +2480,7 @@
       "CA",
       "Seattle",
       "WA",
-      "Sunnyvale",
-      "CA"
+      "Sunnyvale"
     ],
     "link": "https://jobs.uber.com/en/jobs/300697",
     "sponsorship": null,
@@ -5001,6 +4994,19 @@
   },
   {
     "company": "TikTok",
+    "role": "Machine Learning Engineer Intern - Basic Ranking",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7667339583362025781",
+    "sponsorship": null,
+    "requires_us_citizenship": false,
+    "is_closed": false,
+    "date_posted": "2026-08-03",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
     "role": "Machine Learning Engineer Intern - Data Search - Visual Search",
     "locations": [
       "San Jose, CA"
@@ -5356,8 +5362,7 @@
       "VA",
       "Plano",
       "TX",
-      "Richmond",
-      "VA"
+      "Richmond"
     ],
     "link": "",
     "sponsorship": false,
@@ -5557,6 +5562,19 @@
       "Hawthorne, CA"
     ],
     "link": "https://boards.greenhouse.io/spacex/jobs/8621757002",
+    "sponsorship": null,
+    "requires_us_citizenship": false,
+    "is_closed": false,
+    "date_posted": "2026-08-04",
+    "source": "simplify"
+  },
+  {
+    "company": "Chicago Trading Company",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
     "sponsorship": null,
     "requires_us_citizenship": false,
     "is_closed": false,
@@ -8269,7 +8287,7 @@
       "NC"
     ],
     "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
-    "sponsorship": null,
+    "sponsorship": false,
     "requires_us_citizenship": true,
     "is_closed": false,
     "date_posted": "2026-08-17",
@@ -9428,6 +9446,19 @@
       "Seattle, WA"
     ],
     "link": "https://lifeattiktok.com/search/7675845333947812149",
+    "sponsorship": null,
+    "requires_us_citizenship": false,
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://lifeattiktok.com/search/7675847556668295429",
     "sponsorship": null,
     "requires_us_citizenship": false,
     "is_closed": false,
