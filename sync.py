@@ -435,7 +435,7 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 # =====================================================================
 
 
-def generate_markdown(listings: List[Dict[str, Any]], current_time: datetime):
+def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
     """Writes the active 30-day sliding window listings to README.md."""
     cutoff_date = (current_time - timedelta(days=SLIDING_WINDOW_DAYS)).strftime(
         "%Y-%m-%d"
