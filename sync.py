@@ -4,7 +4,7 @@ import json
 import os
 import re
 from datetime import datetime, timedelta, timezone
-from typing import Any
+from typing import Any, Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -42,7 +42,7 @@ MIN_EXPECTED_ITEMS = {"sndsh404": 15, "simplify": 20, "vanshb03": 15}
 # =====================================================================
 
 
-def clean_url(url: str | None) -> str:
+def clean_url(url: Optional[str]) -> str:
     """Strips UTM parameters, tracking IDs, and trailing slashes for canonical matching."""
     if not url or url.startswith("#") or url == "🔒":
         return ""
@@ -55,7 +55,7 @@ def clean_url(url: str | None) -> str:
     return url
 
 
-def parse_relative_or_text_date(raw_date: str | None, fallback_date: datetime) -> str:
+def parse_relative_or_text_date(raw_date: Optional[str], fallback_date: datetime) -> str:
     """Parses ISO dates, textual dates ('Aug 21'), and relative age tags ('0d', '2w', '1mo')."""
     if not raw_date or raw_date.strip() in ["-", "", "None"]:
         return fallback_date.strftime("%Y-%m-%d")
@@ -105,6 +105,113 @@ def normalize_title_for_comparison(title: str) -> str:
     )
     t = re.sub(r"[^a-z0-9]", " ", t)
     return " ".join(t.split())
+
+
+def sanitize_listing_item(item: dict[str, Any]) -> dict[str, Any]:
+    """Removes fields that should never be stored in the persisted JSON outputs."""
+    cleaned = dict(item)
+    for key in ("sponsorship", "requires_us_citizenship"):
+        cleaned.pop(key, None)
+    return cleaned
+
+
+def sanitize_listing_list(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Normalizes persisted listings before writes and merges."""
+    return [sanitize_listing_item(item) for item in items if isinstance(item, dict)]
+
+
+US_STATE_CODES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
+    "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
+    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
+    "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
+    "DC", "PR",
+}
+
+US_STATE_NAMES = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+    "maine", "maryland", "massachusetts", "michigan", "minnesota",
+    "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new hampshire", "new jersey", "new mexico", "new york",
+    "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode island", "south carolina", "south dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+    "west virginia", "wisconsin", "wyoming", "district of columbia", "puerto rico",
+}
+
+US_KEYWORDS = {
+    "usa", "us", "united states", "remote", "remote (us)", "remote - us",
+    "nyc", "sf", "la", "bay area", "silicon valley", "multiple us", "multiple locations",
+}
+
+NON_US_TERMS = {
+    "canada", "ontario", "quebec", "british columbia", "alberta", "manitoba",
+    "saskatchewan", "nova scotia", "toronto", "vancouver", "montreal", "montréal",
+    "waterloo", "ottawa", "calgary", "edmonton", "richmond hill", "mississauga",
+    "uk", "united kingdom", "london", "england", "scotland", "ireland", "dublin",
+    "manchester", "germany", "berlin", "munich", "netherlands", "amsterdam",
+    "france", "paris", "switzerland", "zurich", "sweden", "poland", "spain",
+    "singapore", "india", "japan", "tokyo", "china", "uae", "united arab emirates",
+    "dubai", "australia", "sydney", "melbourne", "cayman",
+}
+
+CANADIAN_PROV_CODES = {"ON", "QC", "BC", "AB", "MB", "SK", "NS", "NB", "NL", "PE"}
+
+
+def is_us_location(loc_str: str) -> bool:
+    """Evaluates whether an individual location string is US-based.
+    Defaults to True for ambiguous strings to avoid accidentally dropping domestic remote listings.
+    """
+    if not loc_str or not loc_str.strip():
+        return True
+
+    text = loc_str.strip()
+    lower_text = text.lower()
+
+    prov_match = re.search(r"(?:,\s*|\s+)([A-Z]{2})(?:\s+Canada|\b)", text)
+    if prov_match and prov_match.group(1) in CANADIAN_PROV_CODES:
+        return False
+
+    has_non_us_term = any(
+        re.search(rf"\b{re.escape(term)}\b", lower_text) for term in NON_US_TERMS
+    )
+
+    state_code_match = re.search(r"(?:,\s*|\s+)([A-Z]{2})\b", text)
+    has_us_state_code = bool(
+        state_code_match and state_code_match.group(1) in US_STATE_CODES
+    )
+
+    has_us_state_name = any(
+        re.search(rf"\b{re.escape(st)}\b", lower_text) for st in US_STATE_NAMES
+    )
+    has_us_keyword = any(
+        re.search(rf"\b{re.escape(kw)}\b", lower_text) for kw in US_KEYWORDS
+    )
+
+    is_explicit_us = has_us_state_code or has_us_state_name or has_us_keyword
+
+    if has_non_us_term and not is_explicit_us:
+        return False
+
+    return True
+
+
+def filter_us_listing(item: dict[str, Any]) -> Optional[dict[str, Any]]:
+    """Cleans a listing to only US locations; returns None when all locations are explicitly non-US."""
+    raw_locs = item.get("locations", [])
+    if not raw_locs:
+        return item
+
+    valid_us_locs = [loc for loc in raw_locs if is_us_location(loc)]
+
+    if not valid_us_locs:
+        return None
+
+    item["locations"] = valid_us_locs
+    return item
 
 
 # =====================================================================
@@ -491,7 +598,7 @@ def main():
     if os.path.exists(RAW_HISTORY_PATH):
         with open(RAW_HISTORY_PATH, "r", encoding="utf-8") as f:
             try:
-                raw_history = json.load(f)
+                raw_history = sanitize_listing_list(json.load(f))
             except json.JSONDecodeError:
                 raw_history = []
 
@@ -521,16 +628,28 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"⚠️ Exception parsing {src_name}: {e}")
 
-    # 3. Append to persistent raw history
-    raw_history.extend(incoming_raw)
+    # 3. Filter to US-only active listings before persisting history
+    us_only_incoming: list[dict[str, Any]] = []
+    for item in incoming_raw:
+        filtered = filter_us_listing(item)
+        if filtered is not None:
+            us_only_incoming.append(sanitize_listing_item(filtered))
+
+    print(
+        f"Filtered out {len(incoming_raw) - len(us_only_incoming)} non-US listings."
+    )
+
+    raw_history = sanitize_listing_list(raw_history)
+    raw_history.extend(us_only_incoming)
     with open(RAW_HISTORY_PATH, "w", encoding="utf-8") as f:
-        json.dump(raw_history, f, indent=2)
+        json.dump(sanitize_listing_list(raw_history), f, indent=2)
 
     # 4. Run lenient deduplication across full dataset
     print(f"Deduplicating {len(raw_history)} historical raw items...")
     deduped = deduplicate_lenient(raw_history)
     print(f"Resulted in {len(deduped)} canonical unique opportunities.")
 
+    deduped = sanitize_listing_list(deduped)
     with open(ARCHIVE_PATH, "w", encoding="utf-8") as f:
         json.dump(deduped, f, indent=2)
 
