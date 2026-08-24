@@ -435,18 +435,20 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 # =====================================================================
 
 
-def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
+def generate_markdown(listings: List[Dict[str, Any]], current_time: datetime):
     """Writes the active 30-day sliding window listings to README.md."""
     cutoff_date = (current_time - timedelta(days=SLIDING_WINDOW_DAYS)).strftime(
         "%Y-%m-%d"
     )
 
+    # Filter to 30-day sliding window and remove closed roles
     active_listings = [
         item
         for item in listings
         if item.get("date_posted", "") >= cutoff_date and not item.get("is_closed")
     ]
 
+    # Sort descending by date (newest postings at top)
     active_listings.sort(
         key=lambda x: (x.get("date_posted", ""), x.get("company", "")), reverse=True
     )
@@ -454,26 +456,18 @@ def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
     now_str = current_time.strftime("%Y-%m-%d %H:%M UTC")
     lines = [
         "# Summer 2027 Tech Internships\n",
-        "> *Auto-scraped and deduplicated daily across community repositories.*  ",
         f"> *Showing active listings from the last **{SLIDING_WINDOW_DAYS} days** (since `{cutoff_date}`).*  ",
         f"> *Last updated: `{now_str}`*\n",
-        "### Legend",
-        "- 🛂 Does **not** offer visa sponsorship",
-        "- 🇺🇸 Requires US Citizenship / Clearance",
-        "- 🔒 Closed\n",
+        "> **Note:** This repository is merely an automated aggregator and deduplicator. All the hard work of sourcing, curating, and maintaining these listings is done by the creators and contributors of the original repositories:",
+        "> - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)",
+        "> - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)",
+        "> - [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships)\n",
         "| Date Posted | Company | Job Title | Locations | Application Link |",
         "| :--- | :--- | :--- | :--- | :--- |",
     ]
 
     for item in active_listings:
-        badges = []
-        if item.get("sponsorship") is False:
-            badges.append("🛂")
-        if item.get("requires_us_citizenship"):
-            badges.append("🇺🇸")
-
-        badge_str = f" {' '.join(badges)}" if badges else ""
-        role_display = f"{item['role']}{badge_str}"
+        role_display = f"{item['role']}"
 
         locs = item.get("locations", ["United States"])
         loc_display = ", ".join(locs[:3])
