@@ -87,10 +87,8 @@ def parse_relative_or_text_date(raw_date: str | None, fallback_date: datetime) -
 
 
 def parse_emojis(text: str) -> dict[str, Any]:
-    """Extracts status and eligibility flags encoded as emojis."""
+    """Extracts closed status and removes metadata emojis from text."""
     return {
-        "sponsorship": False if "🛂" in text else None,
-        "requires_us_citizenship": "🇺🇸" in text,
         "is_closed": "🔒" in text,
         "clean_text": re.sub(r"[🛂🇺🇸🔒🎓🔥⏳*`]", "", text).strip(),
     }
@@ -147,8 +145,6 @@ def parse_sndsh404(raw_text: str, current_time: datetime) -> list[dict[str, Any]
                 "role": flags["clean_text"],
                 "locations": locations if locations else ["United States"],
                 "link": link,
-                "sponsorship": flags["sponsorship"],
-                "requires_us_citizenship": flags["requires_us_citizenship"],
                 "is_closed": flags["is_closed"] or "🔒" in apply_raw,
                 "date_posted": parse_relative_or_text_date(date_raw, current_time),
                 "source": "sndsh404",
@@ -221,8 +217,6 @@ def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]
                 "role": flags["clean_text"],
                 "locations": locations if locations else ["United States"],
                 "link": link,
-                "sponsorship": flags["sponsorship"],
-                "requires_us_citizenship": flags["requires_us_citizenship"],
                 "is_closed": flags["is_closed"],
                 "date_posted": parse_relative_or_text_date(age_text, current_time),
                 "source": "simplify",
@@ -279,8 +273,6 @@ def parse_vanshb03(raw_text: str, current_time: datetime) -> list[dict[str, Any]
                 "role": flags["clean_text"],
                 "locations": locations if locations else ["United States"],
                 "link": link,
-                "sponsorship": flags["sponsorship"],
-                "requires_us_citizenship": flags["requires_us_citizenship"],
                 "is_closed": "🔒" in app_raw or flags["is_closed"],
                 "date_posted": parse_relative_or_text_date(date_raw, current_time),
                 "source": "vanshb03",
@@ -341,10 +333,6 @@ def merge_listing_pair(
     merged = earlier.copy()
     if not merged.get("link") and incoming.get("link"):
         merged["link"] = incoming["link"]
-    if incoming.get("sponsorship") is False:
-        merged["sponsorship"] = False
-    if incoming.get("requires_us_citizenship"):
-        merged["requires_us_citizenship"] = True
     merged["locations"] = list(
         dict.fromkeys(merged.get("locations", []) + incoming.get("locations", []))
     )
