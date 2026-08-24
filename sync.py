@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import difflib
+import hashlib
 import json
 import os
 import re
@@ -10,10 +11,6 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 from openai import OpenAI
-
-# =====================================================================
-# Configuration & Constants
-# =====================================================================
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
 client = (
@@ -33,92 +30,16 @@ ARCHIVE_PATH = "data/deduplicated_archive.json"
 OUTPUT_README = "README.md"
 SLIDING_WINDOW_DAYS = 30
 
-# Minimum row count to ensure upstream tables haven't changed format/structure
 MIN_EXPECTED_ITEMS = {"sndsh404": 15, "simplify": 20, "vanshb03": 15}
 
-
-# =====================================================================
-# Normalization & Date Utilities
-# =====================================================================
-
-
-def clean_url(url: str | None) -> str:
-    """Strips UTM parameters, tracking IDs, and trailing slashes for canonical matching."""
-    if not url or url.startswith("#") or url == "🔒":
-        return ""
-    url = re.sub(
-        r"(\?|&)(utm_[^&=]+|ref|gh_src|iis|iisn|icims|jr_id|ats|mobile|needsRedirect)=[^&=]+",
-        "",
-        url,
-    )
-    url = re.sub(r"\?&", "?", url).rstrip("?&").rstrip("/")
-    return url
-
-
-def parse_relative_or_text_date(raw_date: str | None, fallback_date: datetime) -> str:
-    """Parses ISO dates, textual dates ('Aug 21'), and relative age tags ('0d', '2w', '1mo')."""
-    if not raw_date or raw_date.strip() in ["-", "", "None"]:
-        return fallback_date.strftime("%Y-%m-%d")
-
-    raw = raw_date.strip().lower()
-
-    # 1. Match relative formats: 0d, 4d, 2w, 1mo
-    d_match = re.match(r"^(\d+)\s*d$", raw)
-    if d_match:
-        days = int(d_match.group(1))
-        return (fallback_date - timedelta(days=days)).strftime("%Y-%m-%d")
-
-    w_match = re.match(r"^(\d+)\s*w$", raw)
-    if w_match:
-        weeks = int(w_match.group(1))
-        return (fallback_date - timedelta(days=weeks * 7)).strftime("%Y-%m-%d")
-
-    mo_match = re.match(r"^(\d+)\s*mo$", raw)
-    if mo_match:
-        months = int(mo_match.group(1))
-        return (fallback_date - timedelta(days=months * 30)).strftime("%Y-%m-%d")
-
-    # 2. ISO or textual formats (e.g., '2026-07-21', 'Aug 21')
-    try:
-        parsed = date_parser.parse(raw_date, default=fallback_date)
-        return parsed.strftime("%Y-%m-%d")
-    except (ValueError, TypeError, date_parser.ParserError):
-        return fallback_date.strftime("%Y-%m-%d")
-
-
-def parse_emojis(text: str) -> dict[str, Any]:
-    """Extracts closed status and removes metadata emojis from text."""
-    return {
-        "is_closed": "🔒" in text,
-        "clean_text": re.sub(r"[🛂🇺🇸🔒🎓🔥⏳*`]", "", text).strip(),
-    }
-
-
-def normalize_title_for_comparison(title: str) -> str:
-    """Normalizes title strings to compare identical roles across repos."""
-    t = title.lower()
-    # Strip common noise keywords
-    t = re.sub(
-        r"\b(summer|fall|spring|winter|2026|2027|intern|internship|co-op|coop|program|undergraduate|bs|ms|phd)\b",
-        "",
-        t,
-    )
-    t = re.sub(r"[^a-z0-9]", " ", t)
-    return " ".join(t.split())
-
-
-def sanitize_listing_item(item: dict[str, Any]) -> dict[str, Any]:
-    """Removes fields that should never be stored in the persisted JSON outputs."""
-    cleaned = dict(item)
-    for key in ("sponsorship", "requires_us_citizenship"):
-        cleaned.pop(key, None)
-    return cleaned
-
-
-def sanitize_listing_list(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Normalizes persisted listings before writes and merges."""
-    return [sanitize_listing_item(item) for item in items if isinstance(item, dict)]
-
+LOCATION_ALIASES = {
+    "nyc": "New York, NY",
+    "new york city": "New York, NY",
+    "new york": "New York, NY",
+    "sf": "San Francisco, CA",
+    "south sf": "South San Francisco, CA",
+    "la": "Los Angeles, CA",
+}
 
 US_STATE_CODES = {
     "AL",
@@ -302,10 +223,90 @@ NON_US_TERMS = {
 CANADIAN_PROV_CODES = {"ON", "QC", "BC", "AB", "MB", "SK", "NS", "NB", "NL", "PE"}
 
 
+def clean_url(url: str | None) -> str:
+    """Normalize ATS URLs by stripping query tracking and trailing slashes."""
+    if not url or url.startswith("#") or url == "🔒":
+        return ""
+    url = re.sub(
+        r"(\?|&)(utm_[^&=]+|ref|gh_src|iis|iisn|icims|jr_id|ats|mobile|needsRedirect)=[^&=]+",
+        "",
+        url,
+    )
+    return re.sub(r"\?&", "?", url).rstrip("?&").rstrip("/")
+
+
+def parse_relative_or_text_date(raw_date: str | None, fallback_date: datetime) -> str:
+    """Parse relative age strings, ISO dates, or month/day text into YYYY-MM-DD."""
+    if not raw_date or raw_date.strip() in ["-", "", "None"]:
+        return fallback_date.strftime("%Y-%m-%d")
+
+    raw = raw_date.strip().lower()
+
+    if d_match := re.match(r"^(\d+)\s*d$", raw):
+        return (fallback_date - timedelta(days=int(d_match.group(1)))).strftime(
+            "%Y-%m-%d"
+        )
+
+    if w_match := re.match(r"^(\d+)\s*w$", raw):
+        return (fallback_date - timedelta(days=int(w_match.group(1)) * 7)).strftime(
+            "%Y-%m-%d"
+        )
+
+    if mo_match := re.match(r"^(\d+)\s*mo$", raw):
+        return (fallback_date - timedelta(days=int(mo_match.group(1)) * 30)).strftime(
+            "%Y-%m-%d"
+        )
+
+    try:
+        parsed = date_parser.parse(raw_date, default=fallback_date)
+        # Offset parsing forward-rollover when current date is early in the year
+        if parsed.date() > fallback_date.date():
+            parsed = parsed.replace(year=parsed.year - 1)
+        return parsed.strftime("%Y-%m-%d")
+    except (ValueError, TypeError, date_parser.ParserError):
+        return fallback_date.strftime("%Y-%m-%d")
+
+
+def parse_emojis(text: str) -> dict[str, Any]:
+    """Extract listing state flags and strip formatting metadata emojis."""
+    return {
+        "is_closed": "🔒" in text,
+        "clean_text": re.sub(r"[🛂🇺🇸🔒🎓🔥⏳*`]", "", text).strip(),
+    }
+
+
+def normalize_title_for_comparison(title: str) -> str:
+    """Extract core title tokens by stripping noise, terms, and degree levels."""
+    t = title.lower()
+    t = re.sub(
+        r"\b(summer|fall|spring|winter|2026|2027|intern|internship|co-op|coop|program|undergraduate|bs|ms|phd)\b",
+        "",
+        t,
+    )
+    t = re.sub(r"[^a-z0-9]", " ", t)
+    return " ".join(t.split())
+
+
+def normalize_location_name(loc: str) -> str:
+    cleaned = loc.strip()
+    return LOCATION_ALIASES.get(cleaned.lower(), cleaned)
+
+
+def generate_item_hash(item: dict[str, Any]) -> str:
+    """Generate a stable deduplication fingerprint for incoming raw records."""
+    link = item.get("link", "").strip()
+    if link:
+        return hashlib.sha256(link.encode("utf-8")).hexdigest()
+
+    comp = item.get("company", "").strip().lower()
+    role = normalize_title_for_comparison(item.get("role", ""))
+    src = item.get("source", "")
+    key = f"{src}::{comp}::{role}"
+    return hashlib.sha256(key.encode("utf-8")).hexdigest()
+
+
 def is_us_location(loc_str: str) -> bool:
-    """Evaluates whether an individual location string is US-based.
-    Defaults to True for ambiguous strings to avoid accidentally dropping domestic remote listings.
-    """
+    """Check if a location string is domestic; defaults to True on ambiguous inputs."""
     if not loc_str or not loc_str.strip():
         return True
 
@@ -319,12 +320,10 @@ def is_us_location(loc_str: str) -> bool:
     has_non_us_term = any(
         re.search(rf"\b{re.escape(term)}\b", lower_text) for term in NON_US_TERMS
     )
-
     state_code_match = re.search(r"(?:,\s*|\s+)([A-Z]{2})\b", text)
     has_us_state_code = bool(
         state_code_match and state_code_match.group(1) in US_STATE_CODES
     )
-
     has_us_state_name = any(
         re.search(rf"\b{re.escape(st)}\b", lower_text) for st in US_STATE_NAMES
     )
@@ -333,17 +332,18 @@ def is_us_location(loc_str: str) -> bool:
     )
 
     is_explicit_us = has_us_state_code or has_us_state_name or has_us_keyword
-
     return not (has_non_us_term and not is_explicit_us)
 
 
 def filter_us_listing(item: dict[str, Any]) -> dict[str, Any] | None:
-    """Cleans a listing to only US locations; returns None when all locations are explicitly non-US."""
+    """Retain only domestic locations; drops item if all locations are foreign."""
     raw_locs = item.get("locations", [])
     if not raw_locs:
         return item
 
-    valid_us_locs = [loc for loc in raw_locs if is_us_location(loc)]
+    valid_us_locs = [
+        normalize_location_name(loc) for loc in raw_locs if is_us_location(loc)
+    ]
 
     if not valid_us_locs:
         return None
@@ -352,12 +352,8 @@ def filter_us_listing(item: dict[str, Any]) -> dict[str, Any] | None:
     return item
 
 
-# =====================================================================
-# Upstream Parsers
-# =====================================================================
-
-
 def parse_sndsh404(raw_text: str, current_time: datetime) -> list[dict[str, Any]]:
+    """Parse standard markdown table from sndsh404."""
     results = []
     match = re.search(
         r"##\s+the list.*?\n(\|.+?)(?=\n##\s+programs|\Z)",
@@ -381,7 +377,9 @@ def parse_sndsh404(raw_text: str, current_time: datetime) -> list[dict[str, Any]
         link = clean_url(link_match.group(1)) if link_match else ""
         flags = parse_emojis(f"{company_raw} {role_raw}")
         locations = [
-            l.strip() for l in re.split(r"[/,]\s*(?![^()]*\))", loc_raw) if l.strip()
+            normalize_location_name(l.strip())
+            for l in re.split(r"[/,]\s*(?![^()]*\))", loc_raw)
+            if l.strip()
         ]
 
         results.append(
@@ -399,6 +397,7 @@ def parse_sndsh404(raw_text: str, current_time: datetime) -> list[dict[str, Any]
 
 
 def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]]:
+    """Parse HTML table elements from SimplifyJobs, resolving row hierarchy."""
     results = []
     soup = BeautifulSoup(raw_text, "html.parser")
     current_company = ""
@@ -431,7 +430,7 @@ def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]
         for tag in loc_cell.find_all(["details", "summary"]):
             tag.unwrap()
         locations = [
-            l.strip()
+            normalize_location_name(l.strip())
             for l in loc_cell.stripped_strings
             if not l.lower().endswith("locations")
         ]
@@ -454,8 +453,6 @@ def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]
             if not link and "simplify.jobs/p/" not in href:
                 link = clean_url(href)
 
-        age_text = age_cell.get_text(strip=True)
-
         results.append(
             {
                 "company": company,
@@ -463,7 +460,9 @@ def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]
                 "locations": locations if locations else ["United States"],
                 "link": link,
                 "is_closed": flags["is_closed"],
-                "date_posted": parse_relative_or_text_date(age_text, current_time),
+                "date_posted": parse_relative_or_text_date(
+                    age_cell.get_text(strip=True), current_time
+                ),
                 "source": "simplify",
             }
         )
@@ -471,6 +470,7 @@ def parse_simplify(raw_text: str, current_time: datetime) -> list[dict[str, Any]
 
 
 def parse_vanshb03(raw_text: str, current_time: datetime) -> list[dict[str, Any]]:
+    """Parse hybrid HTML/Markdown table from vanshb03."""
     results = []
     match = re.search(r"TABLE_START.*?\n(\|.+?)(?=\n<!--|\Z)", raw_text, re.DOTALL)
     if not match:
@@ -506,7 +506,9 @@ def parse_vanshb03(raw_text: str, current_time: datetime) -> list[dict[str, Any]
             r"\*\*\d+\s+locations\*\*", "", clean_loc, flags=re.IGNORECASE
         )
         locations = [
-            l.strip() for l in re.split(r"</br>|<br\s*/?>|,", clean_loc) if l.strip()
+            normalize_location_name(l.strip())
+            for l in re.split(r"</br>|<br\s*/?>|,", clean_loc)
+            if l.strip()
         ]
 
         link_match = re.search(r'href=["\']([^"\']+)["\']', app_raw)
@@ -526,19 +528,14 @@ def parse_vanshb03(raw_text: str, current_time: datetime) -> list[dict[str, Any]
     return results
 
 
-# =====================================================================
-# Integrity Verification Guard
-# =====================================================================
-
-
 def verify_source_integrity(
     source_name: str, parsed_items: list[dict[str, Any]]
 ) -> bool:
-    """Verifies that the scraper parsed expected structure and hasn't silently broken."""
+    """Enforce structural validation gates to catch breaking upstream schema drift."""
     expected_min = MIN_EXPECTED_ITEMS.get(source_name, 5)
     if len(parsed_items) < expected_min:
         print(
-            f"⚠️ INTEGRITY FAILURE for '{source_name}': Expected >= {expected_min} items, got {len(parsed_items)}."
+            f"Schema check failed for {source_name}: count {len(parsed_items)} < expected {expected_min}"
         )
         return False
 
@@ -546,35 +543,26 @@ def verify_source_integrity(
     valid_roles = sum(1 for item in parsed_items if item.get("role"))
 
     if valid_companies < expected_min * 0.8 or valid_roles < expected_min * 0.8:
-        print(
-            f"⚠️ SCHEMA FAILURE for '{source_name}': High proportion of missing fields."
-        )
+        print(f"Field presence check failed for {source_name}")
         return False
 
-    print(
-        f"✅ Integrity verified for '{source_name}': {len(parsed_items)} valid listings parsed."
-    )
     return True
 
 
-# =====================================================================
-# Lenient Deduplication Engine
-# =====================================================================
-
-
 def are_locations_compatible(locs1: list[str], locs2: list[str]) -> bool:
-    """Ensures we never combine different physical locations."""
-    s1 = {l.lower().strip() for l in locs1 if l}
-    s2 = {l.lower().strip() for l in locs2 if l}
-    if not s1 or not s2:
+    """Determine if location arrays overlap, treating broad terms as wildcards."""
+    s1 = {normalize_location_name(l).lower() for l in locs1 if l}
+    s2 = {normalize_location_name(l).lower() for l in locs2 if l}
+    wildcards = {"united states", "remote", "remote (us)", "us"}
+    if not s1 or not s2 or bool(s1 & wildcards) or bool(s2 & wildcards):
         return True
-    return bool(s1.intersection(s2))
+    return bool(s1 & s2)
 
 
 def merge_listing_pair(
     earlier: dict[str, Any], incoming: dict[str, Any]
 ) -> dict[str, Any]:
-    """Merges two entries representing the exact same role, strictly preferring the earlier entry."""
+    """Merge duplicate records, prioritizing the earlier discovery metadata."""
     merged = earlier.copy()
     if not merged.get("link") and incoming.get("link"):
         merged["link"] = incoming["link"]
@@ -585,7 +573,7 @@ def merge_listing_pair(
 
 
 def llm_verify_duplicate(item_a: dict[str, Any], item_b: dict[str, Any]) -> bool:
-    """Calls DeepSeek only for edge cases where pattern match title ratio is borderline."""
+    """Adjudicate ambiguous same-company listings via DeepSeek."""
     if not client:
         return False
 
@@ -611,16 +599,14 @@ Respond strictly with valid JSON: {{"is_same_role": true}} or {{"is_same_role": 
         content = response.choices[0].message.content or "{}"
         res = json.loads(content)
         return bool(res.get("is_same_role", False))
-    except (json.JSONDecodeError, KeyError, requests.RequestException) as e:
-        print(f"LLM dedupe fallback error: {e}")
+    except (json.JSONDecodeError, KeyError, requests.RequestException):
         return False
-    except Exception as e:  # noqa: BLE001
-        print(f"Unexpected LLM dedupe fallback error: {e}")
+    except Exception:  # noqa: BLE001
         return False
 
 
 def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Deduplicates items with strict rules: never merge distinct roles or locations."""
+    """Deduplicate records conservatively to prevent collapsing distinct tracks/offices."""
     sorted_items = sorted(items, key=lambda x: x.get("date_posted", "9999-99-99"))
     deduped: list[dict[str, Any]] = []
 
@@ -631,7 +617,6 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
             if item["company"].lower().strip() != existing["company"].lower().strip():
                 continue
 
-            # Direct ATS Link match
             if (
                 item.get("link")
                 and existing.get("link")
@@ -641,7 +626,6 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 match_found = True
                 break
 
-            # Normalized role + compatible location
             norm_a = normalize_title_for_comparison(existing["role"])
             norm_b = normalize_title_for_comparison(item["role"])
             sim = difflib.SequenceMatcher(None, norm_a, norm_b).ratio()
@@ -651,11 +635,14 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                     deduped[idx] = merge_listing_pair(existing, item)
                     match_found = True
                     break
-                elif sim >= 0.78 and client is not None:
-                    if llm_verify_duplicate(existing, item):
-                        deduped[idx] = merge_listing_pair(existing, item)
-                        match_found = True
-                        break
+                if (
+                    sim >= 0.78
+                    and client is not None
+                    and llm_verify_duplicate(existing, item)
+                ):
+                    deduped[idx] = merge_listing_pair(existing, item)
+                    match_found = True
+                    break
 
         if not match_found:
             deduped.append(item)
@@ -663,25 +650,18 @@ def deduplicate_lenient(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
-# =====================================================================
-# Sliding Window & Output
-# =====================================================================
-
-
-def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
-    """Writes the active 30-day sliding window listings to README.md."""
+def generate_markdown(listings: list[dict[str, Any]], current_time: datetime) -> None:
+    """Render the active 30-day sliding window into the root README.md."""
     cutoff_date = (current_time - timedelta(days=SLIDING_WINDOW_DAYS)).strftime(
         "%Y-%m-%d"
     )
 
-    # Filter to 30-day sliding window and remove closed roles
     active_listings = [
         item
         for item in listings
         if item.get("date_posted", "") >= cutoff_date and not item.get("is_closed")
     ]
 
-    # Sort descending by date (newest postings at top)
     active_listings.sort(
         key=lambda x: (x.get("date_posted", ""), x.get("company", "")), reverse=True
     )
@@ -691,7 +671,7 @@ def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
         "# Summer 2027 Tech Internships\n",
         f"> *Showing active listings from the last **{SLIDING_WINDOW_DAYS} days** (since `{cutoff_date}`).*  ",
         f"> *Last updated: `{now_str}`*\n",
-        "> **Note:** This repository is merely an automated aggregator and deduplicator. All the hard work of sourcing, curating, and maintaining these listings is done by the creators and contributors of the original repositories:",
+        "> **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:",
         "> - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)",
         "> - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)",
         "> - [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships)\n",
@@ -700,8 +680,6 @@ def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
     ]
 
     for item in active_listings:
-        role_display = f"{item['role']}"
-
         locs = item.get("locations", ["United States"])
         loc_display = ", ".join(locs[:3])
         if len(locs) > 3:
@@ -713,7 +691,7 @@ def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
         date_display = item.get("date_posted", "-")
 
         lines.append(
-            f"| {date_display} | **{item['company']}** | {role_display} | {loc_display} | {link_display} |"
+            f"| {date_display} | **{item['company']}** | {item['role']} | {loc_display} | {link_display} |"
         )
 
     lines.append(f"\n*Total Active Opportunities: {len(active_listings)}*")
@@ -722,76 +700,66 @@ def generate_markdown(listings: list[dict[str, Any]], current_time: datetime):
         f.write("\n".join(lines) + "\n")
 
 
-# =====================================================================
-# Main Execution Pipeline
-# =====================================================================
-
-
-def main():
+def main() -> None:
     os.makedirs("data", exist_ok=True)
     current_time = datetime.now(timezone.utc)
 
-    # 1. Load historical raw data
     raw_history: list[dict[str, Any]] = []
+    seen_hashes: dict[str, dict[str, Any]] = {}
+
     if os.path.exists(RAW_HISTORY_PATH):
         with open(RAW_HISTORY_PATH, "r", encoding="utf-8") as f:
             try:
-                raw_history = sanitize_listing_list(json.load(f))
+                raw_history = json.load(f)
+                for item in raw_history:
+                    seen_hashes[generate_item_hash(item)] = item
             except json.JSONDecodeError:
                 raw_history = []
 
-    # 2. Fetch and parse each upstream source
     incoming_raw: list[dict[str, Any]] = []
     for src_name, url in SOURCES.items():
-        print(f"Fetching {src_name}...")
         try:
             resp = requests.get(url, timeout=15)
             if resp.status_code != 200:
-                print(f"⚠️ Failed to fetch {src_name}: HTTP {resp.status_code}")
                 continue
 
-            text = resp.text
-            items = []
+            items: list[dict[str, Any]] = []
             if src_name == "sndsh404":
-                items = parse_sndsh404(text, current_time)
+                items = parse_sndsh404(resp.text, current_time)
             elif src_name == "simplify":
-                items = parse_simplify(text, current_time)
+                items = parse_simplify(resp.text, current_time)
             elif src_name == "vanshb03":
-                items = parse_vanshb03(text, current_time)
+                items = parse_vanshb03(resp.text, current_time)
 
             if verify_source_integrity(src_name, items):
                 incoming_raw.extend(items)
-        except requests.RequestException as e:
-            print(f"⚠️ Network error parsing {src_name}: {e}")
-        except Exception as e:  # noqa: BLE001
-            print(f"⚠️ Exception parsing {src_name}: {e}")
+        except requests.RequestException:
+            pass
+        except Exception:  # noqa: BLE001, S110
+            pass
 
-    # 3. Filter to US-only active listings before persisting history
-    us_only_incoming: list[dict[str, Any]] = []
     for item in incoming_raw:
-        filtered = filter_us_listing(item)
-        if filtered is not None:
-            us_only_incoming.append(sanitize_listing_item(filtered))
+        item_hash = generate_item_hash(item)
 
-    print(f"Filtered out {len(incoming_raw) - len(us_only_incoming)} non-US listings.")
+        if item_hash in seen_hashes:
+            if item.get("is_closed"):
+                seen_hashes[item_hash]["is_closed"] = True
+            continue
 
-    raw_history = sanitize_listing_list(raw_history)
-    raw_history.extend(us_only_incoming)
+        filtered_item = filter_us_listing(item)
+        if filtered_item is not None:
+            raw_history.append(filtered_item)
+            seen_hashes[item_hash] = filtered_item
+
     with open(RAW_HISTORY_PATH, "w", encoding="utf-8") as f:
-        json.dump(sanitize_listing_list(raw_history), f, indent=2)
+        json.dump(raw_history, f, indent=2)
 
-    # 4. Run lenient deduplication across full dataset
-    print(f"Deduplicating {len(raw_history)} historical raw items...")
     deduped = deduplicate_lenient(raw_history)
-    print(f"Resulted in {len(deduped)} canonical unique opportunities.")
 
-    deduped = sanitize_listing_list(deduped)
     with open(ARCHIVE_PATH, "w", encoding="utf-8") as f:
         json.dump(deduped, f, indent=2)
 
-    # 5. Generate sliding window README
     generate_markdown(deduped, current_time)
-    print("README.md successfully updated.")
 
 
 if __name__ == "__main__":
