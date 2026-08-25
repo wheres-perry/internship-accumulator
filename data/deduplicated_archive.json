@@ -1985,7 +1985,49 @@
     "role": "Google Software Engineering Intern, BS (Summer 2027)",
     "locations": [
       "Mountain View",
-      "CA (multiple US)"
+      "CA (multiple US)",
+      "CA",
+      "Atlanta",
+      "GA",
+      "Austin",
+      "TX",
+      "Boulder",
+      "CO",
+      "Cambridge",
+      "MA",
+      "Bellevue",
+      "WA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "Irvine",
+      "Kirkland",
+      "Los Angeles",
+      "Madison",
+      "WI",
+      "New York, NY",
+      "NY",
+      "Palo Alto",
+      "Portland",
+      "OR",
+      "Pittsburgh",
+      "PA",
+      "Raleigh",
+      "NC",
+      "Durham",
+      "Reston",
+      "VA",
+      "Redmond",
+      "Redwood City",
+      "San Diego",
+      "Goleta",
+      "San Bruno",
+      "Seattle",
+      "San Francisco",
+      "San Jose",
+      "Santa Cruz",
+      "South San Francisco",
+      "Sunnyvale"
     ],
     "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
     "is_closed": false,
@@ -2320,76 +2362,6 @@
       "NY"
     ],
     "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
-    "is_closed": false,
-    "date_posted": "2026-07-24",
-    "source": "vanshb03"
-  },
-  {
-    "company": "Google",
-    "role": "Software Engineering Intern",
-    "locations": [
-      "Mountain View",
-      "CA",
-      "Atlanta",
-      "GA",
-      "Austin",
-      "TX",
-      "Boulder",
-      "CO",
-      "Cambridge",
-      "MA",
-      "Bellevue",
-      "WA",
-      "Chicago",
-      "IL",
-      "Houston",
-      "TX",
-      "Irvine",
-      "CA",
-      "Kirkland",
-      "WA",
-      "Los Angeles",
-      "CA",
-      "Madison",
-      "WI",
-      "New York, NY",
-      "NY",
-      "Palo Alto",
-      "CA",
-      "Portland",
-      "OR",
-      "Pittsburgh",
-      "PA",
-      "Raleigh",
-      "NC",
-      "Durham",
-      "NC",
-      "Reston",
-      "VA",
-      "Redmond",
-      "WA",
-      "Redwood City",
-      "CA",
-      "San Diego",
-      "CA",
-      "Goleta",
-      "CA",
-      "San Bruno",
-      "CA",
-      "Seattle",
-      "WA",
-      "San Francisco",
-      "CA",
-      "San Jose",
-      "CA",
-      "Santa Cruz",
-      "CA",
-      "South San Francisco",
-      "CA",
-      "Sunnyvale",
-      "CA"
-    ],
-    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
     "is_closed": false,
     "date_posted": "2026-07-24",
     "source": "vanshb03"
@@ -4203,6 +4175,24 @@
     "source": "vanshb03"
   },
   {
+    "company": "JP Morgan Chase",
+    "role": "Data & AI Intern - Analyst",
+    "locations": [
+      "Palo Alto, CA",
+      "Newark, DE",
+      "Plano, TX",
+      "Chicago, IL",
+      "Jersey City, NJ",
+      "Columbus, OH",
+      "New York, NY",
+      "Wilmington, DE"
+    ],
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+    "is_closed": false,
+    "date_posted": "2026-08-03",
+    "source": "simplify"
+  },
+  {
     "company": "TikTok",
     "role": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
     "locations": [
@@ -5556,6 +5546,17 @@
     "source": "simplify"
   },
   {
+    "company": "McKesson",
+    "role": "Technology Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979",
+    "is_closed": false,
+    "date_posted": "2026-08-10",
+    "source": "simplify"
+  },
+  {
     "company": "ByteDance",
     "role": "Software Engineer Intern - AML-Engine-Orchestration",
     "locations": [
@@ -6172,6 +6173,17 @@
       "Tucson, AZ"
     ],
     "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
+    "is_closed": false,
+    "date_posted": "2026-08-14",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
     "is_closed": false,
     "date_posted": "2026-08-14",
     "source": "simplify"
@@ -7979,6 +7991,18 @@
     "source": "vanshb03"
   },
   {
+    "company": "Marsh",
+    "role": "Government Health Consulting Informatics Intern - College Program",
+    "locations": [
+      "Phoenix, AZ",
+      "Minneapolis, MN"
+    ],
+    "link": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
+    "is_closed": false,
+    "date_posted": "2026-08-21",
+    "source": "simplify"
+  },
+  {
     "company": "Springs Window Fashions",
     "role": "Application Engineering Intern - Summer 2027",
     "locations": [
@@ -8073,6 +8097,17 @@
       "Middleton, WI"
     ],
     "link": "https://careers-springswindowfashions.icims.com/jobs/12886/job",
+    "is_closed": false,
+    "date_posted": "2026-08-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Product Marketing Intern",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046",
     "is_closed": false,
     "date_posted": "2026-08-22",
     "source": "simplify"
@@ -8705,6 +8740,264 @@
     "link": "https://careers.garmin.com/jobs/19693",
     "is_closed": false,
     "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Software Engineer Intern - Tech & Data Program",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Technology Intern - Technology LDP",
+    "locations": [
+      "West Chester, PA",
+      "Horsham, PA",
+      "Spring House, PA",
+      "New Brunswick, NJ",
+      "Irvine, CA",
+      "Raritan, NJ",
+      "Santa Clara, CA",
+      "Hopewell Township, NJ",
+      "Fort Washington, PA",
+      "Jacksonville, FL",
+      "Palm Beach Gardens, FL"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Data Engineer Intern - Tech & Data Program",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Freddie Mac",
+    "role": "Capital Markets Intern - Summer 2027",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
+    "company": "BTI360",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "link": "https://job-boards.greenhouse.io/bti36021/jobs/8155152",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Springs Window Fashions",
+    "role": "Software Engineering Intern - Summer 2027",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "link": "https://careers-springswindowfashions.icims.com/jobs/12891/job",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Sage",
+    "role": "Software Engineer Intern - Edge - Summer 2027",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Sage",
+    "role": "Software Engineer Intern - Full Stack",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Westinghouse Electric Company",
+    "role": "Computer Engineering / Software Engineering Intern",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Product Operations Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7673361736079329541",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Product Manager Intern - Pgc",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7673365416605010229",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Product Manager Intern - Pgc",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7673365923163638069",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Rystad Energy",
+    "role": "Analyst Intern - Summer 2027",
+    "locations": [
+      "Houston, TX"
+    ],
+    "link": "https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Client Solutions Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7677467052537776437",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Client Solutions Intern - Global Business Solutions",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7677467375487486213",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Client Solutions Intern - Global Business Solutions",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://lifeattiktok.com/search/7677467375486765317",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC Package Engineering Intern Co-op",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "link": "https://careers.amd.com/jobs/91471",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC Package Engineer Intern Co-op",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/91469",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "MSA Safety",
+    "role": "Software Engineer Intern - Product Development - Summer 2027",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "link": "https://careers.msasafety.com/jobs/9993",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Daktronics",
+    "role": "Hardware Design Co-op Intern - Firmware",
+    "locations": [
+      "Brookings, SD"
+    ],
+    "link": "https://careers-daktronics.icims.com/jobs/7518/job",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
     "source": "simplify"
   }
 ]
