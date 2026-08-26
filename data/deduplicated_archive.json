@@ -3238,6 +3238,17 @@
     "source": "vanshb03"
   },
   {
+    "company": "Optiver",
+    "role": "Trading Automation and Operations Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+    "is_closed": false,
+    "date_posted": "2026-07-27",
+    "source": "simplify"
+  },
+  {
     "company": "Virtu Financial",
     "role": "Frontend Developer Internship",
     "locations": [
@@ -4327,17 +4338,6 @@
       "Hawthorne, CA"
     ],
     "link": "https://boards.greenhouse.io/spacex/jobs/8621757002",
-    "is_closed": false,
-    "date_posted": "2026-08-04",
-    "source": "simplify"
-  },
-  {
-    "company": "Chicago Trading Company",
-    "role": "Software Engineer Intern",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "link": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
     "is_closed": false,
     "date_posted": "2026-08-04",
     "source": "simplify"
@@ -7486,6 +7486,17 @@
     "source": "simplify"
   },
   {
+    "company": "Goldman Sachs",
+    "role": "AWM Product Management Analyst Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://higher.gs.com/roles/171513?type=students",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
     "company": "Zipline",
     "role": "Software Engineer Intern - Summer 2027",
     "locations": [
@@ -7971,7 +7982,8 @@
     "role": "Gameplay Programmer Intern",
     "locations": [
       "Cary",
-      "United States"
+      "United States",
+      "Cary, NC"
     ],
     "link": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004",
     "is_closed": false,
@@ -8108,6 +8120,22 @@
       "Delaware, OH"
     ],
     "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046",
+    "is_closed": false,
+    "date_posted": "2026-08-22",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "Research Engineering Intern/Co-op - AMD Research",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "link": "https://careers.amd.com/jobs/90926",
     "is_closed": false,
     "date_posted": "2026-08-22",
     "source": "simplify"
@@ -8998,6 +9026,400 @@
     "link": "https://careers-daktronics.icims.com/jobs/7518/job",
     "is_closed": false,
     "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Software Engineer Intern - Technology & Data",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Brunswick",
+    "role": "Systems Engineer Co-op - Software Engineering",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "GE Vernova",
+    "role": "Controls Product Management Intern - Summer 2027",
+    "locations": [
+      "Longmont, CO",
+      "Greenville, SC"
+    ],
+    "link": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Brunswick",
+    "role": "Product Management Intern - Oils & Lubricants",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Cigna Group",
+    "role": "Legal Operations Financial Data & AI Analytics Intern",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Brunswick",
+    "role": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "BP",
+    "role": "Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Co-op - Avionics Platform Software",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Moog",
+    "role": "Hardware Engineer Intern",
+    "locations": [
+      "Mineral Wells, TX"
+    ],
+    "link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+    "is_closed": false,
+    "date_posted": "2026-08-25",
+    "source": "simplify"
+  },
+  {
+    "company": "Steven's Capital Management",
+    "role": "Software Engineer",
+    "locations": [
+      "Radnor, PA"
+    ],
+    "link": "https://grnh.se/abfli75k1us",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "AbbVie",
+    "role": "Business Technology Solutions Intern - Data & Software Engineering",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "AbbVie",
+    "role": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Software Engineer Intern - Computer Science",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "DTCC",
+    "role": "Application Developer Intern",
+    "locations": [
+      "Tampa, FL",
+      "Dallas, TX",
+      "Jersey City, NJ"
+    ],
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Zip",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "The Voleon Group",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Berkeley, CA",
+      "New York, NY"
+    ],
+    "link": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Compeer Financial",
+    "role": "Engineering Intern",
+    "locations": [
+      "Sun Prairie, WI",
+      "Mankato, MN",
+      "Bloomington, IL",
+      "Lakeville, MN"
+    ],
+    "link": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Empirical Foods",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Dakota Dunes, SD"
+    ],
+    "link": "https://careers-empiricalfoods.icims.com/jobs/4161/job",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Nokia",
+    "role": "Software Engineer Co-op - Deepfield",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Verkada",
+    "role": "Mobile Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Verkada",
+    "role": "Security Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Verkada",
+    "role": "Frontend Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Verkada",
+    "role": "Backend Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "DTCC",
+    "role": "Product Management Intern - 2027 Internship Program",
+    "locations": [
+      "Tampa, FL",
+      "Jersey City, NJ"
+    ],
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "DC Power Product Management Intern - Summer 2027",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "AI Infrastructure Engineer Intern - Recommendation & LLM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7672671220798818613",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "DTCC",
+    "role": "Data Solutions Intern - Internship Program",
+    "locations": [
+      "Boston, MA",
+      "Tampa, FL"
+    ],
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Artificial Intelligence/Machine Learning Intern",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Information Systems Intern - IT - Cyber Engineer & Data Science",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Information Systems Intern - Multiple Teams",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "DV Trading",
+    "role": "Futures & Options Trading Analyst Intern - Summer 2027",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Embedded Engineer Intern",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Verkada",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
     "source": "simplify"
   }
 ]
