@@ -3855,17 +3855,6 @@
   },
   {
     "company": "TikTok",
-    "role": "Machine Learning Engineer Intern - Search Quality",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "link": "https://lifeattiktok.com/search/7665475460339665157",
-    "is_closed": false,
-    "date_posted": "2026-08-03",
-    "source": "simplify"
-  },
-  {
-    "company": "TikTok",
     "role": "Machine Learning Engineer Intern - Basic Ranking",
     "locations": [
       "San Jose, CA"
@@ -5791,6 +5780,17 @@
     "source": "simplify"
   },
   {
+    "company": "Booz Allen",
+    "role": "AI RAN Telecommunications Engineer Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+    "is_closed": false,
+    "date_posted": "2026-08-11",
+    "source": "simplify"
+  },
+  {
     "company": "Vertiv",
     "role": "IT Systems Product Management Intern - Summer 2027",
     "locations": [
@@ -6343,6 +6343,17 @@
       "Los Angeles, CA"
     ],
     "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+    "is_closed": false,
+    "date_posted": "2026-08-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Associate Intern - The Core Quantitative Strats",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://higher.gs.com/roles/171546?type=students",
     "is_closed": false,
     "date_posted": "2026-08-15",
     "source": "simplify"
@@ -7304,17 +7315,6 @@
     "source": "simplify"
   },
   {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "link": "https://lifeattiktok.com/search/7675847556668295429",
-    "is_closed": false,
-    "date_posted": "2026-08-20",
-    "source": "simplify"
-  },
-  {
     "company": "Wells Fargo",
     "role": "Quantitative Analytics Intern - Risk Analytics and Decision Sciences",
     "locations": [
@@ -7492,6 +7492,17 @@
       "Dallas, TX"
     ],
     "link": "https://higher.gs.com/roles/171513?type=students",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "Freeform",
+    "role": "Materials Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
     "is_closed": false,
     "date_posted": "2026-08-20",
     "source": "simplify"
@@ -8847,6 +8858,20 @@
     "source": "simplify"
   },
   {
+    "company": "Procter & Gamble",
+    "role": "Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors",
+    "locations": [
+      "St Bernard, OH",
+      "West Chester Township, OH",
+      "Mason, OH",
+      "Cincinnati, OH"
+    ],
+    "link": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846",
+    "is_closed": false,
+    "date_posted": "2026-08-24",
+    "source": "simplify"
+  },
+  {
     "company": "BTI360",
     "role": "Software Engineer Intern",
     "locations": [
@@ -9420,6 +9445,415 @@
     "link": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
     "is_closed": false,
     "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Software Engineer Intern - Technology, Data, AI, and Operations",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Parsons",
+    "role": "Software Intern - Summer 2027",
+    "locations": [
+      "Denver, CO"
+    ],
+    "link": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Technical Intern - Federal Reserve - National IT",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Repsol",
+    "role": "Reservoir Engineer Intern",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineering-Intern_83945-1",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Repsol",
+    "role": "Development Planning Engineer Intern",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Repsol",
+    "role": "Production Allocation Engineering Intern",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "MKS Instruments",
+    "role": "Business Intelligence/Data Analytics Intern",
+    "locations": [
+      "Andover, MA"
+    ],
+    "link": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Leidos",
+    "role": "Software Engineer Intern - Artificial Intelligence",
+    "locations": [
+      "Remote in USA",
+      "Shiloh, IL",
+      "Odenton, MD"
+    ],
+    "link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "Software Developer/Data Scientist Intern - Summer 2027",
+    "locations": [
+      "Sterling, VA",
+      "Denver, CO",
+      "Sarasota, FL"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Ameren",
+    "role": "Meteorology Intern - Crisis Management",
+    "locations": [
+      "Peoria, IL"
+    ],
+    "link": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Fannie Mae",
+    "role": "Treasury & Capital Markets Intern - Quantitative Research Track",
+    "locations": [
+      "Washington, DC"
+    ],
+    "link": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "QTS",
+    "role": "Data Center Infrastructure Management Intern - DCIM",
+    "locations": [
+      "Ashburn, VA",
+      "Suwanee, GA"
+    ],
+    "link": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Auto-Owners Insurance",
+    "role": "Software Developer Intern - Summer 2027",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "State College, PA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Software Developer Intern - Summer Games",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Software Developer Intern - Summer Games",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "GlossGenius",
+    "role": "Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "GlossGenius",
+    "role": "Engineering Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Power Management Intern - Summer 2027",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Services Product Management Intern - Summer 2027",
+    "locations": [
+      "Westerville, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Centene",
+    "role": "People Analytics Intern - Undergraduate",
+    "locations": [
+      "Washington",
+      "Oregon",
+      "California",
+      "Nevada",
+      "Arizona",
+      "Colorado",
+      "Utah",
+      "Idaho"
+    ],
+    "link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/People-Analytics-Intern--Undergraduate---Summer-2027-_1653735",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Data Scientist Intern - University",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Software Developer Intern - University",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Data Scientist Intern - University",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Verisk",
+    "role": "AI Intern - Summer Internship Program",
+    "locations": [
+      "Jersey City, NJ"
+    ],
+    "link": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Auto-Owners Insurance",
+    "role": "Data Engineering Intern - Summer 2027",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "WhiteWater Midstream",
+    "role": "Data Science Intern - Summer 2027",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "WhiteWater Midstream",
+    "role": "Trading Operations Intern - Summer 2027",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Zipline",
+    "role": "Embedded Systems Intern - Summer 2027",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://www.zipline.com/open-roles?gh_jid=7978843003",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Axon",
+    "role": "Embedded Engineer Intern",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA"
+    ],
+    "link": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Firmware Engineer Intern - Summer 2027",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957",
+    "is_closed": false,
+    "date_posted": "2026-08-27",
     "source": "simplify"
   }
 ]
