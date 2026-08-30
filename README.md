@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
-> *Showing active listings from the last **30 days** (since `2026-07-30`).*  
-> *Last updated: `2026-08-29 12:28 UTC`*
+> *Showing active listings from the last **30 days** (since `2026-07-31`).*  
+> *Last updated: `2026-08-30 11:30 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -246,6 +246,7 @@
 | 2026-08-21 | **American Express** | Cybersecurity Intern | Phoenix, AZ | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460) |
 | 2026-08-21 | **AMD** | Software Engineer Intern/Co-op - Masters | San Jose, CA, Santa Clara, CA | [Apply](https://careers.amd.com/jobs/91176) |
 | 2026-08-21 | **AMD** | Software Engineer Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO *(+3 more)* | [Apply](https://careers.amd.com/jobs/90947) |
+| 2026-08-21 | **AMD** | Software Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | [Apply](https://careers.amd.com/jobs/90891) |
 | 2026-08-21 | **AMD** | Machine Learning Intern/Co-op - Artificial Intelligence | Rochester, NY, Austin, TX, Longmont, CO *(+3 more)* | [Apply](https://careers.amd.com/jobs/91181) |
 | 2026-08-21 | **AMD** | Machine Learning Intern/Co-op - Multiple Teams | Rochester, NY, Austin, TX, Longmont, CO *(+3 more)* | [Apply](https://careers.amd.com/jobs/91170) |
 | 2026-08-21 | **AMD** | Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence | San Jose, CA, Santa Clara, CA | [Apply](https://careers.amd.com/jobs/90892) |
@@ -274,7 +275,6 @@
 | 2026-08-20 | **TikTok** | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | San Jose, CA | [Apply](https://lifeattiktok.com/search/7672930401597671733) |
 | 2026-08-20 | **TikTok** | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | [Apply](https://lifeattiktok.com/search/7675517686256863541) |
 | 2026-08-20 | **TikTok** | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
-| 2026-08-20 | **TikTok** | Machine Learning Engineer Intern | Seattle, WA | [Apply](https://lifeattiktok.com/search/7675847556668295429) |
 | 2026-08-20 | **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
 | 2026-08-20 | **RTX** | Software Engineer Intern - Summer 2027 | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664) |
 | 2026-08-20 | **Philips** | Data Scientist Co-op | Plymouth, MN | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567) |
@@ -614,6 +614,7 @@
 | 2026-08-03 | **American Express** | Product Management Intern - Product Innovation - Credit & Fraud Risk | New York, NY | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) |
 | 2026-08-03 | **American Express** | Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk | New York, NY | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) |
 | 2026-08-03 | **American Express** | Undergraduate Intern - Strategy & Analytics | Phoenix, AZ | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) |
+| 2026-08-02 | **Two Sigma** | AI Research Scientist Intern - 2027 Summer | New York, NY | [Apply](https://twosigma.avature.net/careers/JobDetail/14096) |
 | 2026-08-02 | **HPR (Hyannis Port Research)** | Software Engineer Intern | Needham, MA | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | 2026-08-02 | **HPR (Hyannis Port Research)** | FPGA Engineer Intern | Needham, MA | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | 2026-08-01 | **Western Digital** | Hardware Engineering Intern | Fremont, CA, Rochester, MN, San Jose, CA *(+3 more)* | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
@@ -627,8 +628,5 @@
 | 2026-07-31 | **DRW** | Quantitative Research Intern | Chicago, IL, New York, NY *(+1 more)* | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) |
 | 2026-07-31 | **DRW** | Platform Engineer Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
 | 2026-07-31 | **DRW** | FPGA Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) |
-| 2026-07-30 | **Virtu Financial** | Frontend Developer Internship | New York, NY | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| 2026-07-30 | **University of Virginia Investment Management Company (UVIMCO)** | Investment Analyst Intern | Charlottesville, VA | [Apply](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) |
-| 2026-07-30 | **General Dynamics Information Technology** | Systems Engineer Intern | Albany, NY | [Apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 
-*Total Active Opportunities: 620*
+*Total Active Opportunities: 618*

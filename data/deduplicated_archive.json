@@ -3448,6 +3448,17 @@
     "source": "simplify"
   },
   {
+    "company": "Two Sigma",
+    "role": "AI Research Scientist Intern - 2027 Summer",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://twosigma.avature.net/careers/JobDetail/14096",
+    "is_closed": false,
+    "date_posted": "2026-08-02",
+    "source": "simplify"
+  },
+  {
     "company": "HPR (Hyannis Port Research)",
     "role": "FPGA Engineer Intern",
     "locations": [
@@ -7348,17 +7359,6 @@
     "source": "simplify"
   },
   {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "link": "https://lifeattiktok.com/search/7675847556668295429",
-    "is_closed": false,
-    "date_posted": "2026-08-20",
-    "source": "simplify"
-  },
-  {
     "company": "Wells Fargo",
     "role": "Quantitative Analytics Intern - Risk Analytics and Decision Sciences",
     "locations": [
@@ -7586,6 +7586,18 @@
       "Boxborough, MA"
     ],
     "link": "https://careers.amd.com/jobs/90947",
+    "is_closed": false,
+    "date_posted": "2026-08-21",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "Software Engineer Intern/Co-op",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/90891",
     "is_closed": false,
     "date_posted": "2026-08-21",
     "source": "simplify"
