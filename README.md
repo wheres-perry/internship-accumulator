@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
-> *Showing active listings from the last **30 days** (since `2026-07-31`).*  
-> *Last updated: `2026-08-30 11:30 UTC`*
+> *Showing active listings from the last **30 days** (since `2026-08-01`).*  
+> *Last updated: `2026-08-31 13:02 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -10,6 +10,25 @@
 
 | Date Posted | Company | Job Title | Locations | Application Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-31 | **TikTok** | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA | [Apply](https://lifeattiktok.com/search/7676652813409552645) |
+| 2026-08-31 | **TikTok** | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | [Apply](https://lifeattiktok.com/search/7676650607912601861) |
+| 2026-08-31 | **Stryker** | Software Engineering Intern - Multiple Teams | Fremont, CA, San Jose, CA | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
+| 2026-08-31 | **Stryker** | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) |
+| 2026-08-31 | **Stryker** | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) |
+| 2026-08-31 | **Stryker** | Software Engineering Intern - Software Engineering | Portage, MI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
+| 2026-08-31 | **Stryker** | Data Analytics Intern - Multiple Teams | Portage, MI | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
+| 2026-08-31 | **Qorvo** | Full-Stack Web Developer Intern | Richardson, TX | [Apply](https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200) |
+| 2026-08-31 | **Prudential Financial** | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1) |
+| 2026-08-31 | **PGIM** | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | [Apply](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-2) |
+| 2026-08-31 | **Johnson & Johnson** | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792) |
+| 2026-08-31 | **GE Aerospace** | Applied AI Intern | Evendale, OH, Atlanta, GA | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
+| 2026-08-31 | **BP** | Commercial Intern - Supply, Trading, & Shipping | Chicago, IL | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344) |
+| 2026-08-31 | **BP** | Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations | Houston, TX | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366) |
+| 2026-08-31 | **BP** | Summer Intern | Houston, TX | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ112380-1) |
+| 2026-08-31 | **American Express** | Product Development Intern - Global Commercial Services | Atlanta, GA | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890) |
+| 2026-08-31 | **American Express** | Product Development Intern - Global Commercial Services | New York, NY | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091) |
+| 2026-08-31 | **American Express** | Product Management Intern - Global Commercial Services | New York, NY | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558) |
+| 2026-08-30 | **GE Vernova** | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) |
 | 2026-08-29 | **Vertiv** | Service Technology Research Intern - Summer 2027 | Westerville, OH | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) |
 | 2026-08-29 | **Persona AI** | Robotics Software Intern - Manipulation | Houston, TX | [Apply](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true) |
 | 2026-08-29 | **Northwood Space** | Software Engineer Intern - Multiple Teams | Los Angeles, CA, Torrance, CA | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true) |
@@ -275,6 +294,7 @@
 | 2026-08-20 | **TikTok** | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | San Jose, CA | [Apply](https://lifeattiktok.com/search/7672930401597671733) |
 | 2026-08-20 | **TikTok** | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | [Apply](https://lifeattiktok.com/search/7675517686256863541) |
 | 2026-08-20 | **TikTok** | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
+| 2026-08-20 | **TikTok** | Machine Learning Engineer Intern | Seattle, WA | [Apply](https://lifeattiktok.com/search/7675847556668295429) |
 | 2026-08-20 | **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
 | 2026-08-20 | **RTX** | Software Engineer Intern - Summer 2027 | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664) |
 | 2026-08-20 | **Philips** | Data Scientist Co-op | Plymouth, MN | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567) |
@@ -376,6 +396,7 @@
 | 2026-08-15 | **Goldman Sachs** | Quantitative Strategist Intern - Multiple Teams | New York, NY | [Apply](https://higher.gs.com/roles/171563?type=students) |
 | 2026-08-15 | **Goldman Sachs** | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | 2026-08-15 | **Goldman Sachs** | Associate Intern - The Core Quantitative Strats | Dallas, TX | [Apply](https://higher.gs.com/roles/171546?type=students) |
+| 2026-08-15 | **Goldman Sachs** | Summer Associate Intern | New York, NY | [Apply](https://higher.gs.com/roles/171552?type=students) |
 | 2026-08-15 | **Freeform** | Software Engineer Intern - Summer 2027 | Los Angeles, CA | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
 | 2026-08-15 | **ByteDance** | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7668315137242351925/detail) |
 | 2026-08-15 | **ByteDance** | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
@@ -620,13 +641,5 @@
 | 2026-08-01 | **Western Digital** | Hardware Engineering Intern | Fremont, CA, Rochester, MN, San Jose, CA *(+3 more)* | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
 | 2026-08-01 | **Virtu Financial** | Hardware Engineer Intern - FPGA | Austin, TX | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 2026-08-01 | **Medtronic** | Software Engineer Intern | Boston, MA, Santa Ana, CA, Fridley, MN *(+18 more)* | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
-| 2026-07-31 | **Melius** | Software Engineer Intern | New York, NY, NY | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) |
-| 2026-07-31 | **Heliux** | Software Engineer Intern | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) |
-| 2026-07-31 | **Genworth Financial** | IT Development Program Intern - IT Development Program | Richmond, VA | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) |
-| 2026-07-31 | **DRW** | Software Developer Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) |
-| 2026-07-31 | **DRW** | Quantitative Trading Analyst Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) |
-| 2026-07-31 | **DRW** | Quantitative Research Intern | Chicago, IL, New York, NY *(+1 more)* | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) |
-| 2026-07-31 | **DRW** | Platform Engineer Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
-| 2026-07-31 | **DRW** | FPGA Intern | Chicago, IL | [Apply](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) |
 
-*Total Active Opportunities: 618*
+*Total Active Opportunities: 631*
