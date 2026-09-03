@@ -1985,49 +1985,7 @@
     "role": "Google Software Engineering Intern, BS (Summer 2027)",
     "locations": [
       "Mountain View",
-      "CA (multiple US)",
-      "CA",
-      "Atlanta",
-      "GA",
-      "Austin",
-      "TX",
-      "Boulder",
-      "CO",
-      "Cambridge",
-      "MA",
-      "Bellevue",
-      "WA",
-      "Chicago",
-      "IL",
-      "Houston",
-      "Irvine",
-      "Kirkland",
-      "Los Angeles",
-      "Madison",
-      "WI",
-      "New York, NY",
-      "NY",
-      "Palo Alto",
-      "Portland",
-      "OR",
-      "Pittsburgh",
-      "PA",
-      "Raleigh",
-      "NC",
-      "Durham",
-      "Reston",
-      "VA",
-      "Redmond",
-      "Redwood City",
-      "San Diego",
-      "Goleta",
-      "San Bruno",
-      "Seattle",
-      "San Francisco",
-      "San Jose",
-      "Santa Cruz",
-      "South San Francisco",
-      "Sunnyvale"
+      "CA (multiple US)"
     ],
     "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
     "is_closed": false,
@@ -2362,6 +2320,76 @@
       "NY"
     ],
     "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+    "is_closed": false,
+    "date_posted": "2026-07-24",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Mountain View",
+      "CA",
+      "Atlanta",
+      "GA",
+      "Austin",
+      "TX",
+      "Boulder",
+      "CO",
+      "Cambridge",
+      "MA",
+      "Bellevue",
+      "WA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "TX",
+      "Irvine",
+      "CA",
+      "Kirkland",
+      "WA",
+      "Los Angeles",
+      "CA",
+      "Madison",
+      "WI",
+      "New York, NY",
+      "NY",
+      "Palo Alto",
+      "CA",
+      "Portland",
+      "OR",
+      "Pittsburgh",
+      "PA",
+      "Raleigh",
+      "NC",
+      "Durham",
+      "NC",
+      "Reston",
+      "VA",
+      "Redmond",
+      "WA",
+      "Redwood City",
+      "CA",
+      "San Diego",
+      "CA",
+      "Goleta",
+      "CA",
+      "San Bruno",
+      "CA",
+      "Seattle",
+      "WA",
+      "San Francisco",
+      "CA",
+      "San Jose",
+      "CA",
+      "Santa Cruz",
+      "CA",
+      "South San Francisco",
+      "CA",
+      "Sunnyvale",
+      "CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
     "is_closed": false,
     "date_posted": "2026-07-24",
     "source": "vanshb03"
@@ -3448,17 +3476,6 @@
     "source": "simplify"
   },
   {
-    "company": "Two Sigma",
-    "role": "AI Research Scientist Intern - 2027 Summer",
-    "locations": [
-      "New York, NY"
-    ],
-    "link": "https://twosigma.avature.net/careers/JobDetail/14096",
-    "is_closed": false,
-    "date_posted": "2026-08-02",
-    "source": "simplify"
-  },
-  {
     "company": "HPR (Hyannis Port Research)",
     "role": "FPGA Engineer Intern",
     "locations": [
@@ -4389,6 +4406,17 @@
     "source": "simplify"
   },
   {
+    "company": "Chicago Trading Company",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+    "is_closed": false,
+    "date_posted": "2026-08-04",
+    "source": "simplify"
+  },
+  {
     "company": "American Express",
     "role": "Product Innovation Intern - Credit & Fraud Risk",
     "locations": [
@@ -4771,6 +4799,29 @@
     "source": "vanshb03"
   },
   {
+    "company": "ByteDance",
+    "role": "Research Scientist Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://jobs.bytedance.com/en/position/7668590365398993205/detail",
+    "is_closed": false,
+    "date_posted": "2026-08-04",
+    "source": "simplify"
+  },
+  {
+    "company": "Persona AI",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Houston, TX",
+      "Pensacola, FL"
+    ],
+    "link": "https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-04",
+    "source": "simplify"
+  },
+  {
     "company": "TikTok",
     "role": "Backend Software Engineer Intern - Creation Platform",
     "locations": [
@@ -4925,6 +4976,17 @@
     "source": "simplify"
   },
   {
+    "company": "GE Appliances",
+    "role": "Electrical Engineer Co-op",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "link": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Summer-2027_REQ-26429",
+    "is_closed": false,
+    "date_posted": "2026-08-05",
+    "source": "simplify"
+  },
+  {
     "company": "ByteDance",
     "role": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
     "locations": [
@@ -5074,17 +5136,6 @@
       "San Jose, CA"
     ],
     "link": "https://lifeattiktok.com/search/7670285031018432773",
-    "is_closed": false,
-    "date_posted": "2026-08-06",
-    "source": "simplify"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Research Scientist Intern",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "link": "https://jobs.bytedance.com/en/position/7670375041041320245/detail",
     "is_closed": false,
     "date_posted": "2026-08-06",
     "source": "simplify"
@@ -5383,6 +5434,17 @@
       "Chicago, IL"
     ],
     "link": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+    "is_closed": false,
+    "date_posted": "2026-08-08",
+    "source": "simplify"
+  },
+  {
+    "company": "Axon",
+    "role": "2027 US Electrical Engineering Internship",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "link": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
     "is_closed": false,
     "date_posted": "2026-08-08",
     "source": "simplify"
@@ -6113,6 +6175,17 @@
     "source": "simplify"
   },
   {
+    "company": "Vertiv",
+    "role": "Electrical Engineer Intern - Energy Storage",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271",
+    "is_closed": false,
+    "date_posted": "2026-08-13",
+    "source": "simplify"
+  },
+  {
     "company": "TikTok",
     "role": "Mobile Software Engineer Intern - Global E-Commerce",
     "locations": [
@@ -6665,6 +6738,62 @@
     "source": "simplify"
   },
   {
+    "company": "GlobalFoundries",
+    "role": "Robotics and Automation Engineering Intern - Junior",
+    "locations": [
+      "Essex Junction, VT"
+    ],
+    "link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Robotics-and-Automation-Engineering-Intern--Junior--Summer-2027-_JR-2604655",
+    "is_closed": false,
+    "date_posted": "2026-08-17",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Naperville, IL"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Electrical-Engineering-Intern---Naperville--IL_R-16450",
+    "is_closed": false,
+    "date_posted": "2026-08-17",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Electrical-Engineering-Intern---Minneapolis--MN_R-16464",
+    "is_closed": false,
+    "date_posted": "2026-08-17",
+    "source": "simplify"
+  },
+  {
+    "company": "GE Aerospace",
+    "role": "Systems Engineer Intern - Electrical Engineering & Computer Engineering/Science - Avionics",
+    "locations": [
+      "Grand Rapids, MI",
+      "Clearwater, FL"
+    ],
+    "link": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1",
+    "is_closed": false,
+    "date_posted": "2026-08-17",
+    "source": "simplify"
+  },
+  {
+    "company": "Brunswick",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Edgewater, FL"
+    ],
+    "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Electrical-Engineer-Intern_JR-050891",
+    "is_closed": false,
+    "date_posted": "2026-08-17",
+    "source": "simplify"
+  },
+  {
     "company": "TikTok",
     "role": "Software Engineer Intern - TikTok Search Data Infra",
     "locations": [
@@ -6948,6 +7077,40 @@
       "Jacksonville, FL"
     ],
     "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
+    "is_closed": false,
+    "date_posted": "2026-08-18",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Rock Island, IL"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376",
+    "is_closed": false,
+    "date_posted": "2026-08-18",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern - Education",
+    "locations": [
+      "Rock Island, IL"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16364",
+    "is_closed": false,
+    "date_posted": "2026-08-18",
+    "source": "simplify"
+  },
+  {
+    "company": "GE Aerospace",
+    "role": "Engines Engineering Intern - Computer or Software Engineering",
+    "locations": [
+      "Lynn, MA",
+      "Evendale, OH"
+    ],
+    "link": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
     "is_closed": false,
     "date_posted": "2026-08-18",
     "source": "simplify"
@@ -7295,6 +7458,83 @@
     "source": "simplify"
   },
   {
+    "company": "NVIDIA",
+    "role": "Robotics Intern - Ph.D. Research",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Autonomous Vehicles and Robotics Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Digital Circuit Design Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Germantown-MD/Electrical-Engineering-Intern---Germantown--MD_R-16437",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Electrical-Engineering-Intern---Greenwood-Village--CO_R-16556",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "H3X Technologies",
+    "role": "Electromagnetics Engineering Intern - Spring",
+    "locations": [
+      "Louisville, CO"
+    ],
+    "link": "https://jobs.ashbyhq.com/h3x-technologies/930b8250-4c6d-4df0-a326-892fd594759a/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
+    "company": "Garmin",
+    "role": "Electrical Design Engineer Intern",
+    "locations": [
+      "Olathe, KS"
+    ],
+    "link": "https://careers.garmin.com/jobs/19643",
+    "is_closed": false,
+    "date_posted": "2026-08-19",
+    "source": "simplify"
+  },
+  {
     "company": "AbbVie",
     "role": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
     "locations": [
@@ -7400,6 +7640,17 @@
       "Seattle, WA"
     ],
     "link": "https://lifeattiktok.com/search/7675845333947812149",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://lifeattiktok.com/search/7675847556668295429",
     "is_closed": false,
     "date_posted": "2026-08-20",
     "source": "simplify"
@@ -7593,6 +7844,39 @@
       "Los Angeles, CA"
     ],
     "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "Freeform",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "General Matter",
+    "role": "Electrical Engineering Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/generalmatter/jobs/5376052008",
+    "is_closed": false,
+    "date_posted": "2026-08-20",
+    "source": "simplify"
+  },
+  {
+    "company": "Zipline",
+    "role": "Electrical Engineer Intern - Summer 2027",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
     "is_closed": false,
     "date_posted": "2026-08-20",
     "source": "simplify"
@@ -8111,6 +8395,44 @@
       "Minneapolis, MN"
     ],
     "link": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
+    "is_closed": false,
+    "date_posted": "2026-08-21",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "Product Development Engineering Intern/Co-op",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "link": "https://careers.amd.com/jobs/91230",
+    "is_closed": false,
+    "date_posted": "2026-08-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "role": "Graduate Engineer Intern - National Security Engineering Division",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
+    "is_closed": false,
+    "date_posted": "2026-08-21",
+    "source": "simplify"
+  },
+  {
+    "company": "IMEG",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Chicago-IL/Electrical-Engineering-Intern---Chicago--IL_R-16476",
     "is_closed": false,
     "date_posted": "2026-08-21",
     "source": "simplify"
@@ -9708,6 +10030,39 @@
     "source": "simplify"
   },
   {
+    "company": "DTCC",
+    "role": "Model Risk Management Intern - 2027 Internship Program",
+    "locations": [
+      "Jersey City, NJ"
+    ],
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "SiGe HBT Device Modelling Intern - Summer 2027",
+    "locations": [
+      "Essex Junction, VT"
+    ],
+    "link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155540",
+    "is_closed": false,
+    "date_posted": "2026-08-26",
+    "source": "simplify"
+  },
+  {
     "company": "Auto-Owners Insurance",
     "role": "Software Developer Intern - Summer 2027",
     "locations": [
@@ -10473,6 +10828,17 @@
     "source": "simplify"
   },
   {
+    "company": "Vertiv",
+    "role": "Business Analytics Intern - Summer 2027",
+    "locations": [
+      "Westerville, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794",
+    "is_closed": false,
+    "date_posted": "2026-08-28",
+    "source": "simplify"
+  },
+  {
     "company": "Northwood Space",
     "role": "Software Engineer Intern - Multiple Teams",
     "locations": [
@@ -10604,6 +10970,40 @@
       "Torrance, CA"
     ],
     "link": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Zipline",
+    "role": "Maps Intern - Summer 2027",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://www.zipline.com/open-roles?gh_jid=7980866003",
+    "is_closed": false,
+    "date_posted": "2026-08-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Northwood Space",
+    "role": "Electrical Engineer Intern - Summer Internship",
+    "locations": [
+      "Los Angeles, CA",
+      "Torrance, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-08-29",
+    "source": "simplify"
+  },
+  {
+    "company": "V2X",
+    "role": "Electrical Engineer Intern - Hardware Engineering",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "link": "https://careers.gov2x.com/jobs/62685",
     "is_closed": false,
     "date_posted": "2026-08-29",
     "source": "simplify"
@@ -11397,6 +11797,94 @@
       "Fond du Lac, WI"
     ],
     "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Methods Intern - Hot Section Engineering",
+    "locations": [
+      "East Hartford, CT"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01870611",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "NiSource",
+    "role": "People Analytics Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics_R00943381",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "Stryten",
+    "role": "System Engineer Intern",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "link": "https://jobs.stryten.com/jobs/5799",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "Stryten",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "link": "https://jobs.stryten.com/jobs/5800",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "Stryten",
+    "role": "Industrial or Mechanical Engineering Intern",
+    "locations": [
+      "Salina, KS"
+    ],
+    "link": "https://jobs.stryten.com/jobs/5809",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "Vermeer",
+    "role": "Test Engineer Intern",
+    "locations": [
+      "Pella, IA"
+    ],
+    "link": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Shop-48/Test-Engineering-Internship-Summer-2027_REQ-22120",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineering-Intern--Summer-2027-_01864197",
+    "is_closed": false,
+    "date_posted": "2026-08-31",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Spectrum Dominance Intern",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Spectrum-Dominance-Intern--Summer-2027-_01868863",
     "is_closed": false,
     "date_posted": "2026-08-31",
     "source": "simplify"
@@ -12915,23 +13403,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -13207,6 +13695,116 @@
       "Simi Valley, CA"
     ],
     "link": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Systems Engineer Intern - University - 2027 Summer Games",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Systems Engineer Intern - Summer Games",
+    "locations": [
+      "Fort Walton Beach, FL"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Williams-Sonoma",
+    "role": "Merchandising Intern",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "link": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "First National Bank",
+    "role": "Enterprise Operations Intern - Multiple Teams",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Operations-Intern_2026-01839",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Baird",
+    "role": "Capital Markets Compliance Data & Analytics Intern",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "link": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Textron",
+    "role": "Integration Test Engineer Intern - Marine",
+    "locations": [
+      "New Orleans, LA"
+    ],
+    "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "K2 Space",
+    "role": "Electrical Engineer Intern - Summer 2027",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Eaton",
+    "role": "Electrical Engineer Intern/Co-op - Research & Development Engineering",
+    "locations": [
+      "Moon Twp, PA"
+    ],
+    "link": "https://eaton.eightfold.ai/careers/job/687238596674",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Electrical Engineer Intern - Summer 2027",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Electrical Engineering Co-op",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -14004,6 +14602,966 @@
     "link": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
     "is_closed": false,
     "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Annapolis, MD"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Linthicum Heights, MD"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "McKesson",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Irving, TX",
+      "Atlanta, GA"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "McKesson",
+    "role": "Software Development Intern - Summer 2027",
+    "locations": [
+      "Irving, TX"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "McKesson",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Intel",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Western & Southern Financial Group",
+    "role": "Software Development Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "link": "https://careers-westernsouthern.icims.com/jobs/25245/job",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Western & Southern Financial Group",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "link": "https://careers-westernsouthern.icims.com/jobs/25222/job",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Mastercard",
+    "role": "Technical Product Management Intern - Switching Solutions",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "link": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "Product Management Intern - Risk Management",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Xcel Energy",
+    "role": "Gas & Electric Design Analytics and Process Improvement Intern - MN",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "link": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Xcel Energy",
+    "role": "Damage Prevention Intern",
+    "locations": [
+      "Minneapolis, MN",
+      "St Paul, MN"
+    ],
+    "link": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Damage-Prevention-Intern---MN_JR115636-1",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Xcel Energy",
+    "role": "Geospatial Data Validation Intern",
+    "locations": [
+      "Minneapolis, MN",
+      "Denver, CO"
+    ],
+    "link": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Vermeer",
+    "role": "Data Analytics Intern",
+    "locations": [
+      "Pella, IA"
+    ],
+    "link": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "RSM",
+    "role": "Enterprise Data Integration and Migration Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116785",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Repsol",
+    "role": "Subsurface Engineering Intern",
+    "locations": [
+      "Anchorage, AK"
+    ],
+    "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_84011-1",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "McKesson",
+    "role": "Data Analyst Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "HD Supply",
+    "role": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "First National Bank",
+    "role": "Enterprise Data Governance Intern - Data Quality and Governance",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Fannie Mae",
+    "role": "Finance Analytics Intern - Analytics & Modeling Program",
+    "locations": [
+      "Washington, DC"
+    ],
+    "link": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Clorox",
+    "role": "Sales Analyst Intern - Customer Analytics",
+    "locations": [
+      "Mason, OH"
+    ],
+    "link": "https://clorox.wd1.myworkdayjobs.com/InviteClorox/job/Mason-OH---USA/Sales---Customer-Analytics-Intern-Summer-2027_JR23359",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Cigna Group",
+    "role": "Analytics Leadership Development Intern - ALDP",
+    "locations": [
+      "Bloomfield, CT"
+    ],
+    "link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Cigna Group",
+    "role": "Artificial Intelligence Innovation Development Intern",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Auto-Owners Insurance",
+    "role": "Business Intelligence Developer Intern - Summer 2027",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "Data Science Intern - Data Intelligence",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "AI Solutions Intern",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "Data Governance Intern",
+    "locations": [
+      "St Paul, MN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Allied Solutions",
+    "role": "IT Performance Analyst Intern",
+    "locations": [
+      "Carmel, IN"
+    ],
+    "link": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "United Airlines",
+    "role": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://careers.united.com/us/en/job/WHQ00026447",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "United Airlines",
+    "role": "Operations Data & Analytics Intern - Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://careers.united.com/us/en/job/WHQ00026620",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Western & Southern Financial Group",
+    "role": "Actuarial Intern - Summer 2027",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "link": "https://careers-westernsouthern.icims.com/jobs/25106/job",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Quantitative Analyst Summer Associate - Quantitative Technology Services",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Sensata",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "South Burlington, VT"
+    ],
+    "link": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Dynapower-South-Burlington-VT/Electrical-Engineer-Intern--Dynapower----Summer-2027_IRC98423",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical-Engineer-Intern--Summer-2027-_01868065",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Intel",
+    "role": "Platform Hardware and Systems Engineering Intern - Bachelor's",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Intel",
+    "role": "Silicon Hardware Engineering Intern - Graduate",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Intel",
+    "role": "Platform Hardware and Systems Engineering Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Phoenix, AZ"
+    ],
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Engenious Design",
+    "role": "Systems Architecture Intern",
+    "locations": [
+      "Prairie Village, KS"
+    ],
+    "link": "http://engeniousdesign.applytojob.com/apply/U4TbKXcygp/Internship-2027-SystemsArchitecture",
+    "is_closed": false,
+    "date_posted": "2026-09-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Hadrian",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Los Angeles, CA",
+      "Torrance, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "National Information Solutions Cooperative",
+    "role": "Software Development Intern",
+    "locations": [
+      "Lake St Louis, MO",
+      "Mandan, ND",
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://job-boards.greenhouse.io/nisc/jobs/8092699",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Kinder Morgan",
+    "role": "Intern - IT",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "link": "https://careers.kindermorgan.com/jobs/6171",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Hermeus",
+    "role": "Software Engineer Intern - Command & Control",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Application Software Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4955/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Unified Communications Technology Intern",
+    "locations": [
+      "Skokie, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5002/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Mobile Applications Intern - iOS",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5007/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Cloud Applications Development Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4965/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Automated Test Software Engineering Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4964/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4996/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Cloud Software Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4976/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Application Systems Development Intern - Motive Mix",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5021/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Mobile Applications Intern - Android",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5006/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Application Software Development Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5020/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Universal Health Services",
+    "role": "Software Engineer Intern - Data Analytics",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "link": "https://jobs.uhsinc.com/jobs/367247",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Steel Dynamics",
+    "role": "Software Development Intern",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "link": "https://careers-steeldynamics.icims.com/jobs/7994/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Roblox",
+    "role": "Product Management Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7677493272788683013",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Global Product Management Intern - Conferencing",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4990/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Global Product Management Data Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5024/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Hadrian",
+    "role": "Data Science/Data Engineer Intern",
+    "locations": [
+      "Los Angeles, CA",
+      "Torrance, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "National Information Solutions Cooperative",
+    "role": "Data Engineer Intern",
+    "locations": [
+      "Lake St Louis, MO",
+      "Mandan, ND",
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://job-boards.greenhouse.io/nisc/jobs/8167858",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "role": "Acoustic Algorithm Development Engineer Intern",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "link": "https://careers.jhuapl.edu/jobs/59784",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Artificial Intelligence Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4966/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Quality Data Engineering Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4995/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Artificial Intelligence Specialist Intern - Operations",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5029/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Web Analytics Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5027/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Data Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4982/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Applied Research Science Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4967/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Audio Applied Research Science Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4968/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Data-Driven Sustainability Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4979/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "RSM",
+    "role": "Enterprise Data Integration and Migration Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/USA-TX-Dallas-13155-Noel-Road/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116784",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Garda Capital Partners",
+    "role": "Trading Analyst Intern - Credit",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/gardacp/jobs/6163540004",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Garda Capital Partners",
+    "role": "Trading Analyst Intern - Mortgages",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/gardacp/jobs/6179468004",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Garda Capital Partners",
+    "role": "Trading Analyst Intern - Rates",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/gardacp/jobs/4934006004",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Deutsche Bank",
+    "role": "Quantitative Trading Intern - Fixed Income & Currencies",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Deutsche Bank",
+    "role": "Quant Intern - Strategic Analytics",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Apex",
+    "role": "Software Engineer Intern - Embedded Systems",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "General Matter",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Automated Test Engineer Intern - Hardware",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4960/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Digital Signal Processing Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4957/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Audio DSP Engineer Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4971/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "FPGA Development Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4985/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Audio Test Engineering Intern",
+    "locations": [
+      "Skokie, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/4973/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Electrical Engineer Intern - Pro Audio Circuitry",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5017/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
+    "source": "simplify"
+  },
+  {
+    "company": "Shure",
+    "role": "Embedded Software Intern",
+    "locations": [
+      "Niles, IL"
+    ],
+    "link": "https://careersus-shure.icims.com/jobs/5018/job",
+    "is_closed": false,
+    "date_posted": "2026-09-03",
     "source": "simplify"
   }
 ]
