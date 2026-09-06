@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
-> *Showing active listings from the last **30 days** (since `2026-08-06`).*  
-> *Last updated: `2026-09-05 10:10 UTC`*
+> *Showing active listings from the last **30 days** (since `2026-08-07`).*  
+> *Last updated: `2026-09-06 10:31 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -39,6 +39,7 @@
 | 2026-09-05 | **PayPal** | Software Engineer Intern | Austin, TX, San Jose, CA, Chicago, IL | [Apply](https://paypal.eightfold.ai/careers/job/274922260559) |
 | 2026-09-05 | **Nokia** | AI Agent Development Co-op | San Jose, CA | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978) |
 | 2026-09-05 | **Nokia** | Optical Test Co-op | San Jose, CA | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023) |
+| 2026-09-05 | **Marvell** | Advanced Packaging Intern | Austin, TX, Santa Clara, CA, Westlake Village, CA *(+3 more)* | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519) |
 | 2026-09-05 | **Keysight Technologies** | Full Stack Intern | Colorado Springs, CO | [Apply](https://jobs.keysight.com/jobs/54165) |
 | 2026-09-05 | **ID.me** | Software Development Engineer Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) |
 | 2026-09-05 | **Hunt Oil Company** | Reservoir Engineer Intern | Dallas, TX | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1058) |
@@ -50,6 +51,7 @@
 | 2026-09-05 | **CSX** | Sales & Marketing Analytics Intern - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) |
 | 2026-09-05 | **CDM Smith** | Electrical Engineer Intern - Summer 2027 | Latham, NY | [Apply](https://careers.cdmsmith.com/jobs/4398) |
 | 2026-09-05 | **Apex** | Simulation Software Engineering Intern | Los Angeles, CA | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true) |
+| 2026-09-05 | **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | [Apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
 | 2026-09-04 | **Wipfli** | Product Development Intern | Milwaukee, WI | [Apply](https://careers-wipfli.icims.com/jobs/8307/job) |
 | 2026-09-04 | **Wipfli** | Product Development Intern | Chicago, IL | [Apply](https://careers-wipfli.icims.com/jobs/8305/job) |
 | 2026-09-04 | **Wipfli** | Product Development Intern - Summer 2027 | Minneapolis, MN | [Apply](https://careers-wipfli.icims.com/jobs/8304/job) |
@@ -298,7 +300,6 @@
 | 2026-09-02 | **Allied Solutions** | IT Performance Analyst Intern | Carmel, IN | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082) |
 | 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | [Apply](https://careers.amd.com/jobs/91865) |
 | 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op - Masters | Austin, TX, Longmont, CO, Fishkill, NY *(+2 more)* | [Apply](https://careers.amd.com/jobs/91867) |
-| 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op | Austin, TX, Longmont, CO, Fishkill, NY *(+2 more)* | [Apply](https://careers.amd.com/jobs/91864) |
 | 2026-09-01 | **Woodward Governor** | SAP S/4HANA Analyst Intern | Rockford, IL, Niles, IL, Fort Collins, CO | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-S-4-HANA-Analyst-Intern-Summer-2027_JR112066) |
 | 2026-09-01 | **Williams-Sonoma** | Merchandising Intern | Brooklyn, NY | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) |
 | 2026-09-01 | **WhatNot** | Software Engineer Intern | Seattle, WA, San Francisco, CA, Los Angeles, CA *(+1 more)* | [Apply](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) |
@@ -380,6 +381,7 @@
 | 2026-09-01 | **HP IQ** | Software Engineer Intern - AML Platform | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) |
 | 2026-09-01 | **HP IQ** | Software Engineer Intern - Product & Developer Productivity - Summer 2027 | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114890004) |
 | 2026-09-01 | **HNTB** | Strategic Technology Intern | Tampa, FL, Tallahassee, FL | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Strategic-Technology-Intern---Summer-2027_R-31411-1) |
+| 2026-09-01 | **Greenheck Group** | Engineering Co-op | Tulsa, OK | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348) |
 | 2026-09-01 | **Grant Thornton** | AI, Data & Technology Intern - Summer 2027 | Minneapolis, MN | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750) |
 | 2026-09-01 | **Grant Thornton** | AI, Data & Technology Intern - Summer 2027 | Dallas, TX | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115733) |
 | 2026-09-01 | **Grant Thornton** | AI, Data & Technology Intern - Summer 2027 | Charlotte, NC | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704) |
@@ -956,6 +958,7 @@
 | 2026-08-15 | **Goldman Sachs** | Summer Analyst Intern | New York, NY | [Apply](https://higher.gs.com/roles/171550?type=students) |
 | 2026-08-15 | **Goldman Sachs** | Quantitative Strats Analyst Intern - Americas - Investment Banking | Dallas, TX | [Apply](https://higher.gs.com/roles/171548?type=students) |
 | 2026-08-15 | **Goldman Sachs** | Quantitative Strategist Intern - Americas | Dallas, TX | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| 2026-08-15 | **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | [Apply](https://higher.gs.com/roles/177808?type=students) |
 | 2026-08-15 | **Freeform** | Software Engineer Intern - Summer 2027 | Los Angeles, CA | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
 | 2026-08-15 | **ByteDance** | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7668315137242351925/detail) |
 | 2026-08-15 | **ByteDance** | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
@@ -1065,25 +1068,5 @@
 | 2026-08-07 | **ByteDance** | Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7670855041951795509/detail) |
 | 2026-08-07 | **Ameren** | DERMS Co-op/Intern | St. Louis, MO, Illinois | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1) |
 | 2026-08-07 | **Ameren** | Digital Co-op | St. Louis, MO | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) |
-| 2026-08-06 | **Vertiv** | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) |
-| 2026-08-06 | **TikTok** | Software Engineer Intern - Foundation Platform | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670281449668905269) |
-| 2026-08-06 | **TikTok** | Software Engineer Intern - Media Engine | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670295535077427509) |
-| 2026-08-06 | **TikTok** | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | [Apply](https://lifeattiktok.com/search/7668820702623467781) |
-| 2026-08-06 | **TikTok** | Product Manager Intern - Product Infrastructure - Account | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670009830602721589) |
-| 2026-08-06 | **TikTok** | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670420287191517493) |
-| 2026-08-06 | **TikTok** | LLM Post-training Engineer Intern - Research & Product | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670285031018432773) |
-| 2026-08-06 | **Roblox** | Software Engineer Intern | San Mateo, CA | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
-| 2026-08-06 | **ByteDance** | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7670690923748870405/detail) |
-| 2026-08-06 | **ByteDance** | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7668464504736876853/detail) |
-| 2026-08-06 | **ByteDance** | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
-| 2026-08-06 | **ByteDance** | Applied Machine Learning Production Engineer Intern - AML Production Engineer | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7670009669494704437/detail) |
-| 2026-08-06 | **ByteDance** | Research Scientist Intern - Multimedia Streaming | San Diego, CA | [Apply](https://jobs.bytedance.com/en/position/7670354800621603125/detail) |
-| 2026-08-06 | **ByteDance** | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |
-| 2026-08-06 | **ByteDance** | Applied Machine Learning Production Engineer Intern | San Jose, CA | [Apply](https://joinbytedance.com/search/7670009669494704437) |
-| 2026-08-06 | **ByteDance** | GPU/AI Application System Software Engineer Intern | San Jose, CA | [Apply](https://joinbytedance.com/search/7668464504736876853) |
-| 2026-08-06 | **ByteDance** | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | [Apply](https://joinbytedance.com/search/7670690923748870405) |
-| 2026-08-06 | **ByteDance** | Backend Developer Intern - Infrastructure Platform Delivery | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7668489218234157365/detail) |
-| 2026-08-06 | **American Express** | Product Management Intern - Global Merchant & Network Services | New York, NY | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152) |
-| 2026-08-06 | **American Express** | Product Management Intern - Global Merchant & Network Services | Phoenix, AZ | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) |
 
-*Total Active Opportunities: 1075*
+*Total Active Opportunities: 1058*

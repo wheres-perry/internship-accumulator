@@ -3822,6 +3822,17 @@
   },
   {
     "company": "TikTok",
+    "role": "Machine Learning Scientist Intern - Recommendation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7662657855099357493",
+    "is_closed": false,
+    "date_posted": "2026-08-03",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
     "role": "Machine Learning Engineer Intern - Data Search Search Quality",
     "locations": [
       "San Jose, CA"
@@ -3838,17 +3849,6 @@
       "San Jose, CA"
     ],
     "link": "https://lifeattiktok.com/search/7667338938890930437",
-    "is_closed": false,
-    "date_posted": "2026-08-03",
-    "source": "simplify"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern - Search Quality",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "link": "https://lifeattiktok.com/search/7665475460339665157",
     "is_closed": false,
     "date_posted": "2026-08-03",
     "source": "simplify"
@@ -6747,6 +6747,17 @@
       "Dallas, TX"
     ],
     "link": "https://higher.gs.com/roles/171532?type=students",
+    "is_closed": false,
+    "date_posted": "2026-08-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Summer Analyst Intern - Engineering",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://higher.gs.com/roles/177808?type=students",
     "is_closed": false,
     "date_posted": "2026-08-15",
     "source": "simplify"
@@ -14274,6 +14285,17 @@
     "source": "simplify"
   },
   {
+    "company": "Greenheck Group",
+    "role": "Engineering Co-op",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "link": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
     "company": "ByteDance",
     "role": "Research Intern - AI-Native Databases",
     "locations": [
@@ -14553,21 +14575,6 @@
       "Boxborough, MA"
     ],
     "link": "https://careers.amd.com/jobs/91867",
-    "is_closed": false,
-    "date_posted": "2026-09-02",
-    "source": "simplify"
-  },
-  {
-    "company": "AMD",
-    "role": "Compiler Engineer Intern/Co-op",
-    "locations": [
-      "Austin, TX",
-      "Longmont, CO",
-      "Fishkill, NY",
-      "Fort Collins, CO",
-      "Boxborough, MA"
-    ],
-    "link": "https://careers.amd.com/jobs/91864",
     "is_closed": false,
     "date_posted": "2026-09-02",
     "source": "simplify"
@@ -17554,6 +17561,33 @@
       "San Jose, CA"
     ],
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023",
+    "is_closed": false,
+    "date_posted": "2026-09-05",
+    "source": "simplify"
+  },
+  {
+    "company": "AArete",
+    "role": "Business Analytics Intern - Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false",
+    "is_closed": false,
+    "date_posted": "2026-09-05",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Advanced Packaging Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Westlake Village, CA",
+      "Burlington, VT",
+      "Chandler, AZ",
+      "Westborough, MA"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519",
     "is_closed": false,
     "date_posted": "2026-09-05",
     "source": "simplify"
