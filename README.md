@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
-> *Showing active listings from the last **30 days** (since `2026-08-07`).*  
-> *Last updated: `2026-09-06 10:31 UTC`*
+> *Showing active listings from the last **30 days** (since `2026-08-08`).*  
+> *Last updated: `2026-09-07 11:54 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -10,6 +10,38 @@
 
 | Date Posted | Company | Job Title | Locations | Application Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-07 | **Xcel Energy** | AI Solutions Development Intern | Minneapolis, MN, Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1) |
+| 2026-09-07 | **Xcel Energy** | AI & Automation Intern - Regulatory | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) |
+| 2026-09-07 | **Xcel Energy** | Renewable and Demand Response Intern | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Renewable-and-Demand-Response-Intern--CO_JR115433-1) |
+| 2026-09-07 | **Xcel Energy** | Renewable Operations Center Intern | Golden, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern--CO_JR115736-1) |
+| 2026-09-07 | **Xcel Energy** | Resource Planning Intern | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
+| 2026-09-07 | **Xcel Energy** | Gas Data Intern | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Data-Intern--CO_JR116314-1) |
+| 2026-09-07 | **Xcel Energy** | Wildfire Analyst Intern | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) |
+| 2026-09-07 | **Xcel Energy** | Power Generation Analytics Intern | Henderson, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Power-Generation-Analytics-Intern--CO_JR115734-2) |
+| 2026-09-07 | **Xcel Energy** | Asset Strategy & Budget Integration Intern | Henderson, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Asset-Strategy---Budget-Integration-Intern--CO_JR115564-1) |
+| 2026-09-07 | **Xcel Energy** | Data Analyst Intern | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833) |
+| 2026-09-07 | **Xcel Energy** | Data Science Intern | Minneapolis, MN, Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1) |
+| 2026-09-07 | **Xcel Energy** | Grid Data Intern | Minneapolis, MN | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
+| 2026-09-07 | **Xcel Energy** | GIS Intern | Minneapolis, MN | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/GIS-Intern---MN_JR115658) |
+| 2026-09-07 | **Xcel Energy** | Data Scientist Intern | Minneapolis, MN, Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Data-Scientist-Intern---MN--CO_JR115668-1) |
+| 2026-09-07 | **Xcel Energy** | Energy Supply Renewable Intern - MN | Minneapolis, MN | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Energy-Supply-Renewable-Intern---MN_JR115609-1) |
+| 2026-09-07 | **Xcel Energy** | Reporting and Compliance Analyst Intern | Minneapolis, MN | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Reporting-and-Compliance-Analyst-Intern---MN_JR115608-1) |
+| 2026-09-07 | **Tokyo Electron** | Automation Developer/Analyst Intern | Austin, TX | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497) |
+| 2026-09-07 | **Tokyo Electron** | Data Platforms Engineer Intern | Austin, TX | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498) |
+| 2026-09-07 | **Tokyo Electron** | Business Intelligence Analyst Intern | Austin, TX | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504) |
+| 2026-09-07 | **NXP Semiconductors** | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) |
+| 2026-09-07 | **NXP Semiconductors** | Embedded Machine Learning & Radar Processing Intern - Summer 2027 | San Jose, CA | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) |
+| 2026-09-07 | **NXP Semiconductors** | Data Analytics Engineer Intern - Summer 2027 | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) |
+| 2026-09-07 | **NXP Semiconductors** | Digital Validation Intern | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557) |
+| 2026-09-07 | **NXP Semiconductors** | Digital Physical Design Intern | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546) |
+| 2026-09-07 | **NXP Semiconductors** | Device Engineering Intern - Summer 2027 | Chandler, AZ | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586) |
+| 2026-09-07 | **NXP Semiconductors** | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | San Diego, CA | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562) |
+| 2026-09-07 | **NXP Semiconductors** | Microcontrollers System Engineering Intern | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1) |
+| 2026-09-07 | **NXP Semiconductors** | Digital Verification Intern - Summer 2027 | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552) |
+| 2026-09-07 | **NXP Semiconductors** | Digital Design Intern | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551) |
+| 2026-09-07 | **NXP Semiconductors** | Analog Validation Intern - Summer 2027 | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558) |
+| 2026-09-07 | **NXP Semiconductors** | FAB Device Engineer Intern - Summer 2027 | Austin, TX | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583) |
+| 2026-09-07 | **ICF International** | Software Developer Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
 | 2026-09-05 | **Zipline** | Aircraft Software Integration Intern | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) |
 | 2026-09-05 | **Westinghouse Electric Company** | Application Development Intern | Cranberry Township, PA | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800) |
 | 2026-09-05 | **Westinghouse Electric Company** | Enovia PLM Developer Intern - Enovia PLM | Cranberry Township, PA | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600) |
@@ -300,6 +332,7 @@
 | 2026-09-02 | **Allied Solutions** | IT Performance Analyst Intern | Carmel, IN | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082) |
 | 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | [Apply](https://careers.amd.com/jobs/91865) |
 | 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op - Masters | Austin, TX, Longmont, CO, Fishkill, NY *(+2 more)* | [Apply](https://careers.amd.com/jobs/91867) |
+| 2026-09-02 | **AMD** | Compiler Engineer Intern/Co-op | Austin, TX, Longmont, CO, Fishkill, NY *(+2 more)* | [Apply](https://careers.amd.com/jobs/91864) |
 | 2026-09-01 | **Woodward Governor** | SAP S/4HANA Analyst Intern | Rockford, IL, Niles, IL, Fort Collins, CO | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-S-4-HANA-Analyst-Intern-Summer-2027_JR112066) |
 | 2026-09-01 | **Williams-Sonoma** | Merchandising Intern | Brooklyn, NY | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) |
 | 2026-09-01 | **WhatNot** | Software Engineer Intern | Seattle, WA, San Francisco, CA, Los Angeles, CA *(+1 more)* | [Apply](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) |
@@ -394,8 +427,8 @@
 | 2026-09-01 | **First National Bank** | Application Development Intern | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847) |
 | 2026-09-01 | **First National Bank** | Data Management Intern - Data Quality and Governance | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2026-Data-Management-Intern---Pittsburgh--PA_2026-01833) |
 | 2026-09-01 | **First National Bank** | Data Engineer Intern | Pittsburgh, PA, Hermitage, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714) |
-| 2026-09-01 | **First National Bank** | Data Engineering Intern | Pittsburgh, PA, Hermitage, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) |
 | 2026-09-01 | **First National Bank** | Systems Analyst Intern - Consumer and Commercial Banking Technology | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021) |
+| 2026-09-01 | **First National Bank** | Data Engineering Intern | Pittsburgh, PA, Hermitage, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) |
 | 2026-09-01 | **First National Bank** | AI/Machine Learning Modeler Intern | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
 | 2026-09-01 | **First National Bank** | Corporate Analytics Intern | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Corporate-Analytics-Intern_2026-01910) |
 | 2026-09-01 | **First National Bank** | AI and Innovation Intern | Pittsburgh, PA | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) |
@@ -1059,14 +1092,5 @@
 | 2026-08-08 | **Axon** | Software Engineer Intern | Boston, MA, Seattle, WA | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
 | 2026-08-08 | **Axon** | 2027 US Electrical Engineering Internship | Scottsdale, AZ | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003) |
 | 2026-08-08 | **Atoms** | Software Engineer Intern - Summer 2027 | Seattle, WA, San Francisco, CA, Los Angeles, CA *(+2 more)* | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) |
-| 2026-08-07 | **TikTok** | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
-| 2026-08-07 | **TikTok** | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670738362521520437) |
-| 2026-08-07 | **Royal Bank of Canada** | Global Markets Quantitative Trading Summer Analyst - Capital Markets | New York, NY | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468) |
-| 2026-08-07 | **Medline** | MBA Intern - Product Management | Chicago, IL, Northfield, IL | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) |
-| 2026-08-07 | **ByteDance** | Network Software Engineer Intern - Network Switch | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7670778018960542005/detail) |
-| 2026-08-07 | **ByteDance** | Network Software Engineer Intern - Network Observation | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7670772641439041797/detail) |
-| 2026-08-07 | **ByteDance** | Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7670855041951795509/detail) |
-| 2026-08-07 | **Ameren** | DERMS Co-op/Intern | St. Louis, MO, Illinois | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1) |
-| 2026-08-07 | **Ameren** | Digital Co-op | St. Louis, MO | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) |
 
-*Total Active Opportunities: 1058*
+*Total Active Opportunities: 1082*
