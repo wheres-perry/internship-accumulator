@@ -3894,6 +3894,17 @@
   },
   {
     "company": "TikTok",
+    "role": "Machine Learning Engineer Intern - Search Quality",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7665475460339665157",
+    "is_closed": false,
+    "date_posted": "2026-08-03",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
     "role": "Machine Learning Engineer Intern - Basic Ranking",
     "locations": [
       "San Jose, CA"
@@ -13981,23 +13992,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -20928,6 +20939,17 @@
     "source": "simplify"
   },
   {
+    "company": "Stand Together",
+    "role": "Strategic Research Intern - Pacific Legal Foundation",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "link": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
+    "is_closed": false,
+    "date_posted": "2026-09-10",
+    "source": "simplify"
+  },
+  {
     "company": "Wellmark",
     "role": "Software Engineer Intern",
     "locations": [
@@ -21682,6 +21704,17 @@
     "source": "simplify"
   },
   {
+    "company": "USAA",
+    "role": "Product Management Analyst Intern - Property and Casualty",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+    "is_closed": false,
+    "date_posted": "2026-09-11",
+    "source": "simplify"
+  },
+  {
     "company": "Constellation Energy",
     "role": "Information Technology Software Development Intern",
     "locations": [
@@ -22215,6 +22248,28 @@
     "link": "https://jobs.smartrecruiters.com/WesternDigital/744000149106240",
     "is_closed": false,
     "date_posted": "2026-09-12",
+    "source": "simplify"
+  },
+  {
+    "company": "AnaVation",
+    "role": "Computer Science Intern - Summer 2027",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "link": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Klaviyo",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
     "source": "simplify"
   }
 ]

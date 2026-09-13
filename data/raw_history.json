@@ -24698,5 +24698,49 @@
     "is_closed": false,
     "date_posted": "2026-09-09",
     "source": "simplify"
+  },
+  {
+    "company": "AnaVation",
+    "role": "Computer Science Intern - Summer 2027",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "link": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Klaviyo",
+    "role": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "USAA",
+    "role": "Product Management Analyst Intern - Property and Casualty",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+    "is_closed": false,
+    "date_posted": "2026-09-11",
+    "source": "simplify"
+  },
+  {
+    "company": "Stand Together",
+    "role": "Strategic Research Intern - Pacific Legal Foundation",
+    "locations": [
+      "Arlington County, Arlington, VA"
+    ],
+    "link": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
+    "is_closed": false,
+    "date_posted": "2026-09-10",
+    "source": "simplify"
   }
 ]
