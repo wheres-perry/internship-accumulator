@@ -24742,5 +24742,110 @@
     "is_closed": false,
     "date_posted": "2026-09-10",
     "source": "simplify"
+  },
+  {
+    "company": "Philips",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Plymouth, MN"
+    ],
+    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "Guardian Life",
+    "role": "Summer Intern - Digital & Technology - AI & Machine Learning",
+    "locations": [
+      "Holmdel, NJ",
+      "New York, NY",
+      "Bethlehem, PA"
+    ],
+    "link": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "Guardian Life",
+    "role": "Application Development Intern - Digital & Technology",
+    "locations": [
+      "Holmdel, NJ",
+      "New York, NY",
+      "Bethlehem, PA"
+    ],
+    "link": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "TD Bank",
+    "role": "Software Engineer Intern - Global Technology & Solutions",
+    "locations": [
+      "Mt Laurel Township, NJ"
+    ],
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Guardian Life",
+    "role": "Data Engineering Intern - Digital & Technology",
+    "locations": [
+      "Holmdel, NJ",
+      "New York, NY",
+      "Bethlehem, PA"
+    ],
+    "link": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "TD Bank",
+    "role": "Data Analyst Intern - Global Technology & Solutions",
+    "locations": [
+      "Mt Laurel Township, NJ"
+    ],
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "TD Bank",
+    "role": "Data Engineer Intern - Global Technology & Solutions",
+    "locations": [
+      "Mt Laurel Township, NJ"
+    ],
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Boston Scientific",
+    "role": "Software Engineer Intern - Interns/Graduates",
+    "locations": [
+      "Maple Grove, MN"
+    ],
+    "link": "https://bostonscientific.eightfold.ai/careers/job/563602813549535",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
   }
 ]
