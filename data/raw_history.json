@@ -29796,5 +29796,104 @@
     "is_closed": false,
     "date_posted": "2026-09-18",
     "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Information Technology Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Perpay",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "link": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+    "is_closed": false,
+    "date_posted": "2026-09-11",
+    "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Ecommerce Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Data Science Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "MFS",
+    "role": "Consultant Relations Co-op - January - June",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "role": "Reliability and Statistics Intern",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594",
+    "is_closed": false,
+    "date_posted": "2026-09-20",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Camarillo, CA"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Digital Engineer Intern",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
   }
 ]

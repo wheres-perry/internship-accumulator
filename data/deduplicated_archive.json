@@ -1985,49 +1985,7 @@
     "role": "Google Software Engineering Intern, BS (Summer 2027)",
     "locations": [
       "Mountain View",
-      "CA (multiple US)",
-      "CA",
-      "Atlanta",
-      "GA",
-      "Austin",
-      "TX",
-      "Boulder",
-      "CO",
-      "Cambridge",
-      "MA",
-      "Bellevue",
-      "WA",
-      "Chicago",
-      "IL",
-      "Houston",
-      "Irvine",
-      "Kirkland",
-      "Los Angeles",
-      "Madison",
-      "WI",
-      "New York, NY",
-      "NY",
-      "Palo Alto",
-      "Portland",
-      "OR",
-      "Pittsburgh",
-      "PA",
-      "Raleigh",
-      "NC",
-      "Durham",
-      "Reston",
-      "VA",
-      "Redmond",
-      "Redwood City",
-      "San Diego",
-      "Goleta",
-      "San Bruno",
-      "Seattle",
-      "San Francisco",
-      "San Jose",
-      "Santa Cruz",
-      "South San Francisco",
-      "Sunnyvale"
+      "CA (multiple US)"
     ],
     "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
     "is_closed": false,
@@ -2362,6 +2320,76 @@
       "NY"
     ],
     "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+    "is_closed": false,
+    "date_posted": "2026-07-24",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Mountain View",
+      "CA",
+      "Atlanta",
+      "GA",
+      "Austin",
+      "TX",
+      "Boulder",
+      "CO",
+      "Cambridge",
+      "MA",
+      "Bellevue",
+      "WA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "TX",
+      "Irvine",
+      "CA",
+      "Kirkland",
+      "WA",
+      "Los Angeles",
+      "CA",
+      "Madison",
+      "WI",
+      "New York, NY",
+      "NY",
+      "Palo Alto",
+      "CA",
+      "Portland",
+      "OR",
+      "Pittsburgh",
+      "PA",
+      "Raleigh",
+      "NC",
+      "Durham",
+      "NC",
+      "Reston",
+      "VA",
+      "Redmond",
+      "WA",
+      "Redwood City",
+      "CA",
+      "San Diego",
+      "CA",
+      "Goleta",
+      "CA",
+      "San Bruno",
+      "CA",
+      "Seattle",
+      "WA",
+      "San Francisco",
+      "CA",
+      "San Jose",
+      "CA",
+      "Santa Cruz",
+      "CA",
+      "South San Francisco",
+      "CA",
+      "Sunnyvale",
+      "CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
     "is_closed": false,
     "date_posted": "2026-07-24",
     "source": "vanshb03"
@@ -3443,17 +3471,6 @@
       "Needham, MA"
     ],
     "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-    "is_closed": false,
-    "date_posted": "2026-08-02",
-    "source": "simplify"
-  },
-  {
-    "company": "Two Sigma",
-    "role": "AI Research Scientist Intern - 2027 Summer",
-    "locations": [
-      "New York, NY"
-    ],
-    "link": "https://twosigma.avature.net/careers/JobDetail/14096",
     "is_closed": false,
     "date_posted": "2026-08-02",
     "source": "simplify"
@@ -13998,23 +14015,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -21756,6 +21773,17 @@
     "source": "simplify"
   },
   {
+    "company": "Perpay",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "link": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+    "is_closed": false,
+    "date_posted": "2026-09-11",
+    "source": "simplify"
+  },
+  {
     "company": "Constellation Energy",
     "role": "Information Technology Software Development Intern",
     "locations": [
@@ -26755,6 +26783,94 @@
     "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
     "is_closed": false,
     "date_posted": "2026-09-19",
+    "source": "simplify"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "role": "Reliability and Statistics Intern",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594",
+    "is_closed": false,
+    "date_posted": "2026-09-20",
+    "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Information Technology Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Ecommerce Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "AutoZone",
+    "role": "Data Science Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "link": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "MFS",
+    "role": "Consultant Relations Co-op - January - June",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Camarillo, CA"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Digital Engineer Intern",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Baltimore, MD"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
     "source": "simplify"
   }
 ]
