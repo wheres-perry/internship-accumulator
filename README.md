@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
 > *Showing active listings from the last **30 days** (since `2026-08-22`).*  
-> *Last updated: `2026-09-21 12:18 UTC`*
+> *Last updated: `2026-09-21 17:21 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -10,13 +10,23 @@
 
 | Date Posted | Company | Job Title | Locations | Application Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-21 | **Upbound Group** | Software Engineer Intern | Plano, TX | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761) |
+| 2026-09-21 | **Upbound Group** | Software Engineer Intern | Draper, UT | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759) |
+| 2026-09-21 | **Upbound Group** | Digital Commerce Intern | Plano, TX | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767) |
+| 2026-09-21 | **Upbound Group** | Customer Performance Analytics Intern | Plano, TX | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Customer-Performance-Analytics-Intern_R-100769) |
+| 2026-09-21 | **RSM** | Tax Digital Services Intern - AI Engineering | Charlotte, NC | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297) |
 | 2026-09-21 | **Northrop Grumman** | Embedded Software Engineer Intern | Camarillo, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835) |
 | 2026-09-21 | **Northrop Grumman** | Digital Engineer Intern | Baltimore, MD | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1) |
 | 2026-09-21 | **Northrop Grumman** | Embedded Software Engineer Intern | Baltimore, MD | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464) |
 | 2026-09-21 | **MFS** | Consultant Relations Co-op - January - June | Boston, MA | [Apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931) |
+| 2026-09-21 | **Lazard** | AI Engineer Intern | New York, NY | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) |
+| 2026-09-21 | **Lazard** | Data Engineer Intern | New York, NY | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) |
+| 2026-09-21 | **First Citizens BancShares** | Quantitative Analysis Intern - Quantitative Analysis | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35602) |
+| 2026-09-21 | **Fidelity Investments** | Undergraduate Internship - Software | Boston, MA, Westlake, TX, Durham, NC | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) |
 | 2026-09-21 | **AutoZone** | Information Technology Intern | Memphis, TN | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) |
 | 2026-09-21 | **AutoZone** | Ecommerce Intern | Memphis, TN | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) |
 | 2026-09-21 | **AutoZone** | Data Science Intern | Memphis, TN | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
+| 2026-09-21 | **Acima** | Software Engineer Intern | Draper, UT | [Apply](https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1) |
 | 2026-09-20 | **The Aerospace Corporation** | Reliability and Statistics Intern | El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
 | 2026-09-19 | **Waymo** | Learning-Based Behavior Intern | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8203191) |
 | 2026-09-19 | **Waymo** | Product Data Science Intern | San Francisco, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
@@ -274,6 +284,7 @@
 | 2026-09-15 | **NVIDIA** | PhD Research Intern - Generative AI for Physical AI | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
 | 2026-09-15 | **NVIDIA** | Physical Design and Timing Engineer Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
 | 2026-09-15 | **NJM Insurance Group** | Data Science Intern | Trenton, NJ | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284) |
+| 2026-09-15 | **Lowe's** | Merchandising Analyst Intern | Mooresville, NC | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
 | 2026-09-15 | **LexisNexis Legal & Professional** | Software Engineer Intern | Raleigh, NC | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692) |
 | 2026-09-15 | **LexisNexis Legal & Professional** | Data Science Intern | Raleigh, NC | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) |
 | 2026-09-15 | **Keysight Technologies** | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54226) |
@@ -1566,4 +1577,4 @@
 | 2026-08-22 | **Hitachi** | Engineering Intern | Raleigh, NC | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) |
 | 2026-08-22 | **AMD** | Research Engineering Intern/Co-op - AMD Research | Secaucus, NJ, Austin, TX, Longmont, CO *(+3 more)* | [Apply](https://careers.amd.com/jobs/90926) |
 
-*Total Active Opportunities: 1555*
+*Total Active Opportunities: 1566*
