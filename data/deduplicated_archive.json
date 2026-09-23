@@ -3314,8 +3314,7 @@
     "company": "Melius",
     "role": "Software Engineer Intern",
     "locations": [
-      "New York, NY",
-      "NY"
+      "New York, NY"
     ],
     "link": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true",
     "is_closed": false,
@@ -3888,17 +3887,6 @@
       "San Jose, CA"
     ],
     "link": "https://lifeattiktok.com/search/7667338938890930437",
-    "is_closed": false,
-    "date_posted": "2026-08-03",
-    "source": "simplify"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern - Search Quality",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "link": "https://lifeattiktok.com/search/7665475460339665157",
     "is_closed": false,
     "date_posted": "2026-08-03",
     "source": "simplify"
@@ -4733,6 +4721,18 @@
       "WA"
     ],
     "link": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+    "is_closed": false,
+    "date_posted": "2026-08-04",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Melius",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
     "is_closed": false,
     "date_posted": "2026-08-04",
     "source": "vanshb03"
@@ -14037,23 +14037,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -27104,17 +27104,6 @@
   },
   {
     "company": "Booz Allen",
-    "role": "Software Developer Intern - Summer Games",
-    "locations": [
-      "McLean, VA"
-    ],
-    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818",
-    "is_closed": false,
-    "date_posted": "2026-09-21",
-    "source": "simplify"
-  },
-  {
-    "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
       "Annapolis Junction, MD"
@@ -27834,6 +27823,606 @@
     "link": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150748389",
     "is_closed": false,
     "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "USAA",
+    "role": "Visualization Engineer Intern",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Visualization-Engineer-Intern_R0121201",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "role": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "East Hartford, CT"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
+    "locations": [
+      "East Hartford, CT"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Operations Software Engineering Intern - Summer 2027",
+    "locations": [
+      "Burnsville, MN"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Portsmouth, RI"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Software Development Intern - Wealth Management Technology",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Procter & Gamble",
+    "role": "R&D Intern - AI Research Engineer",
+    "locations": [
+      "Mason, OH"
+    ],
+    "link": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Leidos",
+    "role": "Software Developer Intern - Cyber & Analytics Business Area",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Project Delivery Digital Engineering & Property Services Co-op",
+    "locations": [
+      "New Brunswick, NJ"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "GuideStone",
+    "role": "Software Developer Intern - Software Development",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Charter Manufacturing",
+    "role": "Digital Integration Intern",
+    "locations": [
+      "Mequon, WI"
+    ],
+    "link": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Tyler Technologies",
+    "role": "Software Development Intern - Summer 2027",
+    "locations": [
+      "Yarmouth, ME",
+      "Orono, ME",
+      "Falmouth, ME"
+    ],
+    "link": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Mastercard",
+    "role": "Product Management Intern - Summer 2027",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "link": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Verizon Communications",
+    "role": "AI Science Intern - Multiple Teams",
+    "locations": [
+      "Basking Ridge, Bernards, NJ"
+    ],
+    "link": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Verizon Communications",
+    "role": "AI Science Intern - Network and Technology",
+    "locations": [
+      "Basking Ridge, Bernards, NJ"
+    ],
+    "link": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "USAA",
+    "role": "AI/ML Engineer Intern",
+    "locations": [
+      "Plano, TX"
+    ],
+    "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "USAA",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "Plano, TX"
+    ],
+    "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Stryker",
+    "role": "Data Analytics Intern",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "link": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Gordon Food Service",
+    "role": "Category Support Intern",
+    "locations": [
+      "Wyoming, MI"
+    ],
+    "link": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intern--NA-Category-Support_R-57473",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Dallas Fort Worth International Airport",
+    "role": "Undergraduate Internship - Environmental Technical Projects",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Daimler Truck",
+    "role": "Reliability Engineer Intern",
+    "locations": [
+      "Fort Mill, SC"
+    ],
+    "link": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Cox",
+    "role": "Technical Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cox-Conserves-Technical-Intern---Summer-2027_R202682337",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Capital Group",
+    "role": "Data & Technology Summer Associate",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Capital Group",
+    "role": "Data & Technology Summer Associate",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Capital Group",
+    "role": "Data & Technology Summer Associate",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Capital Group",
+    "role": "Data & Technology Summer Associate",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Consumer Research and Insights Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Consumer-Research-and-Insights-Intern-2027_R39474",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Customer Analytics Intern",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Layout Intern - BS",
+    "locations": [
+      "Irvine, CA",
+      "Santa Clara, CA"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Electrical Validation Intern - BS",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
+    "is_closed": false,
+    "date_posted": "2026-09-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Backend Software Engineer Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Software Engineer Enterprise Systems Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Grow Therapy",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Rippling",
+    "role": "Full Stack Software Engineer Intern",
+    "locations": [
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Rippling",
+    "role": "Software Engineer Intern - Backend Focused",
+    "locations": [
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "American Express",
+    "role": "Software Engineer Intern - Enterprise Technology Services",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Emerson Electric",
+    "role": "Software Engineer Intern - Process Systems and Solutions",
+    "locations": [
+      "Round Rock, TX"
+    ],
+    "link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Udig",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Nashville, TN",
+      "Richmond, VA"
+    ],
+    "link": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Google",
+    "role": "Product Manager Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA",
+      "San Bruno, CA",
+      "New York, NY",
+      "Mountain View, CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Hudson River Trading",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Machine Learning Engineer Intern - MS/PhD",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Data Science Intern - PhD",
+    "locations": [
+      "San Francisco, CA",
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Rippling",
+    "role": "Machine Learning Software Engineer Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Klaviyo",
+    "role": "People Analytics Co-op",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8002711003",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "West Bend Insurance",
+    "role": "IT Data Engineer Intern",
+    "locations": [
+      "Madison, WI",
+      "West Bend, WI"
+    ],
+    "link": "https://careers-thesilverlining.icims.com/jobs/3759/job",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "AQR Capital Management",
+    "role": "Machine Learning Research Associate Intern",
+    "locations": [
+      "Greenwich, CT"
+    ],
+    "link": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Flight Software Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Quantum Applied Science Intern - Quantum Technologies team",
+    "locations": [
+      "Boston, MA",
+      "San Francisco, CA",
+      "Pasadena, CA",
+      "Santa Clara, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Eaton",
+    "role": "Electrical Engineer Intern/Co-op - Engineering",
+    "locations": [
+      "Peachtree City, GA"
+    ],
+    "link": "https://eaton.eightfold.ai/careers/job/687238597770",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Two Sigma",
+    "role": "Hardware Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://twosigma.avature.net/careers/JobDetail/14289",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "role": "Electrical/Computer Engineering Intern - Space Science Electronics",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "link": "https://careers.jhuapl.edu/jobs/60123",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
     "source": "simplify"
   }
 ]
