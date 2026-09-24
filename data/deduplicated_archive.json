@@ -3314,7 +3314,8 @@
     "company": "Melius",
     "role": "Software Engineer Intern",
     "locations": [
-      "New York, NY"
+      "New York, NY",
+      "NY"
     ],
     "link": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true",
     "is_closed": false,
@@ -3887,6 +3888,17 @@
       "San Jose, CA"
     ],
     "link": "https://lifeattiktok.com/search/7667338938890930437",
+    "is_closed": false,
+    "date_posted": "2026-08-03",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern - Search Quality",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7665475460339665157",
     "is_closed": false,
     "date_posted": "2026-08-03",
     "source": "simplify"
@@ -4658,7 +4670,8 @@
     "company": "Microsoft",
     "role": "Product Manager Intern",
     "locations": [
-      "Remote"
+      "Remote",
+      "Mountain View, CA"
     ],
     "link": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
     "is_closed": false,
@@ -4721,18 +4734,6 @@
       "WA"
     ],
     "link": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
-    "is_closed": false,
-    "date_posted": "2026-08-04",
-    "source": "vanshb03"
-  },
-  {
-    "company": "Melius",
-    "role": "Software Engineering Intern",
-    "locations": [
-      "New York, NY",
-      "NY"
-    ],
-    "link": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
     "is_closed": false,
     "date_posted": "2026-08-04",
     "source": "vanshb03"
@@ -27104,6 +27105,17 @@
   },
   {
     "company": "Booz Allen",
+    "role": "Software Developer Intern - Summer Games",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
       "Annapolis Junction, MD"
@@ -28423,6 +28435,517 @@
     "link": "https://careers.jhuapl.edu/jobs/60123",
     "is_closed": false,
     "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "TC Energy",
+    "role": "Work Management Capabilities & Platforms Intern",
+    "locations": [
+      "Houston, TX"
+    ],
+    "link": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Factory Enablement Digital Engineer Co-op",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "AI Network Engineering Intern",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Generative AI Software Development Intern",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Software Development Intern",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Mobile Software Engineering Team",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Reston, VA"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Zekelman Industries",
+    "role": "Business Intelligence Intern - Program Development",
+    "locations": [
+      "Austin, TX",
+      "Troy, MI"
+    ],
+    "link": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Research Business Survey Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Intern - Electronic Design Automation",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PhD Research Intern - Quantum Simulation and AI",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Jabil",
+    "role": "Data Engineer Intern",
+    "locations": [
+      "Tampa, FL",
+      "St. Petersburg, FL"
+    ],
+    "link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Jabil",
+    "role": "Operations Analytics & Reporting Intern",
+    "locations": [
+      "Tampa, FL",
+      "St. Petersburg, FL"
+    ],
+    "link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "Healthcare Analytics Intern - Healthcare Analytics",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Healthcare Statistical Analytics",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Research Insights",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Data Governance & AI Governance",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Records and Information Management",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Excellus BCBS",
+    "role": "College Intern - Digital Analytics",
+    "locations": [
+      "Rochester, NY",
+      "De Witt, NY",
+      "Utica, NY",
+      "Albany, NY",
+      "Binghamton, NY",
+      "Buffalo, NY"
+    ],
+    "link": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "AI Systems Engineer Intern - Summer 2027",
+    "locations": [
+      "Annapolis Junction, MD",
+      "Fort Meade, MD"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Quantum Research Intern - Summer 2027",
+    "locations": [
+      "Washington, DC"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Neuberger Berman",
+    "role": "Quantitative Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Saab",
+    "role": "Electrical Engineering Co-op",
+    "locations": [
+      "East Syracuse, NY"
+    ],
+    "link": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Woodland Hills, LA"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Illinois Tool Works",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "link": "https://careers.itw.com/global/en/job/JR10261",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Qumulo",
+    "role": "Software Development Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "AI Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/91005",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/90997",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "State Farm",
+    "role": "Software Developer Intern - HR&D",
+    "locations": [
+      "Tempe, AZ",
+      "Dunwoody, GA",
+      "Richardson, TX",
+      "Bloomington, IL"
+    ],
+    "link": "https://jobs.statefarm.com/jobs/45689",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Ralliant",
+    "role": "Research and Development Co-op",
+    "locations": [
+      "Fairport, NY"
+    ],
+    "link": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Product Management Intern - Summer 2027",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Machine Learning Engineer Intern - Road Understanding",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Franklin Electric",
+    "role": "Global Business Strategy Development Intern",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "link": "https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "ML Systems Research Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/90993",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Klaviyo",
+    "role": "Machine Learning Engineer Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "West Bend Insurance",
+    "role": "Data Solution Engineer Intern",
+    "locations": [
+      "Madison, WI",
+      "West Bend, WI"
+    ],
+    "link": "https://careers-thesilverlining.icims.com/jobs/3786/job",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "West Bend Insurance",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "Madison, WI",
+      "West Bend, WI"
+    ],
+    "link": "https://careers-thesilverlining.icims.com/jobs/3785/job",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Zipline",
+    "role": "Autonomy Intern",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Bedrock Robotics",
+    "role": "Evaluation Engineer Intern - Metric Prototyping",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Software Defined Radio Hardware Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "FPGA Intern - Summer 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4704805006",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
     "source": "simplify"
   }
 ]
