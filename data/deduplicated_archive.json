@@ -14038,18 +14038,6 @@
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
-    "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
-    ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
-    "is_closed": false,
-    "date_posted": "2026-09-01",
-    "source": "simplify"
-  },
-  {
-    "company": "First National Bank",
     "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
       "Pittsburgh, PA"
@@ -23121,6 +23109,17 @@
       "New York, NY"
     ],
     "link": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineering Co-op",
+    "locations": [
+      "Wilsonville, OR"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236",
     "is_closed": false,
     "date_posted": "2026-09-14",
     "source": "simplify"
