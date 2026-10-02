@@ -35066,5 +35066,699 @@
     "is_closed": false,
     "date_posted": "2026-09-30",
     "source": "simplify"
+  },
+  {
+    "company": "Mindex",
+    "role": "Software Engineer Co-op",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "link": "https://apply.workable.com/mindex/j/84B10DB922/apply",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "AI-driven ML Performance Engineering Intern - MS/PhD",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Walleye Capital",
+    "role": "Special Projects Developer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Riot Games",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Riot Games",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "link": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Veeam Software",
+    "role": "Competitive Intelligence AI Engineer Intern",
+    "locations": [
+      "Georgia"
+    ],
+    "link": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "UX Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA",
+      "Remote in USA"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "SAS",
+    "role": "Software Development and Testing Intern",
+    "locations": [
+      "Cary, NC"
+    ],
+    "link": "https://careers-sas.icims.com/jobs/42964/job",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Seattle, WA",
+      "Jessup, MD",
+      "Arlington County, Arlington, VA",
+      "Denver, CO"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Corgan",
+    "role": "Software Development Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "link": "https://campus-us-corgan.icims.com/jobs/4109/job",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Glean",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Varda Space",
+    "role": "Mission Operations Intern - Summer 2027",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Computer Science and Software Engineering Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Annapolis, MD"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Roy, UT"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "MFS",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "MFS",
+    "role": "Software Data Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "MFS",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Invesco",
+    "role": "Early Career Intern - Fixed Income Global Technology",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Invesco",
+    "role": "Early Career Intern - Fixed Income Global Technology",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "HMH",
+    "role": "AI & Automation Development Intern",
+    "locations": [
+      "Houston, TX"
+    ],
+    "link": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "CoStar Group",
+    "role": "Technology Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "AI Prompt Engineer Intern",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "Software Development Intern",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_332790",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "CACI",
+    "role": "Software Development/Engineer Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "link": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Bedrock Robotics",
+    "role": "Product Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "BNY",
+    "role": "Product Management Intern - Program Management",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "link": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "BNY",
+    "role": "Product Management Intern",
+    "locations": [
+      "Lake Mary, FL"
+    ],
+    "link": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Capital One",
+    "role": "MBA Product Intern",
+    "locations": [
+      "McLean, VA",
+      "Richmond, VA",
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Product Marketing Management Intern - Systems Strategy & Operations",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://lifeattiktok.com/search/7683679497136179509",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Datacor",
+    "role": "Data Science Intern - Summer 2027 - Program",
+    "locations": [
+      "Remote in USA"
+    ],
+    "link": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "SeatGeek",
+    "role": "Data Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://seatgeek.com/jobs/8247554?gh_jid=8247554",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Intern - Multiple Teams",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Intuit",
+    "role": "Business Data Analyst Intern - Strategy & Planning",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Machine Learning Intern",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Machine Learning Intern",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Data Science Intern",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Pinterest",
+    "role": "Data Science Intern",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Helion Energy",
+    "role": "Computational Plasma Research Intern",
+    "locations": [
+      "Everett, WA"
+    ],
+    "link": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Advanced Analytics Intern",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Data Science and Business Analytics Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Statistics and Analysis Intern",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "Data Science Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Primient",
+    "role": "Digital Data & Analytics Intern",
+    "locations": [
+      "Schaumburg, IL"
+    ],
+    "link": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "NJM Insurance Group",
+    "role": "IT Data Administration Intern",
+    "locations": [
+      "Trenton, NJ"
+    ],
+    "link": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Freddie Mac",
+    "role": "Multifamily Capital Markets Analytics & Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "link": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "CoStar Group",
+    "role": "Embedded Software Engineer Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Cigna Group",
+    "role": "Product Analytics Intern",
+    "locations": [
+      "Morris Plains, NJ",
+      "St. Louis, MO"
+    ],
+    "link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "GenAI Intern",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Centene",
+    "role": "Medical Economics Analyst Intern",
+    "locations": [
+      "Florida",
+      "Missouri"
+    ],
+    "link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089",
+    "is_closed": false,
+    "date_posted": "2026-09-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Principal Financial Group",
+    "role": "Quantitative Analyst Intern - Quantitative Research",
+    "locations": [
+      "Des Moines, IA",
+      "New York, NY"
+    ],
+    "link": "https://careers.principal.com/jobs/52721",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "Muon Space",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
+    "is_closed": false,
+    "date_posted": "2026-10-02",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Flight Control Software Engineer Intern",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Philips",
+    "role": "Systems Test Engineering Intern",
+    "locations": [
+      "New Kensington, PA"
+    ],
+    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Design Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern_2604085",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern - MS - Summer 2027",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
   }
 ]
