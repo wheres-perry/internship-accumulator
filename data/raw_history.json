@@ -36342,5 +36342,94 @@
     "is_closed": false,
     "date_posted": "2026-10-02",
     "source": "simplify"
+  },
+  {
+    "company": "Gartner",
+    "role": "IT Intern",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "link": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+    "is_closed": false,
+    "date_posted": "2026-09-04",
+    "source": "simplify"
+  },
+  {
+    "company": "First Citizens BancShares",
+    "role": "Summer Intern - Sales Performance & Analytics Strategy",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "link": "https://firstcitizens.jibeapply.com/jobs/35826",
+    "is_closed": false,
+    "date_posted": "2026-10-04",
+    "source": "simplify"
+  },
+  {
+    "company": "National Life",
+    "role": "Market Research Intern",
+    "locations": [
+      "Montpelier, VT",
+      "Addison, TX"
+    ],
+    "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009",
+    "is_closed": false,
+    "date_posted": "2026-09-15",
+    "source": "simplify"
+  },
+  {
+    "company": "CesiumAstro",
+    "role": "Electrical Engineering Intern - FPGA",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "link": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
+    "is_closed": false,
+    "date_posted": "2026-10-04",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Software Defined Radio Hardware Associate Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+    "is_closed": false,
+    "date_posted": "2026-09-24",
+    "source": "simplify"
+  },
+  {
+    "company": "Astranis",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+    "is_closed": false,
+    "date_posted": "2026-09-23",
+    "source": "simplify"
+  },
+  {
+    "company": "onsemi",
+    "role": "Technology Development Low- and Medium-Voltage Intern",
+    "locations": [
+      "Hopewell Junction, NY"
+    ],
+    "link": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506492",
+    "is_closed": false,
+    "date_posted": "2026-09-17",
+    "source": "simplify"
+  },
+  {
+    "company": "Rocket Lab USA",
+    "role": "Electrical Engineering Intern",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+    "is_closed": false,
+    "date_posted": "2026-09-11",
+    "source": "simplify"
   }
 ]
