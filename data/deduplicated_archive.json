@@ -14060,23 +14060,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -27472,17 +27472,6 @@
   },
   {
     "company": "Booz Allen",
-    "role": "Software Developer Intern - Summer Games",
-    "locations": [
-      "McLean, VA"
-    ],
-    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818",
-    "is_closed": false,
-    "date_posted": "2026-09-21",
-    "source": "simplify"
-  },
-  {
-    "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
       "Annapolis Junction, MD"
@@ -34641,6 +34630,404 @@
     "link": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
     "is_closed": false,
     "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Workday",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Workday",
+    "role": "Software Application Development Engineer Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Wawa",
+    "role": "Information Technology Development Intern",
+    "locations": [
+      "Media, PA"
+    ],
+    "link": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Papa John's",
+    "role": "Digital Development Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan Global",
+    "role": "EA & Cloud Intern",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Elanco",
+    "role": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "link": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Workday",
+    "role": "Product Manager Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Workday",
+    "role": "Machine Learning Engineer Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Papa John's",
+    "role": "Data Science Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Strategic Insight and Analytics Co-op",
+    "locations": [
+      "Horsham, PA"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Itron",
+    "role": "People Analytics Intern",
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "link": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Itron",
+    "role": "HR AI Data Science Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Data Scaling Intern - Data Scaling - Embodied AI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Seam Intern - Embodied AI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "AI Research Intern - Embodied AI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Summer Intern - Onboard Autonomy - Embodied AI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "State of Wisconsin Investment Board",
+    "role": "Systematic Multi-Strategy Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Electrical Engineer Intern - Controls/PCB",
+    "locations": [
+      "Gloucester, MA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "GCM Grosvenor",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "link": "https://careers.amd.com/jobs/91341",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Affirm",
+    "role": "IT Engineer Intern - Early Careers",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Coinbase",
+    "role": "Forward Deployed Engineer Intern - HR Technology",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://boards.greenhouse.io/embed/job_app?token=8175510",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Capstone Investment Advisors",
+    "role": "Tech Execution Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Creative Product Manager Intern - Multiple Teams",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7693732178706974981",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "TikTok",
+    "role": "Creative Product Operations Intern - Multiple Teams",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://lifeattiktok.com/search/7693727532178229509",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Energy Storage Product Management Intern",
+    "locations": [
+      "Delaware, OH"
+    ],
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Summer Intern - Research - Post Training",
+    "locations": [
+      "San Francisco, CA",
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8257006",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Research Intern - AV Planning",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8258070",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Panasonic Holdings",
+    "role": "Panasonic Transformation Group Intern",
+    "locations": [
+      "Sparks, NV"
+    ],
+    "link": "https://careers.na.panasonic.com/jobs/51629",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Schonfeld",
+    "role": "Quantitative Research Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Schonfeld",
+    "role": "Quantitative Developer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "simplify"
+  },
+  {
+    "company": "Zipline",
+    "role": "Firmware Engineer Intern",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "link": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
     "source": "simplify"
   }
 ]
