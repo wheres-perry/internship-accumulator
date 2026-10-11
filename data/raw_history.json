@@ -39809,5 +39809,27 @@
     "is_closed": false,
     "date_posted": "2026-10-09",
     "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+    "is_closed": false,
+    "date_posted": "2026-10-09",
+    "source": "simplify"
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "role": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "link": "https://careers.jhuapl.edu/jobs/60432",
+    "is_closed": false,
+    "date_posted": "2026-10-11",
+    "source": "simplify"
   }
 ]
