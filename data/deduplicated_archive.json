@@ -1985,49 +1985,7 @@
     "role": "Google Software Engineering Intern, BS (Summer 2027)",
     "locations": [
       "Mountain View",
-      "CA (multiple US)",
-      "CA",
-      "Atlanta",
-      "GA",
-      "Austin",
-      "TX",
-      "Boulder",
-      "CO",
-      "Cambridge",
-      "MA",
-      "Bellevue",
-      "WA",
-      "Chicago",
-      "IL",
-      "Houston",
-      "Irvine",
-      "Kirkland",
-      "Los Angeles",
-      "Madison",
-      "WI",
-      "New York, NY",
-      "NY",
-      "Palo Alto",
-      "Portland",
-      "OR",
-      "Pittsburgh",
-      "PA",
-      "Raleigh",
-      "NC",
-      "Durham",
-      "Reston",
-      "VA",
-      "Redmond",
-      "Redwood City",
-      "San Diego",
-      "Goleta",
-      "San Bruno",
-      "Seattle",
-      "San Francisco",
-      "San Jose",
-      "Santa Cruz",
-      "South San Francisco",
-      "Sunnyvale"
+      "CA (multiple US)"
     ],
     "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
     "is_closed": false,
@@ -2362,6 +2320,76 @@
       "NY"
     ],
     "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+    "is_closed": false,
+    "date_posted": "2026-07-24",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Mountain View",
+      "CA",
+      "Atlanta",
+      "GA",
+      "Austin",
+      "TX",
+      "Boulder",
+      "CO",
+      "Cambridge",
+      "MA",
+      "Bellevue",
+      "WA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "TX",
+      "Irvine",
+      "CA",
+      "Kirkland",
+      "WA",
+      "Los Angeles",
+      "CA",
+      "Madison",
+      "WI",
+      "New York, NY",
+      "NY",
+      "Palo Alto",
+      "CA",
+      "Portland",
+      "OR",
+      "Pittsburgh",
+      "PA",
+      "Raleigh",
+      "NC",
+      "Durham",
+      "NC",
+      "Reston",
+      "VA",
+      "Redmond",
+      "WA",
+      "Redwood City",
+      "CA",
+      "San Diego",
+      "CA",
+      "Goleta",
+      "CA",
+      "San Bruno",
+      "CA",
+      "Seattle",
+      "WA",
+      "San Francisco",
+      "CA",
+      "San Jose",
+      "CA",
+      "Santa Cruz",
+      "CA",
+      "South San Francisco",
+      "CA",
+      "Sunnyvale",
+      "CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
     "is_closed": false,
     "date_posted": "2026-07-24",
     "source": "vanshb03"
@@ -27457,6 +27485,17 @@
     "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
+    "is_closed": false,
+    "date_posted": "2026-09-21",
+    "source": "simplify"
+  },
+  {
+    "company": "Booz Allen",
+    "role": "Systems Engineer Intern - Summer Games",
+    "locations": [
       "El Segundo, CA"
     ],
     "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
@@ -29434,11 +29473,11 @@
   },
   {
     "company": "Radiance Technologies",
-    "role": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
+    "role": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
     "locations": [
       "Beavercreek, OH"
     ],
-    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1",
+    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436",
     "is_closed": false,
     "date_posted": "2026-09-24",
     "source": "simplify"
@@ -31769,6 +31808,17 @@
       "Cleveland, OH"
     ],
     "link": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
+  },
+  {
+    "company": "Space Dynamics Laboratory",
+    "role": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+    "locations": [
+      "North Logan, UT"
+    ],
+    "link": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
     "is_closed": false,
     "date_posted": "2026-10-01",
     "source": "simplify"
@@ -35011,6 +35061,40 @@
     "link": "https://careers.jhuapl.edu/jobs/60432",
     "is_closed": false,
     "date_posted": "2026-10-11",
+    "source": "simplify"
+  },
+  {
+    "company": "Google",
+    "role": "Forward Deployed Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "Sunnyvale, CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "CapTech Consulting",
+    "role": "Consulting Software Engineer Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "CapTech Consulting",
+    "role": "Data Analysis/Data Engineering Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
     "source": "simplify"
   }
 ]

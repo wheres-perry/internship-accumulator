@@ -39831,5 +39831,50 @@
     "is_closed": false,
     "date_posted": "2026-10-11",
     "source": "simplify"
+  },
+  {
+    "company": "Google",
+    "role": "Forward Deployed Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "Sunnyvale, CA"
+    ],
+    "link": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "CapTech Consulting",
+    "role": "Consulting Software Engineer Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "CapTech Consulting",
+    "role": "Data Analysis/Data Engineering Intern",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Space Dynamics Laboratory",
+    "role": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+    "locations": [
+      "North Logan, UT"
+    ],
+    "link": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
+    "is_closed": false,
+    "date_posted": "2026-10-01",
+    "source": "simplify"
   }
 ]
