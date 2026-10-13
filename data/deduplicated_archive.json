@@ -1985,7 +1985,49 @@
     "role": "Google Software Engineering Intern, BS (Summer 2027)",
     "locations": [
       "Mountain View",
-      "CA (multiple US)"
+      "CA (multiple US)",
+      "CA",
+      "Atlanta",
+      "GA",
+      "Austin",
+      "TX",
+      "Boulder",
+      "CO",
+      "Cambridge",
+      "MA",
+      "Bellevue",
+      "WA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "Irvine",
+      "Kirkland",
+      "Los Angeles",
+      "Madison",
+      "WI",
+      "New York, NY",
+      "NY",
+      "Palo Alto",
+      "Portland",
+      "OR",
+      "Pittsburgh",
+      "PA",
+      "Raleigh",
+      "NC",
+      "Durham",
+      "Reston",
+      "VA",
+      "Redmond",
+      "Redwood City",
+      "San Diego",
+      "Goleta",
+      "San Bruno",
+      "Seattle",
+      "San Francisco",
+      "San Jose",
+      "Santa Cruz",
+      "South San Francisco",
+      "Sunnyvale"
     ],
     "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
     "is_closed": false,
@@ -2320,76 +2362,6 @@
       "NY"
     ],
     "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
-    "is_closed": false,
-    "date_posted": "2026-07-24",
-    "source": "vanshb03"
-  },
-  {
-    "company": "Google",
-    "role": "Software Engineering Intern",
-    "locations": [
-      "Mountain View",
-      "CA",
-      "Atlanta",
-      "GA",
-      "Austin",
-      "TX",
-      "Boulder",
-      "CO",
-      "Cambridge",
-      "MA",
-      "Bellevue",
-      "WA",
-      "Chicago",
-      "IL",
-      "Houston",
-      "TX",
-      "Irvine",
-      "CA",
-      "Kirkland",
-      "WA",
-      "Los Angeles",
-      "CA",
-      "Madison",
-      "WI",
-      "New York, NY",
-      "NY",
-      "Palo Alto",
-      "CA",
-      "Portland",
-      "OR",
-      "Pittsburgh",
-      "PA",
-      "Raleigh",
-      "NC",
-      "Durham",
-      "NC",
-      "Reston",
-      "VA",
-      "Redmond",
-      "WA",
-      "Redwood City",
-      "CA",
-      "San Diego",
-      "CA",
-      "Goleta",
-      "CA",
-      "San Bruno",
-      "CA",
-      "Seattle",
-      "WA",
-      "San Francisco",
-      "CA",
-      "San Jose",
-      "CA",
-      "Santa Cruz",
-      "CA",
-      "South San Francisco",
-      "CA",
-      "Sunnyvale",
-      "CA"
-    ],
-    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
     "is_closed": false,
     "date_posted": "2026-07-24",
     "source": "vanshb03"
@@ -22612,6 +22584,28 @@
     "source": "simplify"
   },
   {
+    "company": "Bedrock Robotics",
+    "role": "Sensor Systems Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Computer Architecture Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
+    "is_closed": false,
+    "date_posted": "2026-09-13",
+    "source": "simplify"
+  },
+  {
     "company": "Philips",
     "role": "Software Engineer Intern",
     "locations": [
@@ -27472,17 +27466,6 @@
   },
   {
     "company": "Booz Allen",
-    "role": "Software Developer Intern - Summer Games",
-    "locations": [
-      "McLean, VA"
-    ],
-    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818",
-    "is_closed": false,
-    "date_posted": "2026-09-21",
-    "source": "simplify"
-  },
-  {
-    "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
       "Annapolis Junction, MD"
@@ -29473,11 +29456,11 @@
   },
   {
     "company": "Radiance Technologies",
-    "role": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
+    "role": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
     "locations": [
       "Beavercreek, OH"
     ],
-    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436",
+    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1",
     "is_closed": false,
     "date_posted": "2026-09-24",
     "source": "simplify"
@@ -33563,6 +33546,18 @@
     "source": "simplify"
   },
   {
+    "company": "American Family Insurance Group",
+    "role": "Front End Developer Intern - Digital Sales",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491",
+    "is_closed": false,
+    "date_posted": "2026-10-06",
+    "source": "simplify"
+  },
+  {
     "company": "Sigma Computing",
     "role": "Software Engineer Intern - Summer 2027",
     "locations": [
@@ -35095,6 +35090,454 @@
     "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
     "is_closed": false,
     "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Fullerton, CA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan Global",
+    "role": "Financial AI Engineer Intern",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Life Fitness",
+    "role": "Android Software Engineer Intern",
+    "locations": [
+      "Schaumburg, IL"
+    ],
+    "link": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Corewell Health",
+    "role": "Digital Services Web and Mobile Developer Intern",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "link": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Corewell Health",
+    "role": "Digital Services Development Support and Operations Internship",
+    "locations": [
+      "Grand Rapids, MI",
+      "Southfield, MI",
+      "St Joseph, MI"
+    ],
+    "link": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "AtkinsR\u00e9alis",
+    "role": "Software Developer Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "link": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Application Development Intern - Application Development",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Madison, WI",
+      "Boston, MA"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Software-Engineering--Hybrid-_R39666-1",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "TIAA",
+    "role": "Insurance Solutions & New Markets Intern",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "link": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Insurance-Solutions---New-Markets_R261000120-2",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "TIAA",
+    "role": "Enterprise Analytics Intern",
+    "locations": [
+      "Dallas, TX",
+      "Charlotte, NC"
+    ],
+    "link": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Realty Income",
+    "role": "Technology Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "link": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Differentiable Simulation Research Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan Global",
+    "role": "Data Science Intern",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan Global",
+    "role": "Data Science Intern",
+    "locations": [
+      "Smyrna, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan Global",
+    "role": "Purchasing Aftersales Intern",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan",
+    "role": "AI & Data Analytics Intern",
+    "locations": [
+      "Franklin, TN",
+      "Irving, TX"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "IDAR Summer Intern - C&SP",
+    "locations": [
+      "Spring House, PA",
+      "Raritan, NJ",
+      "Hopewell Township, NJ"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "IDAR Summer Intern - Ease",
+    "locations": [
+      "Spring House, PA",
+      "Raritan, NJ"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Highmark Health",
+    "role": "Population Health Analytics Graduate Intern",
+    "locations": [
+      "New Mexico",
+      "Washington",
+      "Kansas",
+      "Pennsylvania",
+      "North Dakota",
+      "Oregon",
+      "Delaware",
+      "Iowa",
+      "California",
+      "Washington, DC",
+      "Vermont",
+      "Wyoming",
+      "Connecticut",
+      "Texas",
+      "Montana",
+      "Florida",
+      "New Hampshire",
+      "Nevada",
+      "South Carolina",
+      "South Dakota",
+      "Georgia",
+      "Arizona",
+      "Mississippi",
+      "Tennessee",
+      "Virginia",
+      "Arkansas",
+      "Minnesota",
+      "Colorado",
+      "Nebraska",
+      "Rhode Island",
+      "Utah",
+      "Kentucky",
+      "West Virginia",
+      "New York, NY",
+      "Maryland",
+      "Hawaii",
+      "Wisconsin",
+      "Maine",
+      "Massachusetts",
+      "North Carolina",
+      "Oklahoma",
+      "Missouri",
+      "Ohio",
+      "New Jersey",
+      "Indiana",
+      "Louisiana",
+      "Alaska",
+      "Michigan",
+      "Illinois",
+      "Alabama",
+      "Idaho"
+    ],
+    "link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "AI/Machine Learning Intern - Research and Development",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Research and Development Intern - Smart Manufacturing Systems",
+    "locations": [
+      "Warren, MI"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Summer Intern - Research and Development - Machine Learning for Automation",
+    "locations": [
+      "Warren, MI"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Defense Agencies Intern - AI/ML",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Corewell Health",
+    "role": "Digital Services Integrated Data and Analytics Intern",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "link": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Integrated-Data-and-Analytics-Internship-Summer-2027_R228909",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Corewell Health",
+    "role": "Digital Services Generative AI Internship",
+    "locations": [
+      "Grand Rapids, MI",
+      "Southfield, MI",
+      "St Joseph, MI"
+    ],
+    "link": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Generative-AI-Internship-Summer-2027_R229392",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Data Analyst Intern - Agency Performance, Insights and Operations",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "simplify"
+  },
+  {
+    "company": "Databricks",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA",
+      "Bellevue, WA",
+      "Mountain View, CA"
+    ],
+    "link": "https://boards.greenhouse.io/embed/job_app?token=6865687002",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Data and AI Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "ADT",
+    "role": "Product Management & Product Operations Intern",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "link": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Scout Clean Energy",
+    "role": "Geospatial Intern",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "link": "https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Koch Industries",
+    "role": "Digital Technology & Data Intern",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "link": "https://koch.avature.net/en_US/careers/JobDetail/195465",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Ascension",
+    "role": "Master Data Management Intern",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "link": "https://jobs.ascension.org/us/en/job/2026-465180",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Ascension",
+    "role": "Data Science Intern",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "link": "https://jobs.ascension.org/us/en/job/2026-465186",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "MEMX",
+    "role": "Data Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/memx/jobs/5450442008",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Development Co-op",
+    "locations": [
+      "New Providence, NJ"
+    ],
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
     "source": "simplify"
   }
 ]
