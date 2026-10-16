@@ -12342,7 +12342,7 @@
     "locations": [
       "Chicago, IL"
     ],
-    "link": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370",
+    "link": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370-1",
     "is_closed": false,
     "date_posted": "2026-08-31",
     "source": "simplify"
@@ -14060,23 +14060,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -23339,6 +23339,17 @@
   },
   {
     "company": "RTX",
+    "role": "Software Engineering Co-op",
+    "locations": [
+      "Wilsonville, OR"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236",
+    "is_closed": false,
+    "date_posted": "2026-09-14",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
     "role": "Software Engineer Intern - Summer 2027",
     "locations": [
       "Indianapolis, IN"
@@ -29499,7 +29510,7 @@
     "locations": [
       "Beavercreek, OH"
     ],
-    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1",
+    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441",
     "is_closed": false,
     "date_posted": "2026-09-24",
     "source": "simplify"
@@ -35779,6 +35790,28 @@
     "source": "simplify"
   },
   {
+    "company": "KLA Corporation",
+    "role": "Research Scientist Intern - Plasma Light Source Characterization",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "link": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
+    "company": "KLA",
+    "role": "Research Scientist Intern - Plasma Light Source Characterization",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "link": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "simplify"
+  },
+  {
     "company": "Armadin",
     "role": "Frontend Engineer Intern - Member of Technical Staff",
     "locations": [
@@ -36378,6 +36411,17 @@
     "source": "simplify"
   },
   {
+    "company": "General Motors",
+    "role": "Product Management Intern - Vehicle Autonomy",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "simplify"
+  },
+  {
     "company": "Tessera Labs",
     "role": "Full Stack Software Engineer Intern - Full Stack",
     "locations": [
@@ -36533,6 +36577,304 @@
     "link": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
     "is_closed": false,
     "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "CoverMyMeds",
+    "role": "CMM Technology Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "link": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Centene",
+    "role": "AI Software Developer Intern",
+    "locations": [
+      "Missouri"
+    ],
+    "link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Q2",
+    "role": "Product Operations Intern - Product Operations",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Nissan",
+    "role": "Cross Car Line Feature Strategy Intern",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "link": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Cross-Car-Line-Feature-Strategy-Intern---Summer-2027---Franklin--TN_R00214296",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Blue Origin",
+    "role": "Terawave Product Management Intern - MBA",
+    "locations": [
+      "Kent, WA"
+    ],
+    "link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Pennsylvania State University",
+    "role": "R&D Engineer Intern",
+    "locations": [
+      "Key West, FL"
+    ],
+    "link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Northwestern Mutual",
+    "role": "Underwriting Research Intern",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "link": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "J.M. Smucker",
+    "role": "Revenue Growth Management Intern",
+    "locations": [
+      "Orrville, OH"
+    ],
+    "link": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Revenue-Growth-Management-Intern--Summer-2027_116012",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "AI/ML Engineer Intern - Mapping - Masters",
+    "locations": [
+      "Warren, MI"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Embodied AI Research Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Danaher",
+    "role": "Data Governance Intern - CCM",
+    "locations": [
+      "Logan, UT"
+    ],
+    "link": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Cigna Group",
+    "role": "Healthcare Analytics Intern",
+    "locations": [
+      "Morris Plains, NJ"
+    ],
+    "link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Autodesk",
+    "role": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Enterprise Data Intern - Enablement, Service & Support",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "State of Wisconsin Investment Board",
+    "role": "Liquidity Optimization Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Electrical Engineer Intern",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "simplify"
+  },
+  {
+    "company": "Abridge",
+    "role": "Member of Technical Staff Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Healthpeak Properties",
+    "role": "Forward Deployed Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Healthpeak Properties",
+    "role": "Forward Deployed Software Engineer Intern",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "link": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Muon Space",
+    "role": "Ground Software Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Royal Caribbean Group",
+    "role": "Guest Travel Services Intern",
+    "locations": [
+      "Miramar, FL"
+    ],
+    "link": "https://jobs.royalcaribbeangroup.com/job/Miramar-Intern,-Guest-Travel-Services-(Summer-2027)-FL-33132/1440504600",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Semantics Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8244128",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "role": "Critical Infrastructure Analysis Intern",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/LLNL/3743990016165496",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "Inversion Space",
+    "role": "Avionics Embedded Software Engineer Intern",
+    "locations": [
+      "Playa Vista, LA"
+    ],
+    "link": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "simplify"
+  },
+  {
+    "company": "onsemi",
+    "role": "Device Characterization Engineer Intern",
+    "locations": [
+      "Hopewell Junction, NY"
+    ],
+    "link": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
     "source": "simplify"
   }
 ]
