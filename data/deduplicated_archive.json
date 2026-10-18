@@ -2851,7 +2851,12 @@
     "locations": [
       "Houston, TX",
       "Stamford, CT",
-      "New York, NY"
+      "New York, NY",
+      "Stamford",
+      "CT",
+      "Houston",
+      "TX",
+      "NY"
     ],
     "link": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
     "is_closed": false,
@@ -3234,7 +3239,19 @@
       "Los Angeles, CA",
       "Chicago, IL",
       "New York, NY",
-      "Atlanta, GA"
+      "Atlanta, GA",
+      "Atlanta",
+      "GA",
+      "Chicago",
+      "IL",
+      "Houston",
+      "TX",
+      "Los Angeles",
+      "CA",
+      "NY",
+      "San Francisco",
+      "Washington",
+      "DC"
     ],
     "link": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
     "is_closed": false,
@@ -3277,6 +3294,18 @@
     "source": "simplify"
   },
   {
+    "company": "Nightwing",
+    "role": "Software / Hardware Engineering Intern",
+    "locations": [
+      "Annapolis Junction",
+      "MD"
+    ],
+    "link": "",
+    "is_closed": true,
+    "date_posted": "2026-07-28",
+    "source": "vanshb03"
+  },
+  {
     "company": "Virtu Financial",
     "role": "Frontend Developer Internship",
     "locations": [
@@ -3307,6 +3336,18 @@
     ],
     "link": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
     "is_closed": false,
+    "date_posted": "2026-07-30",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Virtu Financial",
+    "role": "Frontend & User Experience Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "",
+    "is_closed": true,
     "date_posted": "2026-07-30",
     "source": "vanshb03"
   },
@@ -3403,6 +3444,36 @@
     ],
     "link": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
     "is_closed": false,
+    "date_posted": "2026-07-31",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Castleton Commodities International",
+    "role": "Data Science Machine Learning Intern",
+    "locations": [
+      "Stamford",
+      "CT",
+      "Houston",
+      "TX",
+      "New York, NY",
+      "NY"
+    ],
+    "link": "",
+    "is_closed": true,
+    "date_posted": "2026-07-31",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Castleton Commodities International",
+    "role": "Full-Stack Software Engineer Intern",
+    "locations": [
+      "Stamford",
+      "CT",
+      "Houston",
+      "TX"
+    ],
+    "link": "",
+    "is_closed": true,
     "date_posted": "2026-07-31",
     "source": "vanshb03"
   },
@@ -5580,7 +5651,14 @@
       "San Francisco, CA",
       "Los Angeles, CA",
       "New York, NY",
-      "Mountain View, CA"
+      "Mountain View, CA",
+      "NY",
+      "Seattle",
+      "WA",
+      "Los Angeles",
+      "CA",
+      "Mountain View",
+      "San Francisco"
     ],
     "link": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
     "is_closed": false,
@@ -14060,23 +14138,23 @@
   },
   {
     "company": "First National Bank",
-    "role": "Data Engineering Intern",
+    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
     "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
+      "Pittsburgh, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
   },
   {
     "company": "First National Bank",
-    "role": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
+    "role": "Data Engineering Intern",
     "locations": [
-      "Pittsburgh, PA"
+      "Pittsburgh, PA",
+      "Hermitage, PA"
     ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021",
+    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -27527,17 +27605,6 @@
   },
   {
     "company": "Booz Allen",
-    "role": "Software Developer Intern - Summer Games",
-    "locations": [
-      "McLean, VA"
-    ],
-    "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818",
-    "is_closed": false,
-    "date_posted": "2026-09-21",
-    "source": "simplify"
-  },
-  {
-    "company": "Booz Allen",
     "role": "Systems Engineer Intern - Summer Games",
     "locations": [
       "Annapolis Junction, MD"
@@ -35164,6 +35231,30 @@
     "source": "simplify"
   },
   {
+    "company": "Veolia",
+    "role": "Field Engineering Intern",
+    "locations": [
+      "Nanticoke",
+      "PA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Veolia",
+    "role": "Field Engineering Intern",
+    "locations": [
+      "Lincoln",
+      "NE"
+    ],
+    "link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699",
+    "is_closed": false,
+    "date_posted": "2026-10-10",
+    "source": "vanshb03"
+  },
+  {
     "company": "Johns Hopkins Applied Physics Laboratory",
     "role": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
     "locations": [
@@ -35556,6 +35647,126 @@
     "source": "simplify"
   },
   {
+    "company": "Tencent",
+    "role": "Data Science Intern",
+    "locations": [
+      "Palo Alto",
+      "CA"
+    ],
+    "link": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Moog",
+    "role": "Product Engineering Intern",
+    "locations": [
+      "Buffalo",
+      "NY"
+    ],
+    "link": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-20429",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Moog",
+    "role": "Algorithm Engineering Intern, GPU/CUDA",
+    "locations": [
+      "Milpitas",
+      "CA"
+    ],
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "HPC/AI System Admin HW/SW Service Engineer Intern",
+    "locations": [
+      "All",
+      "TN"
+    ],
+    "link": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Figure AI",
+    "role": "Deployment Engineering Intern",
+    "locations": [
+      "San Jose",
+      "CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "DV Trading",
+    "role": "Data Center Engineer Intern",
+    "locations": [
+      "Chicago",
+      "IL"
+    ],
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Bosch",
+    "role": "Robotics Research Intern",
+    "locations": [
+      "Sunnyvale",
+      "CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Bosch",
+    "role": "ERP/IT Intern",
+    "locations": [
+      "Lincolnshire",
+      "IL"
+    ],
+    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155101377",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Amperesand",
+    "role": "Technical Program Manager Intern",
+    "locations": [
+      "Reno",
+      "NV"
+    ],
+    "link": "https://job-boards.greenhouse.io/amperesand/jobs/4448972009",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Acron Aviation",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Phoenix",
+      "AZ"
+    ],
+    "link": "https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
     "company": "Databricks",
     "role": "Software Engineer Intern",
     "locations": [
@@ -35843,6 +36054,114 @@
     "is_closed": false,
     "date_posted": "2026-10-13",
     "source": "simplify"
+  },
+  {
+    "company": "WTW",
+    "role": "Risk & Analytics Core Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606637",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "WTW",
+    "role": "Risk & Analytics Enterprise Risk Consulting Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606636",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "KLA",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Ann Arbor",
+      "MI"
+    ],
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "General Dynamics Mission Systems",
+    "role": "Cyber Engineering Intern",
+    "locations": [
+      "Middletown",
+      "RI"
+    ],
+    "link": "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Draper",
+    "role": "Classified Cybersecurity/IT Intern",
+    "locations": [
+      "Cambridge",
+      "MA"
+    ],
+    "link": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Cook Group",
+    "role": "Artificial Intelligence & Innovation Intern",
+    "locations": [
+      "Bloomington",
+      "IN"
+    ],
+    "link": "https://americas-cookmedical.icims.com/jobs/19427/intern%2c-artificial-intelligence-%26-innovation/job",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "CIBC",
+    "role": "Analyst Intern, Equity Solutions Group",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Bosch",
+    "role": "Information Security and Privacy Intern",
+    "locations": [
+      "Farmington Hills",
+      "MI"
+    ],
+    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155120934",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Armadin",
+    "role": "Member of Technical Staff Intern, Frontend",
+    "locations": [
+      "Palo Alto",
+      "CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application",
+    "is_closed": false,
+    "date_posted": "2026-10-13",
+    "source": "vanshb03"
   },
   {
     "company": "Armadin",
@@ -36455,6 +36774,218 @@
     "source": "simplify"
   },
   {
+    "company": "Zoox",
+    "role": "Freeways Data Evaluation Intern",
+    "locations": [
+      "Foster City",
+      "CA"
+    ],
+    "link": "https://jobs.lever.co/zoox/ad992e12-39da-4046-b766-45f928924575",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Susquehanna International Group",
+    "role": "Sell Side Research Rotational Program Intern",
+    "locations": [
+      "Remote (US)"
+    ],
+    "link": "https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Snap",
+    "role": "Generative Media Research Intern",
+    "locations": [
+      "Los Angeles",
+      "CA"
+    ],
+    "link": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "QTS",
+    "role": "Information Security Operations Analyst Intern",
+    "locations": [
+      "US GA Atlanta Suwanee 1 DC1"
+    ],
+    "link": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Point72",
+    "role": "Fundamental Researcher Intern, Canvas",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Point72",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Monolithic Power Systems",
+    "role": "Applications Engineer Intern",
+    "locations": [
+      "San Jose",
+      "CA"
+    ],
+    "link": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2035",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "KLA",
+    "role": "Computer Vision/Machine Learning Intern",
+    "locations": [
+      "Milpitas",
+      "CA"
+    ],
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Kensington",
+    "role": "Analytics Intern",
+    "locations": [
+      "ON"
+    ],
+    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "JPMorganChase",
+    "role": "AI Research Associate Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "ICF International",
+    "role": "AI Engineer Intern",
+    "locations": [
+      "Reston",
+      "VA"
+    ],
+    "link": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "ICF International",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Reston",
+      "VA"
+    ],
+    "link": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "General Dynamics Mission Systems",
+    "role": "Software Engineer Intern, Crypto & Cross Domain Solutions",
+    "locations": [
+      "Scottsdale",
+      "AZ"
+    ],
+    "link": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "General Dynamics Mission Systems",
+    "role": "Software Engineer Intern, Crypto and Cross Domain Solutions",
+    "locations": [
+      "Taunton",
+      "MA"
+    ],
+    "link": "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Cboe Global Markets",
+    "role": "Data Pipeline Engineer Intern",
+    "locations": [
+      "Kansas City",
+      "MO"
+    ],
+    "link": "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Atoms",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Seattle",
+      "WA"
+    ],
+    "link": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Astreya",
+    "role": "AI Infrastructure DC Design Intern",
+    "locations": [
+      "Remote (US)"
+    ],
+    "link": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "American Century Investments",
+    "role": "Enterprise Data Intern",
+    "locations": [
+      "Kansas City",
+      "MO"
+    ],
+    "link": "https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
     "company": "Tessera Labs",
     "role": "Full Stack Software Engineer Intern - Full Stack",
     "locations": [
@@ -36496,17 +37027,6 @@
       "San Mateo, CA"
     ],
     "link": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true",
-    "is_closed": false,
-    "date_posted": "2026-10-15",
-    "source": "simplify"
-  },
-  {
-    "company": "Point72",
-    "role": "Software Engineer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "link": "https://boards.greenhouse.io/point72/jobs/8885733002",
     "is_closed": false,
     "date_posted": "2026-10-15",
     "source": "simplify"
@@ -36812,6 +37332,150 @@
     "source": "simplify"
   },
   {
+    "company": "Veolia",
+    "role": "Operations Engineering Intern",
+    "locations": [
+      "Vandalia",
+      "OH"
+    ],
+    "link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155824489",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Tower Research Capital",
+    "role": "Machine Learning Intern",
+    "locations": [
+      "QC"
+    ],
+    "link": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "RTX",
+    "role": "System Administrator Intern",
+    "locations": [
+      "Middletown",
+      "RI"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "RTX",
+    "role": "Quality Assurance Intern",
+    "locations": [
+      "Cheshire",
+      "CT"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Sterling",
+      "VA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineering Co-op",
+    "locations": [
+      "Cedar Rapids",
+      "IA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "ROCKWOOL Group",
+    "role": "Associate Product Management Intern",
+    "locations": [
+      "Chicago",
+      "IL"
+    ],
+    "link": "https://rockwoolgroup.wd3.myworkdayjobs.com/en-US/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Intel",
+    "role": "Compiler Engineering Intern",
+    "locations": [
+      "ON"
+    ],
+    "link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "General Matter",
+    "role": "Information Security Engineer Intern",
+    "locations": [
+      "Los Angeles",
+      "CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Duolingo",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "Pittsburgh",
+      "PA",
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Draper",
+    "role": "Operations Engineering Intern",
+    "locations": [
+      "Cambridge",
+      "MA"
+    ],
+    "link": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "Digital Transformation Analyst Intern",
+    "locations": [
+      "Arlington",
+      "VA"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
     "company": "Abridge",
     "role": "Member of Technical Staff Intern",
     "locations": [
@@ -37065,6 +37729,89 @@
     "source": "simplify"
   },
   {
+    "company": "onsemi",
+    "role": "Technology Development Intern",
+    "locations": [
+      "Hopewell Junction",
+      "NY"
+    ],
+    "link": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "LLNL",
+    "role": "HPC Cluster Engineer Intern",
+    "locations": [
+      "Livermore",
+      "CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/llnl/3743990016166026",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "LLNL",
+    "role": "Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute",
+    "locations": [
+      "Livermore",
+      "CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/llnl/3743990016165636",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "LLNL",
+    "role": "Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute",
+    "locations": [
+      "Livermore",
+      "CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/llnl/3743990016165496",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Kensington",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "ON"
+    ],
+    "link": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "ChargePoint",
+    "role": "IT & Network Intern",
+    "locations": [
+      "Campbell",
+      "CA"
+    ],
+    "link": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Fayetteville",
+      "NC"
+    ],
+    "link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
     "company": "Impulse Space",
     "role": "Enterprise Software Engineer Intern",
     "locations": [
@@ -37207,6 +37954,56 @@
     "link": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
     "is_closed": false,
     "date_posted": "2026-10-17",
+    "source": "simplify"
+  },
+  {
+    "company": "Physical Reasoning",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "San Francisco",
+      "CA",
+      "New York, NY",
+      "NY",
+      "Remote"
+    ],
+    "link": "https://physicalreasoning.ai/join/software-engineering-intern",
+    "is_closed": false,
+    "date_posted": "2026-10-17",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Persona",
+    "role": "Product Design Intern",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application",
+    "is_closed": false,
+    "date_posted": "2026-10-17",
+    "source": "vanshb03"
+  },
+  {
+    "company": "AeroVironment",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Moorpark",
+      "CA"
+    ],
+    "link": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094",
+    "is_closed": false,
+    "date_posted": "2026-10-17",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Tesla",
+    "role": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "link": "https://www.tesla.com/careers/search/job/286986",
+    "is_closed": false,
+    "date_posted": "2026-10-18",
     "source": "simplify"
   }
 ]
