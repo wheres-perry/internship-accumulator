@@ -43476,5 +43476,164 @@
     "is_closed": true,
     "date_posted": "2026-07-28",
     "source": "vanshb03"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Quality Data Science Co-op",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+    "is_closed": false,
+    "date_posted": "2026-10-19",
+    "source": "simplify"
+  },
+  {
+    "company": "Eulerity",
+    "role": "AI Intern, Office of CEO & Head of Product",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/eulerity/jobs/4722871006",
+    "is_closed": false,
+    "date_posted": "2026-10-17",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Clera",
+    "role": "Computer Vision & Robotics Intern",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
+    "is_closed": false,
+    "date_posted": "2026-10-17",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Automotive Engineering Intern",
+    "locations": [
+      "Markham",
+      "ON"
+    ],
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721615591",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Keysight Technologies",
+    "role": "R&D Software Engineer Intern",
+    "locations": [
+      "Austin",
+      "TX"
+    ],
+    "link": "https://jobs.keysight.com/jobs/54848",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "John Deere",
+    "role": "Software Engineering Intern, Technology",
+    "locations": [
+      "Ames",
+      "IA"
+    ],
+    "link": "https://johndeere.eightfold.ai/careers/job/137483908089",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Analytics Intern",
+    "locations": [
+      "BC"
+    ],
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Eaton",
+    "role": "C++ Developer Intern, Research & Development Engineering",
+    "locations": [
+      "Brossard",
+      "QC"
+    ],
+    "link": "https://eaton.eightfold.ai/careers/job/687239542740",
+    "is_closed": false,
+    "date_posted": "2026-10-16",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Keysight Technologies",
+    "role": "R&D Software Engineer Intern",
+    "locations": [
+      "Santa Rosa",
+      "CA"
+    ],
+    "link": "https://jobs.keysight.com/jobs/54673",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Apple",
+    "role": "SoC Machine Learning Software Engineer Intern",
+    "locations": [
+      "Sunnyvale",
+      "CA"
+    ],
+    "link": "https://jobs.apple.com/en-us/details/200689488",
+    "is_closed": false,
+    "date_posted": "2026-10-15",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Skydio",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Mateo",
+      "CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application",
+    "is_closed": false,
+    "date_posted": "2026-10-14",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Bellevue",
+      "WA",
+      "Mountain View",
+      "CA",
+      "San Francisco",
+      "CA",
+      "BC"
+    ],
+    "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "is_closed": false,
+    "date_posted": "2026-10-12",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Aquatic",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Chicago",
+      "IL"
+    ],
+    "link": "",
+    "is_closed": true,
+    "date_posted": "2026-07-07",
+    "source": "vanshb03"
   }
 ]
