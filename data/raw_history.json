@@ -46434,5 +46434,622 @@
     "is_closed": true,
     "date_posted": "2026-08-03",
     "source": "vanshb03"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Engineer Intern - AWS Database",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Systems Development Engineer Intern",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "DoorDash",
+    "role": "Operations Research Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Skydio",
+    "role": "Frontend Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "link": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Uline",
+    "role": "Software Developer Intern",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Glenview, IL",
+      "Pleasant Prairie, WI",
+      "Kenosha, WI"
+    ],
+    "link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Innovation & Technology Software Engineering: Platform & Applications Intern",
+    "locations": [
+      "Dallas, TX",
+      "Scottsdale, AZ",
+      "Hartford, CT",
+      "Woonsocket, RI"
+    ],
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Allstate",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "North Carolina"
+    ],
+    "link": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+    "is_closed": false,
+    "date_posted": "2026-10-20",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Technical Product Manager Intern",
+    "locations": [
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Product Manager Intern - ALA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Patreon",
+    "role": "Product Manager Intern",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "link": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Innovation & Technology Internship - Product & Agile Delivery",
+    "locations": [
+      "Dallas, TX",
+      "Scottsdale, AZ",
+      "Hartford, CT",
+      "Woonsocket, RI"
+    ],
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Assurant",
+    "role": "Manufactured Housing Product Analysis Intern",
+    "locations": [
+      "Miami, FL"
+    ],
+    "link": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769",
+    "is_closed": false,
+    "date_posted": "2026-10-05",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Science Intern - Natural Language Processing and Speech Technologies",
+    "locations": [
+      "Cambridge, MA",
+      "Boston, MA",
+      "Seattle, WA",
+      "Santa Clara, CA",
+      "New York, NY",
+      "Bellevue, WA",
+      "Sunnyvale, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Science Intern - Master's Student Science",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
+    "locations": [
+      "Palo Alto, CA",
+      "Boston, MA",
+      "Seattle, WA",
+      "Santa Clara, CA",
+      "Arlington County, Arlington, VA",
+      "New York, NY",
+      "Bellevue, WA",
+      "San Diego, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Science Intern - Gen AI & Large Language Models",
+    "locations": [
+      "Cambridge, MA",
+      "Boston, MA",
+      "Seattle, WA",
+      "Santa Clara, CA",
+      "Pittsburgh, PA",
+      "New York, NY",
+      "Bellevue, WA",
+      "Sunnyvale, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Associate Delivery Consultant Intern - AWS Professional Services",
+    "locations": [
+      "Arlington County, Arlington, VA",
+      "New York, NY"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Paccar",
+    "role": "Aftersales Data Analyst Intern",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "link": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "JP Morgan Chase",
+    "role": "Asset Management Data Scientist \u2013 Summer Associate Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Pattern",
+    "role": "Data Science Intern",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "link": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Research Intern - Multimodal Foundation Models",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8306867",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "2027 Summer Intern - AI Foundations - Recipes",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Waymo",
+    "role": "Intern - Multiple Teams",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8306779",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "Systems Engineering Intern - AI Experience",
+    "locations": [
+      "Dulles, VA"
+    ],
+    "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Leidos",
+    "role": "AI/ML Intern",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "KION Group",
+    "role": "Software Analytics Co-op",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "link": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "KION Group",
+    "role": "Software Analytics Co-op",
+    "locations": [
+      "Grand Rapids, MI"
+    ],
+    "link": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "Financial Data Analyst Intern",
+    "locations": [
+      "Falls Church, VA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Innovation & Technology Internship - Data Science",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Medicaid Data Analytics Intern",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Innovation & Technology Data Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Allstate",
+    "role": "Data Analytics Engineer Intern",
+    "locations": [
+      "Illinois"
+    ],
+    "link": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Allstate",
+    "role": "Data Science Intern - Core Telematics",
+    "locations": [
+      "Illinois"
+    ],
+    "link": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "ABB",
+    "role": "Sales Excellence Data Analytics Intern",
+    "locations": [
+      "Cary, NC"
+    ],
+    "link": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Economics Intern - Structural IO",
+    "locations": [
+      "Seattle, WA",
+      "Arlington County, Arlington, VA",
+      "New York, NY",
+      "Bellevue, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "PhD Economics Intern - Reduced Form Causal Inference",
+    "locations": [
+      "Seattle, WA",
+      "Arlington County, Arlington, VA",
+      "New York, NY",
+      "Bellevue, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Cupertino, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Engineer Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Engineer Intern - Embedded Systems",
+    "locations": [
+      "United States"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer Intern",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "Renesas Electronics",
+    "role": "Memory Server System Testing Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "simplify"
+  },
+  {
+    "company": "General Motors",
+    "role": "Fleet Reliability and Test Engineering Intern",
+    "locations": [
+      "Milford, MI"
+    ],
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+    "is_closed": false,
+    "date_posted": "2026-10-08",
+    "source": "simplify"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Camera Design Implementation Intern",
+    "locations": [
+      "BC"
+    ],
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Applied AI Engineering Intern, Hardware Systems",
+    "locations": [
+      "BC"
+    ],
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Security Research Intern",
+    "locations": [
+      "Redmond",
+      "WA"
+    ],
+    "link": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "vanshb03"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Image Processing Engineer Intern",
+    "locations": [
+      "Tulsa",
+      "OK"
+    ],
+    "link": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Hitachi",
+    "role": "Test Engineering Intern",
+    "locations": [
+      "Norman",
+      "OK"
+    ],
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "vanshb03"
+  },
+  {
+    "company": "DP World",
+    "role": "Network Engineering Intern",
+    "locations": [
+      "Charlotte",
+      "NC"
+    ],
+    "link": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+    "is_closed": false,
+    "date_posted": "2026-10-21",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Centene Corporation",
+    "role": "Cybersecurity Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+    "is_closed": false,
+    "date_posted": "2026-10-20",
+    "source": "vanshb03"
+  },
+  {
+    "company": "DraftKings",
+    "role": "Data Science Intern",
+    "locations": [
+      "Boston",
+      "MA"
+    ],
+    "link": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+    "is_closed": false,
+    "date_posted": "2026-09-19",
+    "source": "vanshb03"
   }
 ]
