@@ -14539,6 +14539,17 @@
     "source": "simplify"
   },
   {
+    "company": "American Express",
+    "role": "Product Development Intern - 2027 Product Development - US Consumer Services",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605",
+    "is_closed": false,
+    "date_posted": "2026-09-01",
+    "source": "simplify"
+  },
+  {
     "company": "Blackhawk Network Holdings",
     "role": "Product Management Intern",
     "locations": [
@@ -15689,18 +15700,6 @@
       "Hermitage, PA"
     ],
     "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714",
-    "is_closed": false,
-    "date_posted": "2026-09-01",
-    "source": "simplify"
-  },
-  {
-    "company": "First National Bank",
-    "role": "Data Engineering Intern",
-    "locations": [
-      "Pittsburgh, PA",
-      "Hermitage, PA"
-    ],
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
     "is_closed": false,
     "date_posted": "2026-09-01",
     "source": "simplify"
@@ -27182,7 +27181,8 @@
     "company": "RTX",
     "role": "Software Engineer Intern",
     "locations": [
-      "Marlborough, MA"
+      "Marlborough, MA",
+      "Tewksbury, MA"
     ],
     "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955",
     "is_closed": false,
@@ -29811,17 +29811,6 @@
     "source": "simplify"
   },
   {
-    "company": "RTX",
-    "role": "Software Engineering Intern",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
-    "is_closed": false,
-    "date_posted": "2026-09-18",
-    "source": "simplify"
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Wealth Management Technology Intern",
     "locations": [
@@ -31569,17 +31558,6 @@
     "source": "simplify"
   },
   {
-    "company": "AMD",
-    "role": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "link": "https://careers.amd.com/jobs/91013",
-    "is_closed": false,
-    "date_posted": "2026-09-22",
-    "source": "simplify"
-  },
-  {
     "company": "Viking Global",
     "role": "Data Science Intern",
     "locations": [
@@ -32988,7 +32966,7 @@
     "locations": [
       "Beavercreek, OH"
     ],
-    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441",
+    "link": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1",
     "is_closed": false,
     "date_posted": "2026-09-24",
     "source": "simplify"
@@ -35514,6 +35492,62 @@
       "Livermore, CA"
     ],
     "link": "https://jobs.smartrecruiters.com/LLNL/3743990015740565",
+    "is_closed": false,
+    "date_posted": "2026-09-29",
+    "source": "simplify"
+  },
+  {
+    "company": "General Dynamics Information Technology",
+    "role": "AI/ML Software Development and Engineering Intern",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "link": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+    "is_closed": false,
+    "date_posted": "2026-09-29",
+    "source": "simplify"
+  },
+  {
+    "company": "SoundExchange",
+    "role": "Operations Intern - Royalty Processing & Business Intelligence",
+    "locations": [
+      "Washington, DC"
+    ],
+    "link": "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007",
+    "is_closed": false,
+    "date_posted": "2026-09-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Altman Solon",
+    "role": "Data Analyst Intern",
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "link": "http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101",
+    "is_closed": false,
+    "date_posted": "2026-09-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Industrial Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+    "is_closed": false,
+    "date_posted": "2026-09-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Rendezvous Robotics",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Golden, CO"
+    ],
+    "link": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
     "is_closed": false,
     "date_posted": "2026-09-29",
     "source": "simplify"
@@ -40896,18 +40930,6 @@
       "TX"
     ],
     "link": "https://go.vansh.nyc/Gp?s=y",
-    "is_closed": false,
-    "date_posted": "2026-10-08",
-    "source": "vanshb03"
-  },
-  {
-    "company": "Hewlett Packard Enterprise",
-    "role": "ASIC Engineer Intern",
-    "locations": [
-      "Sunnyvale",
-      "CA"
-    ],
-    "link": "https://go.vansh.nyc/Gm?s=y",
     "is_closed": false,
     "date_posted": "2026-10-08",
     "source": "vanshb03"
@@ -50060,30 +50082,6 @@
     "source": "vanshb03"
   },
   {
-    "company": "Light & Wonder",
-    "role": "Software Engineer Intern",
-    "locations": [
-      "Las Vegas",
-      "NV"
-    ],
-    "link": "https://go.vansh.nyc/dF?s=y",
-    "is_closed": false,
-    "date_posted": "2026-10-21",
-    "source": "vanshb03"
-  },
-  {
-    "company": "Keysight Technologies",
-    "role": "Software Engineer Intern",
-    "locations": [
-      "Calabasas",
-      "CA"
-    ],
-    "link": "https://go.vansh.nyc/ei?s=y",
-    "is_closed": false,
-    "date_posted": "2026-10-21",
-    "source": "vanshb03"
-  },
-  {
     "company": "FedEx Freight",
     "role": "Media & Web Development Intern, Marketing",
     "locations": [
@@ -51610,6 +51608,17 @@
     "source": "vanshb03"
   },
   {
+    "company": "Philips",
+    "role": "AI & Analytics Analyst Intern",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
+    "is_closed": false,
+    "date_posted": "2026-10-22",
+    "source": "simplify"
+  },
+  {
     "company": "Amazon",
     "role": "Software Engineer Intern",
     "locations": [
@@ -52227,18 +52236,6 @@
     "source": "vanshb03"
   },
   {
-    "company": "KLA",
-    "role": "Software Engineering Intern",
-    "locations": [
-      "Milpitas",
-      "CA"
-    ],
-    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
-    "is_closed": false,
-    "date_posted": "2026-10-23",
-    "source": "vanshb03"
-  },
-  {
     "company": "Keysight Technologies",
     "role": "FPGA Design Intern",
     "locations": [
@@ -52312,6 +52309,18 @@
       "CA"
     ],
     "link": "https://go.vansh.nyc/hJ?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-23",
+    "source": "vanshb03"
+  },
+  {
+    "company": "KLA",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Milpitas",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/h2?s=y",
     "is_closed": false,
     "date_posted": "2026-10-23",
     "source": "vanshb03"
@@ -55354,6 +55363,357 @@
     "source": "vanshb03"
   },
   {
+    "company": "Allstate",
+    "role": "Technology Internship",
+    "locations": [
+      "Illinois"
+    ],
+    "link": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "simplify"
+  },
+  {
+    "company": "WorldEngine AI",
+    "role": "Research Intern, Robotics Data - Real-to-Sim",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Xy?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Workday",
+    "role": "Analytics Engineer Intern",
+    "locations": [
+      "Pleasanton",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Y6?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Overland Park",
+      "KS"
+    ],
+    "link": "https://go.vansh.nyc/Ye?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Associate AI Engineer Intern",
+    "locations": [
+      "Frisco",
+      "TX",
+      "Overland Park",
+      "KS"
+    ],
+    "link": "https://go.vansh.nyc/Yf?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Associate Technical Product Manager Intern",
+    "locations": [
+      "Frisco",
+      "TX"
+    ],
+    "link": "https://go.vansh.nyc/Yg?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Subtotal",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "link": "https://go.vansh.nyc/Yc?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Revantage Corporate Services",
+    "role": "Insurance Technology & AI Analytics Intern",
+    "locations": [
+      "Dallas",
+      "TX",
+      "Chicago",
+      "IL"
+    ],
+    "link": "https://go.vansh.nyc/Y7?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "Data Science & Digital Innovation Intern, Industrial Operations and Product Supply",
+    "locations": [
+      "Rensselaer",
+      "NY"
+    ],
+    "link": "https://go.vansh.nyc/Yq?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "Data Analytics Intern, Dashboards & Business Process Automation",
+    "locations": [
+      "Armonk",
+      "NY",
+      "Warren",
+      "NJ",
+      "Tarrytown",
+      "NY"
+    ],
+    "link": "https://go.vansh.nyc/Yr?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "AI/ML & Data Engineering Intern",
+    "locations": [
+      "Cambridge",
+      "MA",
+      "Armonk",
+      "NY",
+      "Warren",
+      "NJ",
+      "Sleepy Hollow",
+      "NY",
+      "Tarrytown",
+      "NY"
+    ],
+    "link": "https://go.vansh.nyc/Ys?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Pennsylvania State University",
+    "role": "Research and Development Engineer Intern",
+    "locations": [
+      "State College",
+      "PA"
+    ],
+    "link": "https://go.vansh.nyc/Yd?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Micron Technology",
+    "role": "Embedded Software Engineering Intern",
+    "locations": [
+      "Boise",
+      "ID"
+    ],
+    "link": "https://go.vansh.nyc/XX?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Marvell",
+    "role": "Data Science Intern",
+    "locations": [
+      "Boise",
+      "ID"
+    ],
+    "link": "https://go.vansh.nyc/Yp?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "LinkedIn",
+    "role": "Software Engineer Intern, First Play",
+    "locations": [
+      "Mountain View",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Y5?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Leidos",
+    "role": "Data Engineer Intern",
+    "locations": [
+      "Fort Belvoir",
+      "VA"
+    ],
+    "link": "https://go.vansh.nyc/Y4?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Systems Intern, IQ",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Yz?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Quality Assurance Intern",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YA?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YB?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Hewlett Packard (HP)",
+    "role": "Software Engineer Intern, Connectivity",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YC?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Gauss Management Research & Engineering",
+    "role": "Web Application Developer Intern",
+    "locations": [
+      "South Ogden",
+      "UT"
+    ],
+    "link": "https://go.vansh.nyc/Yl?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "FormFactor",
+    "role": "Electrical Design Automation Intern, AI & EDA Automation",
+    "locations": [
+      "Livermore",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Y8?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Florida Atlantic University",
+    "role": "Data Analyst Intern",
+    "locations": [
+      "Boca Raton",
+      "FL"
+    ],
+    "link": "https://go.vansh.nyc/Y9?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Filevine",
+    "role": "Security Specialist Intern",
+    "locations": [
+      "Salt Lake City",
+      "UT"
+    ],
+    "link": "https://go.vansh.nyc/XI?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Berkshire Hathaway Energy",
+    "role": "Intern, Data Systems",
+    "locations": [
+      "Bridgeport",
+      "WV"
+    ],
+    "link": "https://go.vansh.nyc/XM?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Data Science Intern",
+    "locations": [
+      "Santa Clara",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Ya?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "Austin",
+      "TX"
+    ],
+    "link": "https://go.vansh.nyc/Y3?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Allegion",
+    "role": "Software Engineering Intern, Quality Assurance",
+    "locations": [
+      "Golden",
+      "CO"
+    ],
+    "link": "https://go.vansh.nyc/Xt?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-27",
+    "source": "vanshb03"
+  },
+  {
     "company": "FUTO",
     "role": "Software Engineer Intern",
     "locations": [
@@ -55565,5 +55925,764 @@
     "is_closed": false,
     "date_posted": "2026-10-28",
     "source": "vanshb03"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Sonos",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "link": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "IT and Systems Intern - Industrial Operations and Product Supply",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "link": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Systems Intern - IQ",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Quality Assurance Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Ace Hardware",
+    "role": "IT Associate Software Engineer Intern",
+    "locations": [
+      "Oak Brook, IL"
+    ],
+    "link": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Tapestry",
+    "role": "E-Commerce Intern - E-Commerce",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Associate Technical Product Manager Intern",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Sonos",
+    "role": "Software Product Management Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "link": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Workday",
+    "role": "Analytics Engineer Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "T-Mobile",
+    "role": "Associate AI Engineer Intern",
+    "locations": [
+      "Frisco, TX",
+      "Overland Park, KS"
+    ],
+    "link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Revantage Corporate Services",
+    "role": "Insurance Technology & AI Analytics Intern",
+    "locations": [
+      "Dallas, TX",
+      "Chicago, IL"
+    ],
+    "link": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "AI/ML & Data Engineering Intern",
+    "locations": [
+      "Cambridge, MA",
+      "Armonk, NY",
+      "Warren, NJ",
+      "Sleepy Hollow, NY",
+      "Tarrytown, NY"
+    ],
+    "link": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "link": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "role": "Data Analytics Intern - Dashboards & Business Process Automation",
+    "locations": [
+      "Armonk, NY",
+      "Warren, NJ",
+      "Tarrytown, NY"
+    ],
+    "link": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Marvell",
+    "role": "Data Science Intern",
+    "locations": [
+      "Boise, ID"
+    ],
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "role": "MPP Data Analytics Intern",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "link": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Data Scientist Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Data Scientist Intern - Master's",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Business Intelligence Analyst Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Applied Materials",
+    "role": "Data Science Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "American Family Insurance Group",
+    "role": "Talent Analytics Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "link": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "RTX",
+    "role": "Hardware Electrical Engineer Intern",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Engineer Intern - Connectivity",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "link": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Draper",
+    "role": "Analog ASIC Design Intern",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "link": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "simplify"
+  },
+  {
+    "company": "Sonos",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Boston",
+      "MA"
+    ],
+    "link": "https://go.vansh.nyc/XB?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Sherwin-Williams",
+    "role": "R&D Data Science Co-op",
+    "locations": [
+      "Brecksville",
+      "OH"
+    ],
+    "link": "https://go.vansh.nyc/Yv?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Schonfeld",
+    "role": "Enterprise AI Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://go.vansh.nyc/XY?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Schonfeld",
+    "role": "DMFI Intern",
+    "locations": [
+      "New York, NY",
+      "NY"
+    ],
+    "link": "https://go.vansh.nyc/Xw?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Deep Learning Research Intern",
+    "locations": [
+      "Markham"
+    ],
+    "link": "https://go.vansh.nyc/YP?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Deep Learning Research Intern, Interim Engineering Systems",
+    "locations": [
+      "Markham"
+    ],
+    "link": "https://go.vansh.nyc/Yh?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Micron Technology",
+    "role": "Data Science Intern",
+    "locations": [
+      "San Jose",
+      "CA",
+      "Folsom",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/XF?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Lockheed Martin",
+    "role": "Software Engineer Intern",
+    "locations": [
+      "Littleton",
+      "CO"
+    ],
+    "link": "https://go.vansh.nyc/XV?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Intern",
+    "locations": [
+      "Carlsbad",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YO?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Information Security Systems Engineer Intern",
+    "locations": [
+      "Salt Lake City",
+      "UT"
+    ],
+    "link": "https://go.vansh.nyc/XU?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Infleqtion",
+    "role": "Quantum Software Intern",
+    "locations": [
+      "Chicago",
+      "IL"
+    ],
+    "link": "https://go.vansh.nyc/Xz?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "HP Inc.",
+    "role": "Software Product Security Intern, HP IQ",
+    "locations": [
+      "San Francisco",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YE?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Ericsson",
+    "role": "AI and Automation Engineer Intern",
+    "locations": [
+      "Plano",
+      "TX"
+    ],
+    "link": "https://go.vansh.nyc/YK?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Disney",
+    "role": "Enterprise Technology & Data Software Engineering Intern",
+    "locations": [
+      "Orlando",
+      "FL"
+    ],
+    "link": "https://go.vansh.nyc/YL?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Disney",
+    "role": "Full Stack Web Development Intern, Walt Disney Animation Studios",
+    "locations": [
+      "Burbank",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/YM?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "CrowdStrike",
+    "role": "Overwatch Intern, Research",
+    "locations": [
+      "Arlington",
+      "VA",
+      "Austin",
+      "TX"
+    ],
+    "link": "https://go.vansh.nyc/XD?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Clean Harbors",
+    "role": "Software & Field Technology Intern",
+    "locations": [
+      "Deer Park",
+      "TX"
+    ],
+    "link": "https://go.vansh.nyc/Yj?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Broadridge",
+    "role": "Technology Intern",
+    "locations": [
+      "New York, NY",
+      "NY",
+      "Edgewood",
+      "NY",
+      "Newark",
+      "NJ"
+    ],
+    "link": "https://go.vansh.nyc/Y0?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Boston Scientific",
+    "role": "AI Solutions Engineering Intern",
+    "locations": [
+      "Arden Hills",
+      "MN"
+    ],
+    "link": "https://go.vansh.nyc/YR?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Boston Scientific",
+    "role": "R&D Software Design Intern",
+    "locations": [
+      "Arden Hills",
+      "MN"
+    ],
+    "link": "https://go.vansh.nyc/YD?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "Design and Verification Engineer Intern",
+    "locations": [
+      "Beavercreek",
+      "OH"
+    ],
+    "link": "https://go.vansh.nyc/Yk?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "ASML",
+    "role": "Software Development Engineer in Test Intern",
+    "locations": [
+      "San Diego",
+      "CA"
+    ],
+    "link": "https://go.vansh.nyc/Y2?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Apple",
+    "role": "Design Verification Engineer Intern",
+    "locations": [
+      "Beaverton",
+      "OR"
+    ],
+    "link": "https://go.vansh.nyc/Yx?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Allegion",
+    "role": "Software Systems Engineering Intern",
+    "locations": [
+      "Golden",
+      "CO"
+    ],
+    "link": "https://go.vansh.nyc/Xv?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Ace Hardware Corporation",
+    "role": "IT Associate Software Engineer Intern",
+    "locations": [
+      "Oak Brook",
+      "IL"
+    ],
+    "link": "https://go.vansh.nyc/Xx?s=y",
+    "is_closed": false,
+    "date_posted": "2026-10-28",
+    "source": "vanshb03"
+  },
+  {
+    "company": "Boston Scientific",
+    "role": "AI Solutions Engineering Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "link": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Clean Harbors",
+    "role": "Software & Field Technology Intern IS",
+    "locations": [
+      "Deer Park, TX"
+    ],
+    "link": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "LinkedIn",
+    "role": "Software Engineer Intern - First Play",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Schonfeld",
+    "role": "AI Enablement Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "AMD",
+    "role": "Masters AI Training Software & Performance Co-op",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://careers.amd.com/jobs/93476",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Infleqtion",
+    "role": "Quantum Software Intern - Quantum Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "link": "https://apply.workable.com/coldquanta/j/EB77DE8198/apply",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Tesla",
+    "role": "Data Engineer Intern - Energy",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "link": "https://www.tesla.com/careers/search/job/287982",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Sherwin-Williams",
+    "role": "R&D Data Science Co-op",
+    "locations": [
+      "Brecksville, OH"
+    ],
+    "link": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Berkshire Hathaway Energy",
+    "role": "Data Systems Intern",
+    "locations": [
+      "Bridgeport, WV"
+    ],
+    "link": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Amazon",
+    "role": "Robotics Applied Scientist 2 Intern",
+    "locations": [
+      "Seattle, WA",
+      "North Reading, MA",
+      "New York, NY",
+      "Bellevue, WA",
+      "Sunnyvale, CA",
+      "Westborough, MA"
+    ],
+    "link": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Intuitive Surgical",
+    "role": "Robotics Engineer Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "PrizePicks",
+    "role": "Business Intelligence Intern - Game Operations",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "link": "http://prizepicks.com/position?gh_jid=8047188003",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Boston Scientific",
+    "role": "R&D Software Design Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "link": "https://bostonscientific.eightfold.ai/careers/job/563602813862687",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
+  },
+  {
+    "company": "Renesas Electronics",
+    "role": "Application Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "link": "https://jobs.smartrecruiters.com/RenesasElectronics/744000158346447",
+    "is_closed": false,
+    "date_posted": "2026-10-29",
+    "source": "simplify"
   }
 ]
