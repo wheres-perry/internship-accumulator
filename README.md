@@ -1,7 +1,7 @@
 # Summer 2027 Tech Internships
 
-> *Showing active listings from the last **30 days** (since `2026-10-02`).*  
-> *Last updated: `2026-11-01 12:51 UTC`*
+> *Showing active listings from the last **30 days** (since `2026-10-03`).*  
+> *Last updated: `2026-11-02 15:02 UTC`*
 
 > **Note:** This repository is an automated aggregator and deduplicator. Sourcing and curation credit belongs to:
 > - [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
@@ -10,6 +10,8 @@
 
 | Date Posted | Company | Job Title | Locations | Application Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-02 | **Roku** | Software Engineer Intern - AI Engineering | San Jose, CA | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
+| 2026-11-02 | **CoStar Group** | Data Science Intern | Richmond, VA | [Apply](https://go.vansh.nyc/19c?s=y) |
 | 2026-11-01 | **TikTok** | Machine Learning Engineer Intern, Brand Ads | San Jose, CA | [Apply](https://go.vansh.nyc/17N?s=y) |
 | 2026-11-01 | **TikTok** | Data Science Intern, TikTok LIVE | San Jose, CA | [Apply](https://go.vansh.nyc/17O?s=y) |
 | 2026-11-01 | **TikTok** | AI Engineer Intern, TikTok-Client Arch | San Jose, CA | [Apply](https://go.vansh.nyc/17P?s=y) |
@@ -57,6 +59,10 @@
 | 2026-11-01 | **TikTok** | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA | [Apply](https://go.vansh.nyc/18F?s=y) |
 | 2026-11-01 | **TikTok** | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA | [Apply](https://go.vansh.nyc/18G?s=y) |
 | 2026-11-01 | **TikTok** | Software Engineer Project Intern, Lead Ads | San Jose, CA | [Apply](https://go.vansh.nyc/18H?s=y) |
+| 2026-11-01 | **Siemens Digital Industries Software** | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | [Apply](https://go.vansh.nyc/18U?s=y) |
+| 2026-11-01 | **Siemens Digital Industries Software** | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | [Apply](https://go.vansh.nyc/18V?s=y) |
+| 2026-11-01 | **ParetoHealth** | Software Engineering Intern | Philadelphia, PA | [Apply](https://go.vansh.nyc/19e?s=y) |
+| 2026-11-01 | **Microsoft** | First-Year Explore Program Engineering Intern | Redmond, WA | [Apply](https://go.vansh.nyc/199?s=y) |
 | 2026-11-01 | **ByteDance** | Machine Learning Engineer Intern, AML-Engine-Orchestration | Seattle, WA | [Apply](https://go.vansh.nyc/17K?s=y) |
 | 2026-11-01 | **ByteDance** | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | [Apply](https://go.vansh.nyc/17L?s=y) |
 | 2026-11-01 | **ByteDance** | Software Development Engineer Intern, Network Automation | San Jose, CA | [Apply](https://go.vansh.nyc/17M?s=y) |
@@ -96,11 +102,14 @@
 | 2026-11-01 | **ByteDance** | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA | [Apply](https://go.vansh.nyc/14A?s=y) |
 | 2026-11-01 | **ByteDance** | Security Software Engineer Project Intern, Network Security | San Jose, CA | [Apply](https://go.vansh.nyc/14B?s=y) |
 | 2026-11-01 | **ByteDance** | Software Engineer Project Intern, Security-Data | San Jose, CA | [Apply](https://go.vansh.nyc/14C?s=y) |
+| 2026-11-01 | **ByteDance** | Student Researcher Intern, Seed Model - Vision | San Jose, CA | [Apply](https://go.vansh.nyc/18Y?s=y) |
 | 2026-10-31 | **Waymo** | Research Scientist Intern | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | 2026-10-31 | **The New York Times** | Product Manager Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) |
 | 2026-10-31 | **Synopsys** | Technical Engineering Intern | Sunnyvale, CA | [Apply](https://synopsys.avature.net/careers/JobDetail/19536) |
+| 2026-10-31 | **Sycamore** | Member of Technical Staff Intern | Palo Alto, CA | [Apply](https://go.vansh.nyc/18S?s=y) |
 | 2026-10-31 | **Stripe** | Machine Learning Engineer Intern | Seattle, WA, San Francisco, CA, New York, NY | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) |
 | 2026-10-31 | **Strada Education Foundation** | Clear Outcomes and Data Science Intern | Washington, DC | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
+| 2026-10-31 | **Standard Aero** | IT Analyst Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/198?s=y) |
 | 2026-10-31 | **Pyrotek** | Product Management Intern | Spokane, WA | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000158830479) |
 | 2026-10-31 | **Obsidian Entertainment** | Gameplay Engineer Intern | Irvine, CA | [Apply](https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship) |
 | 2026-10-31 | **NVIDIA** | Software Engineering Intern | Santa Clara, CA | [Apply](https://go.vansh.nyc/12g?s=y) |
@@ -108,12 +117,25 @@
 | 2026-10-31 | **NVIDIA** | Deep Learning Intern | Santa Clara, CA | [Apply](https://go.vansh.nyc/12j?s=y) |
 | 2026-10-31 | **Molina Healthcare** | Healthcare Quality & Analytics Intern | Wisconsin | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | 2026-10-31 | **Molina Healthcare** | Customer Experience & Analytics Intern - Undergraduate | Remote in USA | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) |
+| 2026-10-31 | **Mach9** | Perception Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/18R?s=y) |
+| 2026-10-31 | **Insomniac Games** | Undergraduate Gameplay Programming Intern | Burbank, CA, Remote *(+1 more)* | [Apply](https://go.vansh.nyc/18P?s=y) |
+| 2026-10-31 | **Insomniac Games** | Undergraduate Tech Art Intern | Burbank, CA | [Apply](https://go.vansh.nyc/18Q?s=y) |
+| 2026-10-31 | **IAT Insurance Group** | Cyber Security Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/197?s=y) |
+| 2026-10-31 | **HPS Investment Partners** | Technology Intern, App Dev | New York, NY, NY | [Apply](https://go.vansh.nyc/18O?s=y) |
 | 2026-10-31 | **First Citizens BancShares** | Summer Intern - AI Innovation | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36311) |
 | 2026-10-31 | **First Citizens BancShares** | Quantitative Modeling Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36317) |
+| 2026-10-31 | **Farmers Mutual Hail** | Application Administrator Intern | West Des Moines, IA | [Apply](https://go.vansh.nyc/18N?s=y) |
+| 2026-10-31 | **FHLBank Chicago** | Application Development Intern | Chicago, IL | [Apply](https://go.vansh.nyc/196?s=y) |
+| 2026-10-31 | **Everest** | Technology Intern | Warren, NJ | [Apply](https://go.vansh.nyc/18M?s=y) |
 | 2026-10-31 | **Divergent Technologies** | Business Intelligence Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) |
+| 2026-10-31 | **DivcoWest** | AI Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/18L?s=y) |
+| 2026-10-31 | **Cencora** | Data Analytics Intern | Corona, CA | [Apply](https://go.vansh.nyc/18K?s=y) |
+| 2026-10-31 | **C&S Wholesale Grocers** | IS Intern, Web Applications | Houston, TX | [Apply](https://go.vansh.nyc/18J?s=y) |
 | 2026-10-31 | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | 2026-10-31 | **Andreessen Horowitz** | Research Intern - Frontier | New York, NY | [Apply](https://a16z.com/about/jobs/?gh_jid=8046730003) |
 | 2026-10-31 | **Amazon** | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle, WA, Austin, TX *(+6 more)* | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
+| 2026-10-31 | **AeroVect** | Autonomy Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/18I?s=y) |
+| 2026-10-31 | **1st Source** | Information Security Intern | South Bend, IN | [Apply](https://go.vansh.nyc/192?s=y) |
 | 2026-10-30 | **ZipRecruiter** | Software Engineer Intern | Santa Monica, CA | [Apply](https://go.vansh.nyc/13A?s=y) |
 | 2026-10-30 | **Wurl** | Data Science Intern | Remote, United States | [Apply](https://go.vansh.nyc/13z?s=y) |
 | 2026-10-30 | **Wex** | Software Engineer Intern | Remote, United States | [Apply](https://go.vansh.nyc/10z?s=y) |
@@ -162,6 +184,7 @@
 | 2026-10-30 | **Nordson** | Software Engineering Intern | East Providence, RI | [Apply](https://go.vansh.nyc/13g?s=y) |
 | 2026-10-30 | **Nissan** | Procurement Transformation Intern | Franklin, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279) |
 | 2026-10-30 | **Nissan** | Purchasing Transformation Intern | Franklin, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282) |
+| 2026-10-30 | **Newmont** | Resource Modeling Intern | Denver, CO | [Apply](https://jobs.newmont.com/us/en/job/45053) |
 | 2026-10-30 | **New York ISO** | IT Software Development Intern | Rensselaer, NY | [Apply](https://go.vansh.nyc/13f?s=y) |
 | 2026-10-30 | **NVIDIA** | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA | [Apply](https://go.vansh.nyc/12a?s=y) |
 | 2026-10-30 | **Modernizing Medicine** | Software Engineering Intern | Boca Raton, FL | [Apply](https://go.vansh.nyc/13e?s=y) |
@@ -170,6 +193,7 @@
 | 2026-10-30 | **Life Fitness** | IT Intern | Rosemont, IL | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323) |
 | 2026-10-30 | **Laminar** | Technical Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/13c?s=y) |
 | 2026-10-30 | **Keenfinity** | Software Engineering Intern | Lincoln, NE | [Apply](https://go.vansh.nyc/139?s=y) |
+| 2026-10-30 | **KLA** | Software Engineering Intern, C++ and Unix | Milpitas, CA | [Apply](https://go.vansh.nyc/13b?s=y) |
 | 2026-10-30 | **John D. and Catherine T. MacArthur Foundation** | Evaluation & Learning Intern | Chicago, IL | [Apply](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362) |
 | 2026-10-30 | **Ixian Robotics** | Software Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/138?s=y) |
 | 2026-10-30 | **Iridium Communications** | Software Engineering Intern | McLean, VA, Tempe *(+5 more)* | [Apply](https://go.vansh.nyc/137?s=y) |
@@ -343,6 +367,7 @@
 | 2026-10-28 | **Regeneron Pharmaceuticals** | Genomics, Computational Biology & Translational Data Science Intern | Tarrytown, NY, Sleepy Hollow *(+1 more)* | [Apply](https://go.vansh.nyc/Zj?s=y) |
 | 2026-10-28 | **Regeneron Pharmaceuticals** | IT, Digital Enablement & Information Security Intern | Tarrytown, NY, Sleepy Hollow *(+1 more)* | [Apply](https://go.vansh.nyc/Zk?s=y) |
 | 2026-10-28 | **RTX** | Hardware Electrical Engineer Intern | Cambridge, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831) |
+| 2026-10-28 | **RTX** | Software Engineer Intern | Sterling, VA | [Apply](https://go.vansh.nyc/ZE?s=y) |
 | 2026-10-28 | **Qualcomm** | Deep Learning Research Intern | Markham | [Apply](https://go.vansh.nyc/YP?s=y) |
 | 2026-10-28 | **Qualcomm** | Deep Learning Research Intern, Interim Engineering Systems | Markham | [Apply](https://go.vansh.nyc/Yh?s=y) |
 | 2026-10-28 | **Paccar** | Application Developer Intern | Chillicothe, OH | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133) |
@@ -365,9 +390,7 @@
 | 2026-10-28 | **Lockheed Martin** | Software Engineer Intern | Littleton, CO | [Apply](https://go.vansh.nyc/XV?s=y) |
 | 2026-10-28 | **Leidos** | Software Developer Intern | Annapolis Junction, MD | [Apply](https://go.vansh.nyc/ZT?s=y) |
 | 2026-10-28 | **L3Harris Technologies** | Software Engineering Intern | Carlsbad, CA | [Apply](https://go.vansh.nyc/YO?s=y) |
-| 2026-10-28 | **L3Harris Technologies** | Software Engineer Intern | Carlsbad, CA | [Apply](https://go.vansh.nyc/Yw?s=y) |
 | 2026-10-28 | **L3Harris Technologies** | Information Security Systems Engineer Intern | Salt Lake City, UT | [Apply](https://go.vansh.nyc/XU?s=y) |
-| 2026-10-28 | **KLA** | Software Engineer Intern | Milpitas, CA | [Apply](https://go.vansh.nyc/YS?s=y) |
 | 2026-10-28 | **KLA** | Software Intern | Milpitas, CA | [Apply](https://go.vansh.nyc/Zl?s=y) |
 | 2026-10-28 | **JP Morgan Chase** | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) |
 | 2026-10-28 | **Infleqtion** | Quantum Software Intern | Chicago, IL | [Apply](https://go.vansh.nyc/Xz?s=y) |
@@ -907,7 +930,6 @@
 | 2026-10-21 | **Light & Wonder** | Software Engineering Intern | Las Vegas, NV | [Apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982) |
 | 2026-10-21 | **Leidos** | Network Site Design Intern | Remote in USA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057) |
 | 2026-10-21 | **L3Harris Technologies** | Software Engineer Intern | Salt Lake City, UT | [Apply](https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700) |
-| 2026-10-21 | **Keysight Technologies** | Software Engineer Intern | Calabasas, CA | [Apply](https://jobs.keysight.com/jobs/55115) |
 | 2026-10-21 | **KeyBank** | Marketing Analytics Intern | Brooklyn, OH | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822) |
 | 2026-10-21 | **John Deere** | Software Engineer Student Intern, Product Engineering | Cary, NC | [Apply](https://johndeere.eightfold.ai/careers/job/137483990019) |
 | 2026-10-21 | **GoFundMe** | MBA Product Management Intern | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
@@ -979,6 +1001,7 @@
 | 2026-10-20 | **The Aerospace Corporation** | Embedded Software Engineer Intern, Multiple Teams | El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949) |
 | 2026-10-20 | **Texas Instruments** | Software Engineer Intern, Compiler | Sugar Land, TX | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) |
 | 2026-10-20 | **T-Mobile** | Software Engineer Intern, Cloud Security | Atlanta, GA, Frisco *(+1 more)* | [Apply](https://go.vansh.nyc/dw?s=y) |
+| 2026-10-20 | **Sycamore** | Member of Technical Staff Intern, Infrastructure | Palo Alto, CA | [Apply](https://go.vansh.nyc/18T?s=y) |
 | 2026-10-20 | **Stifel** | Technology Product Development Developer Intern | Saint Louis, MO | [Apply](https://go.vansh.nyc/D5?s=y) |
 | 2026-10-20 | **Stifel** | Data Analyst Intern | Saint Louis, MO | [Apply](https://go.vansh.nyc/D6?s=y) |
 | 2026-10-20 | **Stifel** | Information Security Intern | Saint Louis, MO | [Apply](https://go.vansh.nyc/D7?s=y) |
@@ -1446,7 +1469,6 @@
 | 2026-10-13 | **KLA Corporation** | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | [Apply](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) |
 | 2026-10-13 | **KLA** | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) |
 | 2026-10-13 | **KLA** | Software Engineering Intern | Ann Arbor, MI | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821) |
-| 2026-10-13 | **KLA** | Software Engineer Intern, AI | Ann Arbor, MI | [Apply](https://go.vansh.nyc/8G?s=y) |
 | 2026-10-13 | **Jain Global** | Quantitative Developer Intern | New York, NY | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) |
 | 2026-10-13 | **Jain Global** | Compliance Technology Intern | New York, NY, NY | [Apply](https://go.vansh.nyc/Cg?s=y) |
 | 2026-10-13 | **General Dynamics Mission Systems** | Cyber Engineering Intern | Middletown, RI | [Apply](https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job) |
@@ -1472,7 +1494,6 @@
 | 2026-10-13 | **Ascension** | Integrated Participant Solutions Analytics Intern | St. Louis, MO | [Apply](https://jobs.ascension.org/us/en/job/2026-465198) |
 | 2026-10-13 | **Armadin** | Member of Technical Staff Intern, Frontend | Palo Alto, CA | [Apply](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application) |
 | 2026-10-13 | **Aptiv** | Cloud Engineering Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8q?s=y) |
-| 2026-10-13 | **Aptiv** | Cloud Engineer Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8r?s=y) |
 | 2026-10-13 | **Aptiv** | Cloud Software Engineer Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8t?s=y) |
 | 2026-10-13 | **Aptiv** | Software Engineering Intern | CAN Kanata, ON | [Apply](https://go.vansh.nyc/8u?s=y) |
 | 2026-10-13 | **Anduril** | Firmware Engineer Intern | Costa Mesa, CA | [Apply](https://go.vansh.nyc/Cl?s=y) |
@@ -1656,7 +1677,6 @@
 | 2026-10-08 | **Jones Lang LaSalle** | AI Intern | Los Angeles, CA | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) |
 | 2026-10-08 | **Itron** | HR AI Data Science Intern | Austin, TX | [Apply](https://go.vansh.nyc/Gp?s=y) |
 | 2026-10-08 | **Illinois Tool Works** | Software Engineer Intern - Application Software | Eden Prairie, MN | [Apply](https://careers.itw.com/global/en/job/JR10491) |
-| 2026-10-08 | **Hewlett Packard Enterprise** | ASIC Engineer Intern | Sunnyvale, CA | [Apply](https://go.vansh.nyc/Gm?s=y) |
 | 2026-10-08 | **GuideWell Mutual** | IT Graduate Internship - Multiple Teams | Jacksonville, FL | [Apply](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) |
 | 2026-10-08 | **GuidePoint Security** | Cloud Infrastructure Intern | Remote, United States | [Apply](https://go.vansh.nyc/He?s=y) |
 | 2026-10-08 | **GuidePoint Security** | Application Security Intern | Remote, United States | [Apply](https://go.vansh.nyc/Hf?s=y) |
@@ -1925,55 +1945,5 @@
 | 2026-10-03 | **Affirm** | Software Engineer Intern - Machine Learning | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | 2026-10-03 | **Affirm** | Software Engineer Intern - Summer 2027 | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
 | 2026-10-03 | **AMD** | Masters Photonics Design Engineering Co-op | San Jose, CA | [Apply](https://careers.amd.com/jobs/91633) |
-| 2026-10-02 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
-| 2026-10-02 | **Walleye Capital** | Special Projects Developer Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) |
-| 2026-10-02 | **Vertiv** | Design Engineering Intern | Delaware, OH, Fort Lauderdale *(+1 more)* | [Apply](https://go.vansh.nyc/Et?s=y) |
-| 2026-10-02 | **Veeam Software** | Competitive Intelligence AI Engineer Intern | Georgia | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) |
-| 2026-10-02 | **Varda Space** | Mission Operations Intern - Summer 2027 | El Segundo, CA | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
-| 2026-10-02 | **Vanguard** | College to Corporate Investment Systems Intern | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782) |
-| 2026-10-02 | **Vanguard** | College to Corporate IT Intern - Application Development | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) |
-| 2026-10-02 | **SeatGeek** | Data Analyst Intern | New York, NY | [Apply](https://seatgeek.com/jobs/8247554?gh_jid=8247554) |
-| 2026-10-02 | **SAS** | Software Development and Testing Intern | Cary, NC | [Apply](https://careers-sas.icims.com/jobs/42964/job) |
-| 2026-10-02 | **Rubrik** | Product Growth Intern - MBA | Palo Alto, CA | [Apply](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) |
-| 2026-10-02 | **Riot Games** | Software Engineer Intern | Los Angeles, CA | [Apply](https://job-boards.greenhouse.io/riotgamesup/jobs/8222015) |
-| 2026-10-02 | **Regeneron Pharmaceuticals** | Precision Medicine Operations Co-op | Armonk, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
-| 2026-10-02 | **Regeneron Pharmaceuticals** | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
-| 2026-10-02 | **Pinterest** | UX Engineering Intern | San Francisco, CA | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
-| 2026-10-02 | **Pinterest** | Software Engineer Intern | San Francisco, CA, Remote in USA | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
-| 2026-10-02 | **Pinterest** | Machine Learning Intern | Palo Alto, CA, Seattle, WA, San Francisco, CA *(+1 more)* | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
-| 2026-10-02 | **Pinterest** | Data Science Intern | Palo Alto, CA, Seattle, WA, San Francisco, CA *(+1 more)* | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
-| 2026-10-02 | **Pinterest** | UX Quantitative Research Intern | Remote in USA | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
-| 2026-10-02 | **Northrop Grumman** | College Technical Intern | McLean, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
-| 2026-10-02 | **New York Mets** | Data Science Intern | Queens, NY | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) |
-| 2026-10-02 | **Nelnet** | IT Software Engineer Intern | Lincoln, NE | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198) |
-| 2026-10-02 | **Muon Space** | Electrical Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
-| 2026-10-02 | **Mindex** | Software Engineer Co-op | Rochester, NY | [Apply](https://apply.workable.com/mindex/j/84B10DB922/apply) |
-| 2026-10-02 | **MFS** | Enterprise Data Management Intern | Boston, MA | [Apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987) |
-| 2026-10-02 | **Leidos** | Software Developer Intern | Annapolis Junction, MD | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804) |
-| 2026-10-02 | **Leidos** | Technical Intern | Remote in USA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820) |
-| 2026-10-02 | **Intuit** | Business Data Analyst Intern - Strategy & Planning | Mountain View, CA | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360) |
-| 2026-10-02 | **Houlihan Lokey** | Financial Analyst - Corporate Valuation Advisory Services - Complex Securities | Los Angeles, CA, New York, NY | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3632) |
-| 2026-10-02 | **HNTB** | AI Business Process Developer Intern | Austin, TX | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) |
-| 2026-10-02 | **Great American Insurance Company** | Enterprise Analytics Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) |
-| 2026-10-02 | **Glean** | Software Engineer Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005) |
-| 2026-10-02 | **General Motors** | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA, Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
-| 2026-10-02 | **General Motors** | Machine Learning Engineer Intern - AV/AI Platform | Sunnyvale, CA | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
-| 2026-10-02 | **General Motors** | Systems/Calibration Engineer Intern - ADAS Drive | Milford, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623) |
-| 2026-10-02 | **Farmers Mutual Hail** | Data Architect Intern | West Des Moines, IA | [Apply](https://go.vansh.nyc/17C?s=y) |
-| 2026-10-02 | **Elevance Health** | Engineering Intern | Indianapolis, IN, Richmond, VA, Chicago, IL *(+1 more)* | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081) |
-| 2026-10-02 | **Elevance Health** | Engineering Graduate Intern | Indianapolis, IN, Richmond, VA, Chicago, IL *(+1 more)* | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082) |
-| 2026-10-02 | **Elevance Health** | Data Analytics Intern | Indianapolis, IN, Richmond, VA, Chicago, IL *(+1 more)* | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076) |
-| 2026-10-02 | **Elevance Health** | Data Analyst Graduate Intern | Indianapolis, IN, Richmond, VA, Chicago, IL *(+1 more)* | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1) |
-| 2026-10-02 | **Datacor** | Data Science Intern - Summer 2027 - Program | Remote in USA | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5242412007) |
-| 2026-10-02 | **Corgan** | Software Development Intern | Dallas, TX | [Apply](https://campus-us-corgan.icims.com/jobs/4109/job) |
-| 2026-10-02 | **Charter Manufacturing** | Smart Manufacturing Engineer Intern | Mequon, WI, Saukville, WI | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) |
-| 2026-10-02 | **Centene** | Medical Economics Intern | Missouri | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) |
-| 2026-10-02 | **Bedrock Robotics** | Product Intern | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true) |
-| 2026-10-02 | **BNY** | Product Management Intern - Program Management | Pittsburgh, PA | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
-| 2026-10-02 | **BNY** | Product Management Intern | Lake Mary, FL | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
-| 2026-10-02 | **Arc** | Software Engineer Intern | Torrance, CA | [Apply](https://go.vansh.nyc/Eu?s=y) |
-| 2026-10-02 | **American Family Insurance Group** | GenAI/ML Intern | Madison, WI, Boston, MA | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) |
-| 2026-10-02 | **American Bankers Association** | Quantitative Research Intern | Washington, DC | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) |
-| 2026-10-02 | **Amazon** | Software Engineer Intern | Seattle, WA, Jessup, MD, Arlington County, Arlington, VA *(+1 more)* | [Apply](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
 
-*Total Active Opportunities: 1965*
+*Total Active Opportunities: 1935*
